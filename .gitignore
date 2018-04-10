@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+presidencies/
+packrat/lib*/
+jrc_acquis_metadata.csv
+topics_matrice_commission.csv
+texts_jrc/
