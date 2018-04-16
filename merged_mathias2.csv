@@ -1,0 +1,587 @@
+topic_id,tokens,term,dist,french,length,profondeur,category,link,bt1,mt,domain
+0,aid,aid,0,soutien économique,1,1,used_for,http://eurovoc.europa.eu/712,aid,MT 1606 economic policy,16 ECONOMICS
+0,butteroil,butter oil,0.00666666666666669,butteroil,2,2,descriptor,http://eurovoc.europa.eu/5073,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+0,food,food,0,nutrition,1,1,used_for,http://eurovoc.europa.eu/1268,food,MT 2841 health,28 SOCIAL QUESTIONS
+0,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+0,supply,supply,0,approvisionnement,1,1,descriptor,http://eurovoc.europa.eu/2292,supply,MT 2016 trade,20 TRADE
+2,date,date,0,fruit tropical,1,2,used_for,http://eurovoc.europa.eu/1120,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+2,export,export,0,exportation,1,2,descriptor,http://eurovoc.europa.eu/946,trading operation,MT 2016 trade,20 TRADE
+2,export,export (EU),0,exportation (UE),2,3,descriptor,http://eurovoc.europa.eu/3190,export,MT 2016 trade,20 TRADE
+2,quota,quota,0,restriction quantitative,1,3,used_for,http://eurovoc.europa.eu/3591,non-tariff barrier,MT 2021 international trade,20 TRADE
+2,sugar,sugar,0,sucre,1,1,descriptor,http://eurovoc.europa.eu/4314,sugar,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+4,households,household,0.00666666666666669,ménage,1,2,descriptor,http://eurovoc.europa.eu/1864,composition of the population,MT 2816 demography and population,28 SOCIAL QUESTIONS
+4,manpower,manpower,0,main-d'œuvre,1,1,used_for,http://eurovoc.europa.eu/1737,manpower,MT 4411 labour market,44 EMPLOYMENT AND WORKING CONDITIONS
+5,water,water,0,eau,1,3,descriptor,http://eurovoc.europa.eu/597,aquatic environment,MT 5211 natural environment,52 ENVIRONMENT
+6,communication,communications,0.00476190476190475,politique de la communication,1,1,used_for,http://eurovoc.europa.eu/2473,communications,MT 3226 communications,32 EDUCATION AND COMMUNICATIONS
+6,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+8,bangladesh,Bangladesh,0,Bangladesh,1,2,descriptor,http://eurovoc.europa.eu/4732,South Asia || SAARC countries,MT 7226 Asia and Oceania || MT 7231 economic geography,72 GEOGRAPHY
+8,cotton,cotton,0,coton,1,2,descriptor,http://eurovoc.europa.eu/252,textile plant,MT 6006 plant product,60 AGRI-FOODSTUFFS
+8,fabrics,fabric,0.00952380952380953,produit textile,1,2,used_for,http://eurovoc.europa.eu/2783,textile industry,MT 6841 leather and textile industries,68 INDUSTRY
+8,government,government,0,gouvernement,1,2,descriptor,http://eurovoc.europa.eu/1172,executive body,MT 0436 executive power and public service,04 POLITICS
+8,silk,silk,0,soie,1,2,descriptor,http://eurovoc.europa.eu/4207,animal product,MT 6011 animal product,60 AGRI-FOODSTUFFS
+9,compensation,compensation,0,indemnisation,1,3,used_for,http://eurovoc.europa.eu/1339,liability,MT 1211 civil law,12 LAW
+9,competitiveness,competitiveness,0,compétitivité,1,2,descriptor,http://eurovoc.europa.eu/45,business policy,MT 4006 business organisation,40 BUSINESS AND COMPETITION
+11,consumption,consumption,0,consommation,1,1,descriptor,http://eurovoc.europa.eu/139,consumption,MT 2026 consumption,20 TRADE
+11,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+11,savings,savings,0,épargne,1,2,descriptor,http://eurovoc.europa.eu/834,income,MT 1626 national accounts,16 ECONOMICS
+11,supply,supply,0,approvisionnement,1,1,descriptor,http://eurovoc.europa.eu/2292,supply,MT 2016 trade,20 TRADE
+13,rice,rice,0,riz,1,2,descriptor,http://eurovoc.europa.eu/3732,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+14,clothing,clothing,0,vêtement,1,3,descriptor,http://eurovoc.europa.eu/4680,clothing industry,MT 6841 leather and textile industries,68 INDUSTRY
+14,petroleum,petroleum,0,pétrole,1,2,descriptor,http://eurovoc.europa.eu/2366,hydrocarbon,MT 6616 oil industry,66 ENERGY
+18,agreements,agreement (EU),0.00666666666666669,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+18,pollution,pollution,0,pollution,1,1,descriptor,http://eurovoc.europa.eu/2524,pollution,MT 5216 deterioration of the environment,52 ENVIRONMENT
+19,maintenance,maintenance,0,entretien,1,3,descriptor,http://eurovoc.europa.eu/831,organisation of production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+19,sections,section,0.00833333333333335,profilé,1,2,descriptor,http://eurovoc.europa.eu/3803,materials technology,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+20,butter,butter,0,beurre,1,2,descriptor,http://eurovoc.europa.eu/4860,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+20,chickens,chicken,0.00833333333333335,volaille,1,2,used_for,http://eurovoc.europa.eu/4743,animal production,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+20,date,date,0,fruit tropical,1,2,used_for,http://eurovoc.europa.eu/1120,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+20,standards,standard,0.00740740740740742,norme,1,3,descriptor,http://eurovoc.europa.eu/2077,standardisation,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+20,water,water,0,eau,1,3,descriptor,http://eurovoc.europa.eu/597,aquatic environment,MT 5211 natural environment,52 ENVIRONMENT
+24,market,market,0,marché,1,1,descriptor,http://eurovoc.europa.eu/1786,market,MT 2006 trade policy,20 TRADE
+25,account,account,0,compte,1,2,descriptor,http://eurovoc.europa.eu/61,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+25,wheat,wheat,0,blé,1,2,descriptor,http://eurovoc.europa.eu/4994,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+28,barley,barley,0,orge,1,2,descriptor,http://eurovoc.europa.eu/2193,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+28,cereals,cereals,0,céréale,1,1,descriptor,http://eurovoc.europa.eu/5360,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+28,rice,rice,0,riz,1,2,descriptor,http://eurovoc.europa.eu/3732,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+28,wheat,wheat,0,blé,1,2,descriptor,http://eurovoc.europa.eu/4994,cereals,MT 6006 plant product,60 AGRI-FOODSTUFFS
+29,interests,interest,0.00740740740740742,intérêt,1,3,descriptor,http://eurovoc.europa.eu/1476,cost of borrowing,MT 2416 financial institutions and credit,24 FINANCE
+29,promotions,promotion,0.00666666666666669,promotion professionnelle,1,3,descriptor,http://eurovoc.europa.eu/2807,professional career,MT 4421 personnel management and staff remuneration,44 EMPLOYMENT AND WORKING CONDITIONS
+31,state,State,0,État,1,1,descriptor,http://eurovoc.europa.eu/883,State,MT 0406 political framework,04 POLITICS
+34,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+34,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+34,family,family,0,famille,1,1,descriptor,http://eurovoc.europa.eu/965,family,MT 2806 family,28 SOCIAL QUESTIONS
+35,italy,Italy,0,Italie,1,2,descriptor,http://eurovoc.europa.eu/1519,Southern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || WEU countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+35,prices,prices,0,prix,1,1,descriptor,http://eurovoc.europa.eu/2632,prices,MT 2451 prices,24 FINANCE
+36,economic,economics,0.00740740740740742,science économique,1,2,descriptor,http://eurovoc.europa.eu/3933,social sciences,MT 3611 humanities,36 SCIENCE
+36,prices,prices,0,prix,1,1,descriptor,http://eurovoc.europa.eu/2632,prices,MT 2451 prices,24 FINANCE
+37,gas,gas,0,gaz,1,3,descriptor,http://eurovoc.europa.eu/1139,fuel,MT 6606 energy policy,66 ENERGY
+37,hydrocarbons,hydrocarbon,0.00555555555555558,hydrocarbure,1,1,descriptor,http://eurovoc.europa.eu/1274,hydrocarbon,MT 6616 oil industry,66 ENERGY
+37,information,information,0,information,1,1,descriptor,http://eurovoc.europa.eu/1422,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+37,research,research,0,recherche,1,1,descriptor,http://eurovoc.europa.eu/2914,research,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+37,sea,sea,0,mer,1,2,descriptor,http://eurovoc.europa.eu/1870,geophysical environment,MT 5211 natural environment,52 ENVIRONMENT
+37,sea,SEA,0,Acte unique européen,1,2,used_for,http://eurovoc.europa.eu/4034,European treaties,MT 1011 European Union law,10 EUROPEAN UNION
+38,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+38,euratom,Euratom,0,CEEA,1,2,used_for,http://eurovoc.europa.eu/5344,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+38,information,information,0,information,1,1,descriptor,http://eurovoc.europa.eu/1422,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+38,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+38,sweden,Sweden,0,Suède,1,2,descriptor,http://eurovoc.europa.eu/4320,Northern Europe || EU Member State || OECD countries || Council of Europe countries || Nordic Council countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+41,country,county,0.00952380952380953,comté,1,2,descriptor,http://eurovoc.europa.eu/65,regional and local authorities,MT 0436 executive power and public service,04 POLITICS
+41,date,date,0,fruit tropical,1,2,used_for,http://eurovoc.europa.eu/1120,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+41,delivery,delivery,0,livraison,1,2,descriptor,http://eurovoc.europa.eu/1684,distributive trades,MT 2036 distributive trades,20 TRADE
+41,economic,economics,0.00740740740740742,science économique,1,2,descriptor,http://eurovoc.europa.eu/3933,social sciences,MT 3611 humanities,36 SCIENCE
+41,country,in country,0,pays participant,2,4,used_for,http://eurovoc.europa.eu/6360,euro area,MT 2406 monetary relations,24 FINANCE
+41,port,port,0,installation portuaire,1,2,used_for,http://eurovoc.europa.eu/1447,ports policy,MT 4821 maritime and inland waterway transport,48 TRANSPORT
+41,vessel,vessel,0,bateau,1,2,descriptor,http://eurovoc.europa.eu/4827,maritime transport,MT 4821 maritime and inland waterway transport,48 TRANSPORT
+43,customs,customs,0,douane,1,2,descriptor,http://eurovoc.europa.eu/502,customs regulations,MT 2011 tariff policy,20 TRADE
+43,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+45,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+45,leather,leather,0,cuir,1,2,descriptor,http://eurovoc.europa.eu/315,leather industry,MT 6841 leather and textile industries,68 INDUSTRY
+45,wire,wire,0,fil,1,3,descriptor,http://eurovoc.europa.eu/996,non-flat product,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+48,beef,beef,0,viande bovine,1,3,descriptor,http://eurovoc.europa.eu/4682,meat,MT 6011 animal product,60 AGRI-FOODSTUFFS
+48,milk,milk,0,lait,1,2,descriptor,http://eurovoc.europa.eu/1565,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+48,sale,sale,0,vente,1,2,descriptor,http://eurovoc.europa.eu/4663,commercial transaction,MT 2031 marketing,20 TRADE
+48,veal,veal,0,viande de veau,1,4,descriptor,http://eurovoc.europa.eu/4686,beef,MT 6011 animal product,60 AGRI-FOODSTUFFS
+49,stone,stone,0,pierre,1,3,descriptor,http://eurovoc.europa.eu/6822,building materials,MT 6831 building and public works,68 INDUSTRY
+50,fisheries,fisheries,0,lieu de pêche,1,1,used_for,http://eurovoc.europa.eu/1652,fisheries,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+50,law,law,0,science juridique,1,1,used_for,http://eurovoc.europa.eu/3935,law,MT 1206 sources and branches of the law,12 LAW
+50,national,national,0,ressortissant,1,2,descriptor,http://eurovoc.europa.eu/3521,private international law,MT 1231 international law,12 LAW
+58,aluminium,aluminium,0,aluminium,1,3,descriptor,http://eurovoc.europa.eu/1446,non-ferrous metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+58,copper,copper,0,cuivre,1,3,descriptor,http://eurovoc.europa.eu/316,non-ferrous metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+58,export,export,0,exportation,1,2,descriptor,http://eurovoc.europa.eu/946,trading operation,MT 2016 trade,20 TRADE
+58,export,export (EU),0,exportation (UE),2,3,descriptor,http://eurovoc.europa.eu/3190,export,MT 2016 trade,20 TRADE
+58,lead,lead,0,plomb,1,3,descriptor,http://eurovoc.europa.eu/2428,non-ferrous metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+58,quota,quota,0,restriction quantitative,1,3,used_for,http://eurovoc.europa.eu/3591,non-tariff barrier,MT 2021 international trade,20 TRADE
+58,scrap,scrap,0,déchet métallique,1,2,used_for,http://eurovoc.europa.eu/5294,waste,MT 5216 deterioration of the environment,52 ENVIRONMENT
+58,waste,waste,0,déchet,1,1,descriptor,http://eurovoc.europa.eu/343,waste,MT 5216 deterioration of the environment,52 ENVIRONMENT
+59,copper,copper,0,cuivre,1,3,descriptor,http://eurovoc.europa.eu/316,non-ferrous metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+59,customs,customs,0,douane,1,2,descriptor,http://eurovoc.europa.eu/502,customs regulations,MT 2011 tariff policy,20 TRADE
+59,heading,heading,0,classification,1,3,used_for,http://eurovoc.europa.eu/6004,information analysis,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+59,protocol,protocol,0,protocole,1,2,descriptor,http://eurovoc.europa.eu/6884,political institution,MT 0406 political framework,04 POLITICS
+59,protocol,Protocol (EU),0,protocole (UE),2,2,descriptor,http://eurovoc.europa.eu/4031,European treaties,MT 1011 European Union law,10 EUROPEAN UNION
+61,gdp,GDP,0,produit intérieur brut,1,3,used_for,http://eurovoc.europa.eu/2761,economic aggregate,MT 1626 national accounts,16 ECONOMICS
+61,inflation,inflation,0,inflation,1,2,descriptor,http://eurovoc.europa.eu/1421,economic cycle,MT 1611 economic conditions,16 ECONOMICS
+61,unemployment,unemployment,0,chômage,1,1,descriptor,http://eurovoc.europa.eu/5974,unemployment,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS
+62,date,date,0,fruit tropical,1,2,used_for,http://eurovoc.europa.eu/1120,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+65,letters,letter,0.00952380952380953,correspondance,1,2,used_for,http://eurovoc.europa.eu/242,document,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+65,morocco,Morocco,0,Maroc,1,4,descriptor,http://eurovoc.europa.eu/1819,Maghreb || Mediterranean third countries || Arab League countries || Arab world [4.5],MT 7221 Africa || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+65,tunisia,Tunisia,0,Tunisie,1,4,descriptor,http://eurovoc.europa.eu/4578,Maghreb || Mediterranean third countries || Arab League countries || Arab world [4.5],MT 7221 Africa || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+67,beam,beam,0,bois de construction,1,3,used_for,http://eurovoc.europa.eu/5014,wood product,MT 6836 wood industry,68 INDUSTRY
+67,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+67,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+68,eec,EEC,0,Communauté européenne,1,2,used_for,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+68,regulation,regulation,0,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+68,regulation,regulation (EU),0,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+70,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+70,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+70,sewing,sewing,0,industrie textile,1,1,used_for,http://eurovoc.europa.eu/1418,sewing,MT 6841 leather and textile industries,68 INDUSTRY
+71,establishment,establishment,0,établissement,1,2,descriptor,http://eurovoc.europa.eu/871,company structure,MT 4006 business organisation,40 BUSINESS AND COMPETITION
+71,regulations,regulation,0.00606060606060605,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+71,regulations,regulation (EU),0.00606060606060605,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+73,bank,bank,0,banque,1,2,descriptor,http://eurovoc.europa.eu/4738,financial institution,MT 2416 financial institutions and credit,24 FINANCE
+73,cost,COST,0,COST,1,2,descriptor,http://eurovoc.europa.eu/5236,research policy,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+74,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+74,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+74,flavourings,flavouring,0.00606060606060605,aromatisant,1,2,descriptor,http://eurovoc.europa.eu/2658,food additive,MT 6036 food technology,60 AGRI-FOODSTUFFS
+74,flavouring,flavouring,0,aromatisant,1,2,descriptor,http://eurovoc.europa.eu/2658,food additive,MT 6036 food technology,60 AGRI-FOODSTUFFS
+74,food,food,0,nutrition,1,1,used_for,http://eurovoc.europa.eu/1268,food,MT 2841 health,28 SOCIAL QUESTIONS
+74,foodstuffs,foodstuff,0.00666666666666669,produit alimentaire,1,1,descriptor,http://eurovoc.europa.eu/2735,foodstuff,MT 6026 foodstuff,60 AGRI-FOODSTUFFS
+75,greece,Greece,0,Grèce,1,2,descriptor,http://eurovoc.europa.eu/1182,Southern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || WEU countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+75,law,law,0,science juridique,1,1,used_for,http://eurovoc.europa.eu/3935,law,MT 1206 sources and branches of the law,12 LAW
+77,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+77,departments,department (France),0.00606060606060605,département,2,2,descriptor,http://eurovoc.europa.eu/390,regional and local authorities,MT 0436 executive power and public service,04 POLITICS
+77,opinion,opinion,0,avis,1,2,descriptor,http://eurovoc.europa.eu/4449,legislative procedure,MT 0426 parliamentary proceedings,04 POLITICS
+77,opinion,opinion (EU),0,avis (UE),2,2,descriptor,http://eurovoc.europa.eu/6284,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+77,parliament,parliament,0,parlement,1,1,descriptor,http://eurovoc.europa.eu/2242,parliament,MT 0421 parliament,04 POLITICS
+77,proposal,proposal (EU),0,proposition (UE),2,3,descriptor,http://eurovoc.europa.eu/2809,drafting of EU law,MT 1011 European Union law,10 EUROPEAN UNION
+84,euratom,Euratom,0,CEEA,1,2,used_for,http://eurovoc.europa.eu/5344,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+84,regulation,regulation,0,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+84,regulation,regulation (EU),0,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+85,decision,decision,0,décision,1,4,descriptor,http://eurovoc.europa.eu/348,regulation,MT 1206 sources and branches of the law,12 LAW
+85,decision,decision (EU),0,décision (UE),2,2,descriptor,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+85,republic,republic,0,république,1,2,descriptor,http://eurovoc.europa.eu/3413,political system,MT 0406 political framework,04 POLITICS
+86,brucellosis,brucellosis,0,brucellose,1,3,descriptor,http://eurovoc.europa.eu/5047,animal disease,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+86,cattle,cattle,0,bovin,1,2,descriptor,http://eurovoc.europa.eu/5034,livestock,MT 5626 means of agricultural production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+86,denmark,Denmark,0,Danemark,1,2,descriptor,http://eurovoc.europa.eu/336,Northern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || Nordic Council countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+86,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+86,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+86,ireland,Ireland,0,Irlande,1,2,descriptor,http://eurovoc.europa.eu/1504,Western Europe || EU Member State || OECD countries || Council of Europe countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+86,tuberculosis,tuberculosis,0,maladie infectieuse,1,2,used_for,http://eurovoc.europa.eu/1759,illness,MT 2841 health,28 SOCIAL QUESTIONS
+89,provisions,provision,0.00666666666666669,réserve comptable,1,2,descriptor,http://eurovoc.europa.eu/3446,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+92,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+92,dumping,dumping,0,dumping,1,2,descriptor,http://eurovoc.europa.eu/588,restriction on competition,MT 4031 competition,40 BUSINESS AND COMPETITION
+95,dairy,dairy,0,industrie laitière,1,2,used_for,http://eurovoc.europa.eu/1406,food industry,MT 6031 agri-foodstuffs,60 AGRI-FOODSTUFFS
+95,meat,meat,0,viande,1,2,descriptor,http://eurovoc.europa.eu/4681,animal product,MT 6011 animal product,60 AGRI-FOODSTUFFS
+95,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+98,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+98,auditors,auditor,0.00833333333333335,comptable,1,2,used_for,http://eurovoc.europa.eu/60,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+98,eua,EUA,0,droits d'émissions UE,1,3,used_for,http://eurovoc.europa.eu/435007,emission allowance,MT 5206 environmental policy,52 ENVIRONMENT
+98,eua,EUA,0,monnaie européenne,1,1,used_for,http://eurovoc.europa.eu/6332,EUA,MT 2406 monetary relations,24 FINANCE
+98,interest,interest,0,intérêt,1,3,descriptor,http://eurovoc.europa.eu/1476,cost of borrowing,MT 2416 financial institutions and credit,24 FINANCE
+99,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+99,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+99,economic,economics,0.00740740740740742,science économique,1,2,descriptor,http://eurovoc.europa.eu/3933,social sciences,MT 3611 humanities,36 SCIENCE
+99,government,government,0,gouvernement,1,2,descriptor,http://eurovoc.europa.eu/1172,executive body,MT 0436 executive power and public service,04 POLITICS
+99,republic,republic,0,république,1,2,descriptor,http://eurovoc.europa.eu/3413,political system,MT 0406 political framework,04 POLITICS
+100,fat,fat,0,corps gras,1,1,used_for,http://eurovoc.europa.eu/239,fat,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+100,meat,meat,0,viande,1,2,descriptor,http://eurovoc.europa.eu/4681,animal product,MT 6011 animal product,60 AGRI-FOODSTUFFS
+100,offal,offal,0,abats,1,3,descriptor,http://eurovoc.europa.eu/920,meat,MT 6011 animal product,60 AGRI-FOODSTUFFS
+100,pig,pig,0,porcin,1,2,used_for,http://eurovoc.europa.eu/2560,livestock,MT 5626 means of agricultural production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+100,pigmeat,pigmeat,0,viande porcine,1,3,descriptor,http://eurovoc.europa.eu/4692,meat,MT 6011 animal product,60 AGRI-FOODSTUFFS
+102,provisions,provision,0.00666666666666669,réserve comptable,1,2,descriptor,http://eurovoc.europa.eu/3446,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+104,research,research,0,recherche,1,1,descriptor,http://eurovoc.europa.eu/2914,research,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+104,swine,swine,0,porcin,1,2,descriptor,http://eurovoc.europa.eu/2560,livestock,MT 5626 means of agricultural production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+106,exports,export,0.00952380952380953,exportation,1,2,descriptor,http://eurovoc.europa.eu/946,trading operation,MT 2016 trade,20 TRADE
+106,exports,export (EU),0.00952380952380953,exportation (UE),2,3,descriptor,http://eurovoc.europa.eu/3190,export,MT 2016 trade,20 TRADE
+106,proposals,proposal (EU),0.00740740740740742,proposition (UE),2,3,descriptor,http://eurovoc.europa.eu/2809,drafting of EU law,MT 1011 European Union law,10 EUROPEAN UNION
+107,enterprises,enterprise,0.00606060606060605,esprit d'entreprise,1,2,used_for,http://eurovoc.europa.eu/6749,business activity,MT 4006 business organisation,40 BUSINESS AND COMPETITION
+107,gold,gold,0,or,1,3,descriptor,http://eurovoc.europa.eu/2156,precious metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+109,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+109,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+109,women,women,0,femme,1,3,used_for,http://eurovoc.europa.eu/5280,distribution by sex,MT 2816 demography and population,28 SOCIAL QUESTIONS
+111,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+111,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+111,regulations,regulation,0.00606060606060605,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+111,regulations,regulation (EU),0.00606060606060605,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+114,approval,approval,0,homologation,1,3,descriptor,http://eurovoc.europa.eu/1252,standardisation,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+114,state,State,0,État,1,1,descriptor,http://eurovoc.europa.eu/883,State,MT 0406 political framework,04 POLITICS
+115,evidence,evidence,0,témoignage,1,3,descriptor,http://eurovoc.europa.eu/4434,legal hearing,MT 1221 justice,12 LAW
+116,beef,beef,0,viande bovine,1,3,descriptor,http://eurovoc.europa.eu/4682,meat,MT 6011 animal product,60 AGRI-FOODSTUFFS
+116,export,export,0,exportation,1,2,descriptor,http://eurovoc.europa.eu/946,trading operation,MT 2016 trade,20 TRADE
+116,export,export (EU),0,exportation (UE),2,3,descriptor,http://eurovoc.europa.eu/3190,export,MT 2016 trade,20 TRADE
+116,import,import,0,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+116,import,import (EU),0,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+116,veal,veal,0,viande de veau,1,4,descriptor,http://eurovoc.europa.eu/4686,beef,MT 6011 animal product,60 AGRI-FOODSTUFFS
+117,trimmings,trimmings,0,mercerie,1,2,used_for,http://eurovoc.europa.eu/3890,textile industry,MT 6841 leather and textile industries,68 INDUSTRY
+119,quota,quota,0,restriction quantitative,1,3,used_for,http://eurovoc.europa.eu/3591,non-tariff barrier,MT 2021 international trade,20 TRADE
+120,dumping,dumping,0,dumping,1,2,descriptor,http://eurovoc.europa.eu/588,restriction on competition,MT 4031 competition,40 BUSINESS AND COMPETITION
+120,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+120,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+121,demand,demand,0,offre et demande,1,1,used_for,http://eurovoc.europa.eu/2128,demand,MT 2016 trade,20 TRADE
+121,investment,investment,0,investissement,1,1,descriptor,http://eurovoc.europa.eu/1488,investment,MT 2426 financing and investment,24 FINANCE
+121,labour,labour,0,travail,1,1,used_for,http://eurovoc.europa.eu/4543,labour,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS
+121,rates,rates,0,impôt foncier,1,2,used_for,http://eurovoc.europa.eu/1314,tax on income,MT 2446 taxation,24 FINANCE
+122,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+122,wine-growing,winegrowing,0.00555555555555558,viticulture,1,2,used_for,http://eurovoc.europa.eu/4734,crop production,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+123,decision,decision,0,décision,1,4,descriptor,http://eurovoc.europa.eu/348,regulation,MT 1206 sources and branches of the law,12 LAW
+123,decision,decision (EU),0,décision (UE),2,2,descriptor,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+123,financing,financing,0,financement,1,1,descriptor,http://eurovoc.europa.eu/1000,financing,MT 2426 financing and investment,24 FINANCE
+123,livestock,livestock,0,cheptel,1,1,descriptor,http://eurovoc.europa.eu/5962,livestock,MT 5626 means of agricultural production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+127,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+127,aid,aid,0,soutien économique,1,1,used_for,http://eurovoc.europa.eu/712,aid,MT 1606 economic policy,16 ECONOMICS
+127,association,association,0,association,1,3,descriptor,http://eurovoc.europa.eu/2944,collective activities,MT 2826 social affairs,28 SOCIAL QUESTIONS
+129,leave,leave,0,temps de repos,1,3,used_for,http://eurovoc.europa.eu/4435,working time,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS
+129,legislation,legislation,0,législation,1,2,descriptor,http://eurovoc.europa.eu/1589,source of law,MT 1206 sources and branches of the law,12 LAW
+129,services,service,0.00833333333333335,service,1,2,descriptor,http://eurovoc.europa.eu/4099,goods and services,MT 2026 consumption,20 TRADE
+131,delivery,delivery,0,livraison,1,2,descriptor,http://eurovoc.europa.eu/1684,distributive trades,MT 2036 distributive trades,20 TRADE
+131,milk,milk,0,lait,1,2,descriptor,http://eurovoc.europa.eu/1565,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+131,tender,tender,0,soumission d'offres,1,2,used_for,http://eurovoc.europa.eu/4219,public contract,MT 2006 trade policy,20 TRADE
+131,tenders,tender,0.00952380952380953,soumission d'offres,1,2,used_for,http://eurovoc.europa.eu/4219,public contract,MT 2006 trade policy,20 TRADE
+132,commodity,commodity,0,produit de base,1,2,used_for,http://eurovoc.europa.eu/2748,international trade,MT 2021 international trade,20 TRADE
+134,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+134,family,family,0,famille,1,1,descriptor,http://eurovoc.europa.eu/965,family,MT 2806 family,28 SOCIAL QUESTIONS
+134,men,men,0,homme,1,3,used_for,http://eurovoc.europa.eu/5281,distribution by sex,MT 2816 demography and population,28 SOCIAL QUESTIONS
+134,provisions,provision,0.00666666666666669,réserve comptable,1,2,descriptor,http://eurovoc.europa.eu/3446,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+137,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+137,bolivia,Bolivia,0,Bolivie,1,3,descriptor,http://eurovoc.europa.eu/5020,South America || ALADI countries || Andean Community countries || LAES countries || OAS countries,MT 7216 America || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+137,economic,economics,0.00740740740740742,science économique,1,2,descriptor,http://eurovoc.europa.eu/3933,social sciences,MT 3611 humanities,36 SCIENCE
+137,group,group (EP),0,groupe politique (PE),2,3,used_for,http://eurovoc.europa.eu/443167,European Parliament,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+138,hovercraft,hovercraft,0,véhicule à coussin d'air,1,3,used_for,http://eurovoc.europa.eu/4652,vehicle,MT 4811 organisation of transport,48 TRANSPORT
+138,parliament,parliament,0,parlement,1,1,descriptor,http://eurovoc.europa.eu/2242,parliament,MT 0421 parliament,04 POLITICS
+139,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+139,waste,waste,0,déchet,1,1,descriptor,http://eurovoc.europa.eu/343,waste,MT 5216 deterioration of the environment,52 ENVIRONMENT
+140,bank,bank,0,banque,1,2,descriptor,http://eurovoc.europa.eu/4738,financial institution,MT 2416 financial institutions and credit,24 FINANCE
+140,currency,currency,0,monnaie,1,2,used_for,http://eurovoc.europa.eu/1969,money market,MT 2411 monetary economics,24 FINANCE
+140,decision,decision,0,décision,1,4,descriptor,http://eurovoc.europa.eu/348,regulation,MT 1206 sources and branches of the law,12 LAW
+140,decision,decision (EU),0,décision (UE),2,2,descriptor,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+140,documents,document,0.00740740740740742,document,1,1,descriptor,http://eurovoc.europa.eu/486,document,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+140,edf,EDF,0,FED,1,2,descriptor,http://eurovoc.europa.eu/4055,aid policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+140,expenditure,expenditure,0,dépense,1,3,descriptor,http://eurovoc.europa.eu/392,operating result,MT 4026 accounting,40 BUSINESS AND COMPETITION
+140,payment,payment,0,paiement,1,2,descriptor,http://eurovoc.europa.eu/2216,management accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+140,revenue,revenue,0,recette,1,3,descriptor,http://eurovoc.europa.eu/2911,operating result,MT 4026 accounting,40 BUSINESS AND COMPETITION
+141,account,account,0,compte,1,2,descriptor,http://eurovoc.europa.eu/61,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+141,marketing,marketing,0,commercialisation,1,1,descriptor,http://eurovoc.europa.eu/13,marketing,MT 2031 marketing,20 TRADE
+141,prices,prices,0,prix,1,1,descriptor,http://eurovoc.europa.eu/2632,prices,MT 2451 prices,24 FINANCE
+146,electricity,electricity,0,énergie électrique,1,2,used_for,http://eurovoc.europa.eu/747,electrical industry,MT 6621 electrical and nuclear industries,66 ENERGY
+147,eec,EEC,0,Communauté européenne,1,2,used_for,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+147,refugees,refugee,0.00833333333333335,réfugié,1,2,descriptor,http://eurovoc.europa.eu/2986,international issue,MT 0816 international balance,08 INTERNATIONAL RELATIONS
+148,aid,aid,0,soutien économique,1,1,used_for,http://eurovoc.europa.eu/712,aid,MT 1606 economic policy,16 ECONOMICS
+148,distiller,distillery,0.00666666666666669,industrie des boissons,1,2,used_for,http://eurovoc.europa.eu/1378,food industry,MT 6031 agri-foodstuffs,60 AGRI-FOODSTUFFS
+148,wine,wine,0,vin,1,3,descriptor,http://eurovoc.europa.eu/4713,alcoholic beverage,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+150,efficiency,efficiency,0,productivité,1,4,used_for,http://eurovoc.europa.eu/2724,cost-effectiveness analysis,MT 4026 accounting,40 BUSINESS AND COMPETITION
+150,water,water,0,eau,1,3,descriptor,http://eurovoc.europa.eu/597,aquatic environment,MT 5211 natural environment,52 ENVIRONMENT
+151,alcohol,alcohol,0,alcool,1,3,descriptor,http://eurovoc.europa.eu/1134,alcoholic beverage,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+151,distillation,distillation,0,distillation,1,2,descriptor,http://eurovoc.europa.eu/473,food technology,MT 6036 food technology,60 AGRI-FOODSTUFFS
+151,eec,EEC,0,Communauté européenne,1,2,used_for,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+151,regulation,regulation,0,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+151,regulation,regulation (EU),0,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+152,algeria,Algeria,0,Algérie,1,4,descriptor,http://eurovoc.europa.eu/1196,Maghreb || Mediterranean third countries || OPEC countries || Arab League countries || Arab world [4.5],MT 7221 Africa || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+152,customs,customs,0,douane,1,2,descriptor,http://eurovoc.europa.eu/502,customs regulations,MT 2011 tariff policy,20 TRADE
+152,import,import,0,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+152,import,import (EU),0,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+152,israel,Israel,0,Israël,1,2,descriptor,http://eurovoc.europa.eu/1518,Middle East || Mediterranean third countries,MT 7226 Asia and Oceania || MT 7231 economic geography,72 GEOGRAPHY
+152,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+156,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+156,stock,stock,0,stock,1,2,descriptor,http://eurovoc.europa.eu/4280,storage,MT 2036 distributive trades,20 TRADE
+156,tin,tin,0,étain,1,3,descriptor,http://eurovoc.europa.eu/879,non-ferrous metal,"MT 6816 iron, steel and other metal industries",68 INDUSTRY
+158,consumer,consumer,0,consommateur,1,1,descriptor,http://eurovoc.europa.eu/138,consumer,MT 2026 consumption,20 TRADE
+158,markets,market,0.00952380952380953,marché,1,1,descriptor,http://eurovoc.europa.eu/1786,market,MT 2006 trade policy,20 TRADE
+159,payments,payment,0.00833333333333335,paiement,1,2,descriptor,http://eurovoc.europa.eu/2216,management accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+159,report,report,0,rapport,1,2,descriptor,http://eurovoc.europa.eu/2891,document,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+159,state,State,0,État,1,1,descriptor,http://eurovoc.europa.eu/883,State,MT 0406 political framework,04 POLITICS
+161,law,law,0,science juridique,1,1,used_for,http://eurovoc.europa.eu/3935,law,MT 1206 sources and branches of the law,12 LAW
+161,organization,organization,0,société,1,1,used_for,http://eurovoc.europa.eu/4189,organization,MT 4016 legal form of organisations,40 BUSINESS AND COMPETITION
+161,sea,sea,0,mer,1,2,descriptor,http://eurovoc.europa.eu/1870,geophysical environment,MT 5211 natural environment,52 ENVIRONMENT
+161,sea,SEA,0,Acte unique européen,1,2,used_for,http://eurovoc.europa.eu/4034,European treaties,MT 1011 European Union law,10 EUROPEAN UNION
+164,amendments,amendment,0.00666666666666669,amendement,1,2,descriptor,http://eurovoc.europa.eu/1558,legislative procedure,MT 0426 parliamentary proceedings,04 POLITICS
+164,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+164,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+164,information,information,0,information,1,1,descriptor,http://eurovoc.europa.eu/1422,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+164,law,law,0,science juridique,1,1,used_for,http://eurovoc.europa.eu/3935,law,MT 1206 sources and branches of the law,12 LAW
+164,proposal,proposal (EU),0,proposition (UE),2,3,descriptor,http://eurovoc.europa.eu/2809,drafting of EU law,MT 1011 European Union law,10 EUROPEAN UNION
+164,water,water,0,eau,1,3,descriptor,http://eurovoc.europa.eu/597,aquatic environment,MT 5211 natural environment,52 ENVIRONMENT
+167,service,service,0,service,1,2,descriptor,http://eurovoc.europa.eu/4099,goods and services,MT 2026 consumption,20 TRADE
+168,ecsc,ECSC,0,CECA,1,2,descriptor,http://eurovoc.europa.eu/5327,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+168,loan,loan,0,prêt,1,2,descriptor,http://eurovoc.europa.eu/2606,credit,MT 2416 financial institutions and credit,24 FINANCE
+170,hops,hops,0,houblon,1,2,descriptor,http://eurovoc.europa.eu/1261,industrial plant,MT 6006 plant product,60 AGRI-FOODSTUFFS
+170,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+172,composers,composer,0.00740740740740742,profession artistique,1,2,used_for,http://eurovoc.europa.eu/3598,arts,MT 2831 culture and religion,28 SOCIAL QUESTIONS
+172,music,music,0,musique,1,2,descriptor,http://eurovoc.europa.eu/2023,arts,MT 2831 culture and religion,28 SOCIAL QUESTIONS
+172,theatre,theatre,0,arts du spectacle,1,2,used_for,http://eurovoc.europa.eu/2810,arts,MT 2831 culture and religion,28 SOCIAL QUESTIONS
+173,gas,gas,0,gaz,1,3,descriptor,http://eurovoc.europa.eu/1139,fuel,MT 6606 energy policy,66 ENERGY
+173,test,test,0,essai,1,3,used_for,http://eurovoc.europa.eu/867,product design,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+173,water,water,0,eau,1,3,descriptor,http://eurovoc.europa.eu/597,aquatic environment,MT 5211 natural environment,52 ENVIRONMENT
+174,sentence,sentence,0,sanction pénale,1,1,used_for,http://eurovoc.europa.eu/3878,sentence,MT 1216 criminal law,12 LAW
+175,olive,olive,0,olive,1,2,descriptor,http://eurovoc.europa.eu/2136,oleaginous plant,MT 6006 plant product,60 AGRI-FOODSTUFFS
+175,ratio,ratio,0,ratio,1,2,descriptor,http://eurovoc.europa.eu/2902,statistics,MT 1631 economic analysis,16 ECONOMICS
+175,spain,Spain,0,Espagne,1,2,descriptor,http://eurovoc.europa.eu/863,Southern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || WEU countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+176,account,account,0,compte,1,2,descriptor,http://eurovoc.europa.eu/61,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+177,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+177,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+177,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+177,portugal,Portugal,0,Portugal,1,2,descriptor,http://eurovoc.europa.eu/2563,Southern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || WEU countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+177,protocol,protocol,0,protocole,1,2,descriptor,http://eurovoc.europa.eu/6884,political institution,MT 0406 political framework,04 POLITICS
+177,protocol,Protocol (EU),0,protocole (UE),2,2,descriptor,http://eurovoc.europa.eu/4031,European treaties,MT 1011 European Union law,10 EUROPEAN UNION
+177,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+178,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+178,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+178,expenditure,expenditure,0,dépense,1,3,descriptor,http://eurovoc.europa.eu/392,operating result,MT 4026 accounting,40 BUSINESS AND COMPETITION
+178,tax,tax,0,impôt,1,1,descriptor,http://eurovoc.europa.eu/1310,tax,MT 2446 taxation,24 FINANCE
+178,tax,tax (EU),0,impôt communautaire,2,2,used_for,http://eurovoc.europa.eu/1311,financing of the EU budget,MT 1021 EU finance,10 EUROPEAN UNION
+179,country,county,0.00952380952380953,comté,1,2,descriptor,http://eurovoc.europa.eu/65,regional and local authorities,MT 0436 executive power and public service,04 POLITICS
+179,exports,export,0.00952380952380953,exportation,1,2,descriptor,http://eurovoc.europa.eu/946,trading operation,MT 2016 trade,20 TRADE
+179,exports,export (EU),0.00952380952380953,exportation (UE),2,3,descriptor,http://eurovoc.europa.eu/3190,export,MT 2016 trade,20 TRADE
+179,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+179,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+179,country,in country,0,pays participant,2,4,used_for,http://eurovoc.europa.eu/6360,euro area,MT 2406 monetary relations,24 FINANCE
+180,aid,aid,0,soutien économique,1,1,used_for,http://eurovoc.europa.eu/712,aid,MT 1606 economic policy,16 ECONOMICS
+180,heading,heading,0,classification,1,3,used_for,http://eurovoc.europa.eu/6004,information analysis,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+180,milk,milk,0,lait,1,2,descriptor,http://eurovoc.europa.eu/1565,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+180,starch,starch,0,amidon,1,2,descriptor,http://eurovoc.europa.eu/1654,processed food product,MT 6026 foodstuff,60 AGRI-FOODSTUFFS
+182,quota,quota,0,restriction quantitative,1,3,used_for,http://eurovoc.europa.eu/3591,non-tariff barrier,MT 2021 international trade,20 TRADE
+182,share,share,0,action financière,1,3,descriptor,http://eurovoc.europa.eu/5362,securities,MT 2421 free movement of capital,24 FINANCE
+182,state,State,0,État,1,1,descriptor,http://eurovoc.europa.eu/883,State,MT 0406 political framework,04 POLITICS
+182,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+187,fruit,fruit,0,fruit,1,1,descriptor,http://eurovoc.europa.eu/1115,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+187,heading,heading,0,classification,1,3,used_for,http://eurovoc.europa.eu/6004,information analysis,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+187,pineapples,pineapple,0.00666666666666669,fruit tropical,1,2,used_for,http://eurovoc.europa.eu/1120,fruit,MT 6006 plant product,60 AGRI-FOODSTUFFS
+187,sugar,sugar,0,sucre,1,1,descriptor,http://eurovoc.europa.eu/4314,sugar,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+189,vegetables,vegetable,0.00666666666666669,légume,1,1,descriptor,http://eurovoc.europa.eu/1602,vegetable,MT 6006 plant product,60 AGRI-FOODSTUFFS
+190,conference,conference,0,acte de congrès,1,2,used_for,http://eurovoc.europa.eu/5277,document,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+190,draft,draft,0,titre de crédit,1,4,used_for,http://eurovoc.europa.eu/4463,deposit money,MT 2411 monetary economics,24 FINANCE
+190,future,futures,0.00952380952380953,marché à terme,1,4,used_for,http://eurovoc.europa.eu/1787,financial derivative [4.5],MT 2421 free movement of capital,24 FINANCE
+191,fishing,fishing,0,industrie de la pêche,1,1,used_for,http://eurovoc.europa.eu/1372,fishing,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+191,sea,sea,0,mer,1,2,descriptor,http://eurovoc.europa.eu/1870,geophysical environment,MT 5211 natural environment,52 ENVIRONMENT
+191,sea,SEA,0,Acte unique européen,1,2,used_for,http://eurovoc.europa.eu/4034,European treaties,MT 1011 European Union law,10 EUROPEAN UNION
+191,stock,stock,0,stock,1,2,descriptor,http://eurovoc.europa.eu/4280,storage,MT 2036 distributive trades,20 TRADE
+193,test,test,0,essai,1,3,used_for,http://eurovoc.europa.eu/867,product design,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+195,information,information,0,information,1,1,descriptor,http://eurovoc.europa.eu/1422,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+195,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+195,work,work,0,travail,1,1,descriptor,http://eurovoc.europa.eu/4543,work,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS
+195,workers,worker,0.00952380952380953,main-d'œuvre,1,1,used_for,http://eurovoc.europa.eu/1737,worker,MT 4411 labour market,44 EMPLOYMENT AND WORKING CONDITIONS
+195,workers,worker (EU),0.00952380952380953,travailleur (UE),2,2,descriptor,http://eurovoc.europa.eu/4557,labour force,MT 4411 labour market,44 EMPLOYMENT AND WORKING CONDITIONS
+196,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+196,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+196,information,information,0,information,1,1,descriptor,http://eurovoc.europa.eu/1422,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+196,injury,injury,0,traumatisme,1,2,used_for,http://eurovoc.europa.eu/5939,illness,MT 2841 health,28 SOCIAL QUESTIONS
+197,accounts,account,0.00833333333333335,compte,1,2,descriptor,http://eurovoc.europa.eu/61,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+197,accounting,accounting,0,comptabilité,1,1,descriptor,http://eurovoc.europa.eu/54,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+197,advance,advance,0,avance de trésorerie,1,2,descriptor,http://eurovoc.europa.eu/4383,budget financing,MT 2441 budget,24 FINANCE
+197,regulation,regulation,0,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+197,regulation,regulation (EU),0,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+197,tender,tender,0,soumission d'offres,1,2,used_for,http://eurovoc.europa.eu/4219,public contract,MT 2006 trade policy,20 TRADE
+201,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+201,jrc,JRC,0,Centre commun de recherche,1,2,used_for,http://eurovoc.europa.eu/5354,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+201,management,management,0,gestion,1,1,descriptor,http://eurovoc.europa.eu/1154,management,MT 4021 management,40 BUSINESS AND COMPETITION
+201,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+201,staff,staff,0,personnel,1,2,descriptor,http://eurovoc.europa.eu/2342,personnel administration,MT 4421 personnel management and staff remuneration,44 EMPLOYMENT AND WORKING CONDITIONS
+207,flax,flax,0,lin,1,2,descriptor,http://eurovoc.europa.eu/1667,textile plant,MT 6006 plant product,60 AGRI-FOODSTUFFS
+207,islands,island,0.00952380952380953,île,1,2,descriptor,http://eurovoc.europa.eu/1287,geophysical environment,MT 5211 natural environment,52 ENVIRONMENT
+207,printer,printer,0,imprimante,1,4,descriptor,http://eurovoc.europa.eu/5671,peripheral,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+208,agreements,agreement (EU),0.00666666666666669,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+208,amendments,amendment,0.00666666666666669,amendement,1,2,descriptor,http://eurovoc.europa.eu/1558,legislative procedure,MT 0426 parliamentary proceedings,04 POLITICS
+208,decision,decision,0,décision,1,4,descriptor,http://eurovoc.europa.eu/348,regulation,MT 1206 sources and branches of the law,12 LAW
+208,decision,decision (EU),0,décision (UE),2,2,descriptor,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+208,switzerland,Switzerland,0,Suisse,1,2,descriptor,http://eurovoc.europa.eu/4324,Western Europe || EFTA countries || OECD countries || Council of Europe countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+209,decision,decision,0,décision,1,4,descriptor,http://eurovoc.europa.eu/348,regulation,MT 1206 sources and branches of the law,12 LAW
+209,decision,decision (EU),0,décision (UE),2,2,descriptor,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+210,agreements,agreement (EU),0.00666666666666669,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+210,prices,prices,0,prix,1,1,descriptor,http://eurovoc.europa.eu/2632,prices,MT 2451 prices,24 FINANCE
+210,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+210,stock,stock,0,stock,1,2,descriptor,http://eurovoc.europa.eu/4280,storage,MT 2036 distributive trades,20 TRADE
+212,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+212,directive,directive,0,directive,1,4,descriptor,http://eurovoc.europa.eu/448,regulation,MT 1206 sources and branches of the law,12 LAW
+212,directive,directive (EU),0,directive (UE),2,2,descriptor,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+212,programme,programmer,0.00666666666666669,profession de l'informatique,1,2,used_for,http://eurovoc.europa.eu/3607,computer systems,MT 3236 information technology and data processing,32 EDUCATION AND COMMUNICATIONS
+212,proposals,proposal (EU),0.00740740740740742,proposition (UE),2,3,descriptor,http://eurovoc.europa.eu/2809,drafting of EU law,MT 1011 European Union law,10 EUROPEAN UNION
+212,regulation,regulation,0,règlement,1,3,descriptor,http://eurovoc.europa.eu/3099,legislation,MT 1206 sources and branches of the law,12 LAW
+212,regulation,regulation (EU),0,règlement (UE),2,2,descriptor,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+214,agreement,agreement (EU),0,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+214,committee,committee (EU),0,comité (UE),2,2,descriptor,http://eurovoc.europa.eu/6049,EU office or agency,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+217,aid,aid,0,soutien économique,1,1,used_for,http://eurovoc.europa.eu/712,aid,MT 1606 economic policy,16 ECONOMICS
+217,marketing,marketing,0,commercialisation,1,1,descriptor,http://eurovoc.europa.eu/13,marketing,MT 2031 marketing,20 TRADE
+217,production,production,0,production,1,1,descriptor,http://eurovoc.europa.eu/2707,production,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+217,syrup,syrup,0,sirop,1,3,descriptor,http://eurovoc.europa.eu/4170,sugar product,MT 6026 foodstuff,60 AGRI-FOODSTUFFS
+226,centre,Centre (France),0,région du Centre,2,2,descriptor,http://eurovoc.europa.eu/5352,regions of France,MT 7211 regions of EU Member States,72 GEOGRAPHY
+226,opinion,opinion,0,avis,1,2,descriptor,http://eurovoc.europa.eu/4449,legislative procedure,MT 0426 parliamentary proceedings,04 POLITICS
+226,opinion,opinion (EU),0,avis (UE),2,2,descriptor,http://eurovoc.europa.eu/6284,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+226,services,service,0.00833333333333335,service,1,2,descriptor,http://eurovoc.europa.eu/4099,goods and services,MT 2026 consumption,20 TRADE
+226,standards,standard,0.00740740740740742,norme,1,3,descriptor,http://eurovoc.europa.eu/2077,standardisation,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+227,agreements,agreement (EU),0.00666666666666669,accord (UE),2,2,descriptor,http://eurovoc.europa.eu/1474,EU relations,MT 1016 European construction,10 EUROPEAN UNION
+227,congo,Congo,0,Congo,1,3,descriptor,http://eurovoc.europa.eu/111,Central Africa || ACP countries || CAEMC countries,MT 7221 Africa || MT 7231 economic geography,72 GEOGRAPHY
+227,kenya,Kenya,0,Kenya,1,3,descriptor,http://eurovoc.europa.eu/1557,East Africa || ACP countries || EAC countries || East African Community,MT 7221 Africa || MT 7231 economic geography || MT 7616 extra-European organisations,72 GEOGRAPHY
+227,letters,letter,0.00952380952380953,correspondance,1,2,used_for,http://eurovoc.europa.eu/242,document,MT 3221 documentation,32 EDUCATION AND COMMUNICATIONS
+227,republic,republic,0,république,1,2,descriptor,http://eurovoc.europa.eu/3413,political system,MT 0406 political framework,04 POLITICS
+227,sugar,sugar,0,sucre,1,1,descriptor,http://eurovoc.europa.eu/4314,sugar,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+227,surinam,Surinam,0,Suriname,1,3,descriptor,http://eurovoc.europa.eu/4342,South America || ACP countries || Caricom countries || LAES countries || OAS countries,MT 7216 America || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+227,uganda,Uganda,0,Ouganda,1,3,descriptor,http://eurovoc.europa.eu/2203,East Africa || ACP countries || EAC countries || East African Community,MT 7221 Africa || MT 7231 economic geography || MT 7616 extra-European organisations,72 GEOGRAPHY
+229,reserve,reserves,0.00833333333333335,réserves,1,2,descriptor,http://eurovoc.europa.eu/3443,management,MT 4021 management,40 BUSINESS AND COMPETITION
+229,state,State,0,État,1,1,descriptor,http://eurovoc.europa.eu/883,State,MT 0406 political framework,04 POLITICS
+229,statistics,statistics,0,statistique,1,1,descriptor,http://eurovoc.europa.eu/4256,statistics,MT 1631 economic analysis,16 ECONOMICS
+231,economic,economics,0.00740740740740742,science économique,1,2,descriptor,http://eurovoc.europa.eu/3933,social sciences,MT 3611 humanities,36 SCIENCE
+231,national,national,0,ressortissant,1,2,descriptor,http://eurovoc.europa.eu/3521,private international law,MT 1231 international law,12 LAW
+231,provisions,provision,0.00666666666666669,réserve comptable,1,2,descriptor,http://eurovoc.europa.eu/3446,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+233,customs,customs,0,douane,1,2,descriptor,http://eurovoc.europa.eu/502,customs regulations,MT 2011 tariff policy,20 TRADE
+233,imports,import,0.00952380952380953,importation,1,2,descriptor,http://eurovoc.europa.eu/1309,trading operation,MT 2016 trade,20 TRADE
+233,imports,import (EU),0.00952380952380953,importation (UE),2,3,descriptor,http://eurovoc.europa.eu/3191,import,MT 2016 trade,20 TRADE
+233,tariff,tariff,0,barème de prix,1,3,used_for,http://eurovoc.europa.eu/4818,fixing of prices,MT 2451 prices,24 FINANCE
+235,interest,interest,0,intérêt,1,3,descriptor,http://eurovoc.europa.eu/1476,cost of borrowing,MT 2416 financial institutions and credit,24 FINANCE
+235,rates,rates,0,impôt foncier,1,2,used_for,http://eurovoc.europa.eu/1314,tax on income,MT 2446 taxation,24 FINANCE
+239,bearings,bearing,0.00833333333333335,roulement,1,2,descriptor,http://eurovoc.europa.eu/3759,mechanical equipment,MT 6821 mechanical engineering,68 INDUSTRY
+239,japan,Japan,0,Japon,1,2,descriptor,http://eurovoc.europa.eu/1524,Far East || APEC countries || OECD countries,MT 7226 Asia and Oceania || MT 7231 economic geography,72 GEOGRAPHY
+243,approval,approval,0,homologation,1,3,descriptor,http://eurovoc.europa.eu/1252,standardisation,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+243,standard,standard,0,norme,1,3,descriptor,http://eurovoc.europa.eu/2077,standardisation,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+249,employees,employee,0.00740740740740742,salarié,1,2,used_for,http://eurovoc.europa.eu/3854,occupational status,MT 4411 labour market,44 EMPLOYMENT AND WORKING CONDITIONS
+249,enterprises,enterprise,0.00606060606060605,esprit d'entreprise,1,2,used_for,http://eurovoc.europa.eu/6749,business activity,MT 4006 business organisation,40 BUSINESS AND COMPETITION
+249,lorraine,Lorraine,0,Lorraine,1,2,descriptor,http://eurovoc.europa.eu/1702,regions of France,MT 7211 regions of EU Member States,72 GEOGRAPHY
+0,request aid,request for aid,0,régime d'aide,3,2,used_for,http://eurovoc.europa.eu/3003,aid policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+0,aid food,food aid,0,aide alimentaire,2,2,descriptor,http://eurovoc.europa.eu/807,aid policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+0,aid programme,aid programme,0,programme d'aide,2,3,descriptor,http://eurovoc.europa.eu/2793,aid system,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+0,food supply,food supply,0,ressource alimentaire,2,2,used_for,http://eurovoc.europa.eu/465,nutrition,MT 2841 health,28 SOCIAL QUESTIONS
+2,export licence,export licence,0,licence d'exportation,2,3,descriptor,http://eurovoc.europa.eu/1642,customs document,MT 2011 tariff policy,20 TRADE
+4,structure population,population structure,0,composition de la population,2,1,used_for,http://eurovoc.europa.eu/52,population structure,MT 2816 demography and population,28 SOCIAL QUESTIONS
+4,statistical survey,statistical survey,0,statistique,2,1,used_for,http://eurovoc.europa.eu/4256,statistical survey,MT 1631 economic analysis,16 ECONOMICS
+4,sample survey,sample survey,0,sondage,2,2,descriptor,http://eurovoc.europa.eu/4213,statistics,MT 1631 economic analysis,16 ECONOMICS
+5,material nuclear,nuclear material,0,combustible nucléaire,2,2,used_for,http://eurovoc.europa.eu/6047,nuclear energy,MT 6621 electrical and nuclear industries,66 ENERGY
+5,nuclear energy,nuclear energy,0,énergie nucléaire,2,1,descriptor,http://eurovoc.europa.eu/753,nuclear energy,MT 6621 electrical and nuclear industries,66 ENERGY
+11,oil production,oil production,0,production de pétrole,2,2,used_for,http://eurovoc.europa.eu/3767,oil industry,MT 6616 oil industry,66 ENERGY
+11,energy supply,energy supply,0,approvisionnement énergétique,2,3,descriptor,http://eurovoc.europa.eu/2312,energy audit,MT 6606 energy policy,66 ENERGY
+11,energy production,energy production,0,production d'énergie,2,3,descriptor,http://eurovoc.europa.eu/2715,energy audit,MT 6606 energy policy,66 ENERGY
+11,energy consumption,energy consumption,0,consommation d'énergie,2,3,descriptor,http://eurovoc.europa.eu/142,energy audit,MT 6606 energy policy,66 ENERGY
+24,community policy,Community policy,0,politique de l'UE,2,3,used_for,http://eurovoc.europa.eu/2451,EU activity,MT 1016 European construction,10 EUROPEAN UNION
+24,community market,Community market,0,marché de l'UE,2,2,used_for,http://eurovoc.europa.eu/1795,market,MT 2006 trade policy,20 TRADE
+24,development policy,development policy,0,politique de développement,2,2,descriptor,http://eurovoc.europa.eu/2465,economic policy,MT 1606 economic policy,16 ECONOMICS
+24,policy trade,trade policy,0,politique commerciale,2,1,descriptor,http://eurovoc.europa.eu/2449,trade policy,MT 2006 trade policy,20 TRADE
+31,member commission,member of the Commission,0,commissaire européen,4,3,used_for,http://eurovoc.europa.eu/4044,European Commission,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+35,representative rate,representative rate,0,taux représentatif,2,3,descriptor,http://eurovoc.europa.eu/4395,agri-monetary policy,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+36,prices policy,prices policy,0,politique des prix,2,1,descriptor,http://eurovoc.europa.eu/2489,prices policy,MT 2451 prices,24 FINANCE
+36,policy monetary,monetary policy,0,politique monétaire,2,1,descriptor,http://eurovoc.europa.eu/2510,monetary policy,MT 2411 monetary economics,24 FINANCE
+36,policy economic,economic policy,0,politique économique,2,1,descriptor,http://eurovoc.europa.eu/2497,economic policy,MT 1606 economic policy,16 ECONOMICS
+36,policy employment,employment policy,0,politique de l'emploi,2,1,descriptor,http://eurovoc.europa.eu/2468,employment policy,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS
+37,research equipment,research equipment,0,appareil scientifique,2,2,used_for,http://eurovoc.europa.eu/3842,precision engineering,MT 6821 mechanical engineering,68 INDUSTRY
+38,fusion thermonuclear,thermonuclear fusion,0,fusion nucléaire,2,3,used_for,http://eurovoc.europa.eu/1123,nuclear technology,MT 6621 electrical and nuclear industries,66 ENERGY
+41,recipient country,recipient country,0,bénéficiaire de l'aide,2,3,used_for,http://eurovoc.europa.eu/4843,aid system,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+43,circulation free,free circulation,0,libre pratique,2,2,descriptor,http://eurovoc.europa.eu/1637,EU customs procedure,MT 2011 tariff policy,20 TRADE
+43,treatment customs,customs treatment,0,réglementation douanière,2,1,used_for,http://eurovoc.europa.eu/3156,customs treatment,MT 2011 tariff policy,20 TRADE
+43,tariff customs,customs tariff,0,tarif douanier,2,1,descriptor,http://eurovoc.europa.eu/4380,customs tariff,MT 2011 tariff policy,20 TRADE
+45,apparatus electrical,electrical apparatus,0,matériel électrique,2,2,used_for,http://eurovoc.europa.eu/1833,electrical engineering,MT 6826 electronics and electrical engineering,68 INDUSTRY
+46,technical cooperation,technical cooperation,0,coopération technique,2,2,descriptor,http://eurovoc.europa.eu/225,cooperation policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+46,trade cooperation,trade cooperation,0,coopération commerciale,2,2,descriptor,http://eurovoc.europa.eu/207,cooperation policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+48,intervention price,intervention price,0,prix d'intervention,2,2,descriptor,http://eurovoc.europa.eu/2644,farm prices,MT 2451 prices,24 FINANCE
+48,reduced price,reduced price,0,prix réduit,2,2,descriptor,http://eurovoc.europa.eu/2685,prices,MT 2451 prices,24 FINANCE
+48,increase price,price increase,0,augmentation des prix,2,2,descriptor,http://eurovoc.europa.eu/4146,price fluctuation,MT 2451 prices,24 FINANCE
+50,national law,national law,0,droit national,2,3,descriptor,http://eurovoc.europa.eu/571,legislation,MT 1206 sources and branches of the law,12 LAW
+50,local law,local law,0,législation locale,2,3,used_for,http://eurovoc.europa.eu/3924,legislation,MT 1206 sources and branches of the law,12 LAW
+50,policy fisheries,fisheries policy,0,politique de la pêche,2,1,descriptor,http://eurovoc.europa.eu/2476,fisheries policy,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+58,waste export,export of waste,0,exportation des déchets,3,2,descriptor,http://eurovoc.europa.eu/5336,waste,MT 5216 deterioration of the environment,52 ENVIRONMENT
+61,community activity,Community activity,0,activité de l'UE,2,2,used_for,http://eurovoc.europa.eu/5418,deepening of the European Union,MT 1016 European construction,10 EUROPEAN UNION
+68,european community,European Community,0,Communauté européenne,2,2,descriptor,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+68,european council,European Council,0,Conseil européen,2,2,descriptor,http://eurovoc.europa.eu/128,EU institution,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+68,european commission,European Commission,0,Commission européenne,2,2,descriptor,http://eurovoc.europa.eu/4038,EU institution,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+68,regulation community,Community regulation,0,règlement (UE),2,2,used_for,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+68,regulation council,Council Regulation,0,règlement (UE),2,2,used_for,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+68,regulation commission,Commission Regulation,0,règlement (UE),2,2,used_for,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+68,member commission,member of the Commission,0,commissaire européen,4,3,used_for,http://eurovoc.europa.eu/4044,European Commission,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+73,bank public,public bank,0,banque publique,2,3,descriptor,http://eurovoc.europa.eu/4815,bank,MT 2416 financial institutions and credit,24 FINANCE
+84,regulation community,Community regulation,0,règlement (UE),2,2,used_for,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+84,regulation euratom,Euratom Regulation,0,règlement CEEA,2,3,used_for,http://eurovoc.europa.eu/3106,EAEC,MT 1016 European construction,10 EUROPEAN UNION
+84,community european,European Community,0,Communauté européenne,2,2,descriptor,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+86,united kingdom,United Kingdom,0,Royaume-Uni,2,2,descriptor,http://eurovoc.europa.eu/3774,Western Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || WEU countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+86,kingdom denmark,Kingdom of Denmark,0,Danemark,3,2,used_for,http://eurovoc.europa.eu/336,Northern Europe || EU Member State || OECD countries || Council of Europe countries || NATO countries || Nordic Council countries,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY
+92,trade agreement,trade agreement,0,accord commercial,2,2,descriptor,http://eurovoc.europa.eu/1567,trade relations,MT 2021 international trade,20 TRADE
+92,trade agreement,trade agreement (EU),0,accord commercial (UE),3,3,descriptor,http://eurovoc.europa.eu/5403,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+92,countries developing,developing countries,0,pays en développement,2,2,descriptor,http://eurovoc.europa.eu/2295,economic development,MT 1611 economic conditions,16 ECONOMICS
+95,production premium,production premium,0,orientation agricole,2,2,used_for,http://eurovoc.europa.eu/2194,regulation of agricultural production,MT 5611 agricultural structures and production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+95,production dairy,dairy production,0,production laitière,2,2,descriptor,http://eurovoc.europa.eu/2989,animal production,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+98,court auditors,court of auditors,0,juridiction administrative,3,2,used_for,http://eurovoc.europa.eu/1539,legal system,MT 1226 organisation of the legal system,12 LAW
+98,agreement financial,financial agreement,0,accord financier,2,2,descriptor,http://eurovoc.europa.eu/3186,international finance,MT 2406 monetary relations,24 FINANCE
+98,rate interest,interest rate,0,intérêt,2,3,used_for,http://eurovoc.europa.eu/1476,cost of borrowing,MT 2416 financial institutions and credit,24 FINANCE
+99,european council,European Council,0,Conseil européen,2,2,descriptor,http://eurovoc.europa.eu/128,EU institution,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+99,european community,European Community,0,Communauté européenne,2,2,descriptor,http://eurovoc.europa.eu/5343,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+99,european communities,European Communities,0,Communautés européennes,2,1,descriptor,http://eurovoc.europa.eu/26,European Communities,MT 1016 European construction,10 EUROPEAN UNION
+99,agreement economic,economic agreement,0,accord économique,2,2,descriptor,http://eurovoc.europa.eu/2928,international agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+104,fever swine,swine fever,0,peste animale,2,3,used_for,http://eurovoc.europa.eu/2356,animal disease,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+104,laboratory research,research laboratory,0,organisme de recherche,2,2,used_for,http://eurovoc.europa.eu/3660,research policy,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+104,research institute,research institute,0,organisme de recherche,2,2,used_for,http://eurovoc.europa.eu/3660,research policy,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH"
+109,equal treatment,equal treatment,0,égalité de traitement,2,2,descriptor,http://eurovoc.europa.eu/688,social rights,MT 1236 rights and freedoms,12 LAW
+109,commission directive,Commission Directive,0,directive (UE),2,2,used_for,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+111,community regulations,Community regulations,0,droit de l'UE,2,1,used_for,http://eurovoc.europa.eu/525,Community regulations,MT 1011 European Union law,10 EUROPEAN UNION
+116,system export,export system,0,politique des exportations,2,1,used_for,http://eurovoc.europa.eu/2487,export system,MT 2006 trade policy,20 TRADE
+116,export licence,export licence,0,licence d'exportation,2,3,descriptor,http://eurovoc.europa.eu/1642,customs document,MT 2011 tariff policy,20 TRADE
+116,import licence,import licence,0,licence d'importation,2,3,descriptor,http://eurovoc.europa.eu/1644,customs document,MT 2011 tariff policy,20 TRADE
+127,aid application,application for aid,0,régime d'aide,3,2,used_for,http://eurovoc.europa.eu/3003,aid policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+127,aid financial,financial aid,0,aide financière,2,2,descriptor,http://eurovoc.europa.eu/922,aid policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+127,aid technical,technical aid,0,coopération technique,2,2,used_for,http://eurovoc.europa.eu/225,cooperation policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+127,association agreement,association agreement,0,accord d'association,2,2,descriptor,http://eurovoc.europa.eu/1663,international agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+127,association agreement,association agreement (EU),0,accord d'association (UE),3,3,descriptor,http://eurovoc.europa.eu/4048,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+127,agreement financial,financial agreement,0,accord financier,2,2,descriptor,http://eurovoc.europa.eu/3186,international finance,MT 2406 monetary relations,24 FINANCE
+129,security services,security services,0,sécurité et gardiennage,2,3,descriptor,http://eurovoc.europa.eu/5888,service industry,MT 6846 miscellaneous industries,68 INDUSTRY
+131,powder milk,milk powder,0,lait en poudre,2,2,used_for,http://eurovoc.europa.eu/1571,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+131,costs delivery,delivery costs,0,livraison,2,2,used_for,http://eurovoc.europa.eu/1684,distributive trades,MT 2036 distributive trades,20 TRADE
+131,invitation tender,invitation to tender,0,appel d'offres,3,2,descriptor,http://eurovoc.europa.eu/2218,public contract,MT 2006 trade policy,20 TRADE
+137,group andean,Andean Group,0,Communauté andine,2,2,used_for,http://eurovoc.europa.eu/1190,Latin American organisation,MT 7616 extra-European organisations,76 INTERNATIONAL ORGANISATIONS
+137,economic agreement,economic agreement,0,accord économique,2,2,descriptor,http://eurovoc.europa.eu/2928,international agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+137,economic cooperation,economic cooperation,0,coopération économique,2,2,descriptor,http://eurovoc.europa.eu/209,cooperation policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+137,trade agreement,trade agreement,0,accord commercial,2,2,descriptor,http://eurovoc.europa.eu/1567,trade relations,MT 2021 international trade,20 TRADE
+137,trade agreement,trade agreement (EU),0,accord commercial (UE),3,3,descriptor,http://eurovoc.europa.eu/5403,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+137,trade cooperation,trade cooperation,0,coopération commerciale,2,2,descriptor,http://eurovoc.europa.eu/207,cooperation policy,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS
+137,agreement cooperation,cooperation agreement,0,accord de coopération,2,2,descriptor,http://eurovoc.europa.eu/2095,international agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+137,agreement cooperation,cooperation agreement (EU),0,accord de coopération (UE),3,3,descriptor,http://eurovoc.europa.eu/5404,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+141,fixing price,price fixing,0,accord de prix,2,2,used_for,http://eurovoc.europa.eu/2646,restriction on competition,MT 4031 competition,40 BUSINESS AND COMPETITION
+141,fixing prices,fixing of prices,0,fixation des prix,3,2,descriptor,http://eurovoc.europa.eu/1025,prices policy,MT 2451 prices,24 FINANCE
+143,origin product,product origin,0,produit originaire,2,2,used_for,http://eurovoc.europa.eu/2771,international trade,MT 2021 international trade,20 TRADE
+147,nations united,United Nations,0,ONU,2,1,used_for,http://eurovoc.europa.eu/2179,United Nations,MT 7606 United Nations,76 INTERNATIONAL ORGANISATIONS
+148,aid producers,aid to producers,0,aide à la production,3,2,used_for,http://eurovoc.europa.eu/797,economic support,MT 1606 economic policy,16 ECONOMICS
+151,price producer,producer price,0,prix à la production,2,2,descriptor,http://eurovoc.europa.eu/2638,market prices,MT 2451 prices,24 FINANCE
+151,price delivered,delivered price,0,prix rendu,2,3,descriptor,http://eurovoc.europa.eu/2686,industrial price,MT 6806 industrial structures and policy,68 INDUSTRY
+152,tariff customs,customs tariff,0,tarif douanier,2,1,descriptor,http://eurovoc.europa.eu/4380,customs tariff,MT 2011 tariff policy,20 TRADE
+156,buffer stock,buffer stock,0,stock régulateur,2,3,descriptor,http://eurovoc.europa.eu/4290,commodity agreement,MT 2021 international trade,20 TRADE
+156,agreement financial,financial agreement,0,accord financier,2,2,descriptor,http://eurovoc.europa.eu/3186,international finance,MT 2406 monetary relations,24 FINANCE
+156,agreement price,price agreement,0,accord de prix,2,2,descriptor,http://eurovoc.europa.eu/2646,restriction on competition,MT 4031 competition,40 BUSINESS AND COMPETITION
+159,balance payments,balance of payments,0,balance des paiements,3,1,descriptor,http://eurovoc.europa.eu/4671,balance of payments,MT 2406 monetary relations,24 FINANCE
+161,sea law,law of the sea,0,droit de la mer,4,2,descriptor,http://eurovoc.europa.eu/542,public international law,MT 1231 international law,12 LAW
+161,united nations,United Nations,0,ONU,2,1,used_for,http://eurovoc.europa.eu/2179,United Nations,MT 7606 United Nations,76 INTERNATIONAL ORGANISATIONS
+161,law international,international law,0,droit international,2,1,descriptor,http://eurovoc.europa.eu/565,international law,MT 1231 international law,12 LAW
+161,law nations,law of nations,0,droit des États,3,2,used_for,http://eurovoc.europa.eu/551,public international law,MT 1231 international law,12 LAW
+161,convention international,international convention,0,convention internationale,2,2,descriptor,http://eurovoc.europa.eu/3468,international instrument,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+161,organization international,international organization,0,organisation internationale,2,1,used_for,http://eurovoc.europa.eu/2189,international organization,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+164,exchange information,information exchange,0,échange d'information,2,2,used_for,http://eurovoc.europa.eu/616,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+164,exchange information,exchange of information,0,échange d'information,3,2,descriptor,http://eurovoc.europa.eu/616,information,MT 3231 information and information processing,32 EDUCATION AND COMMUNICATIONS
+164,fresh water,fresh water,0,eau douce,2,4,used_for,http://eurovoc.europa.eu/602,water,MT 5211 natural environment,52 ENVIRONMENT
+164,surface water,surface water,0,eau superficielle,2,4,descriptor,http://eurovoc.europa.eu/610,water,MT 5211 natural environment,52 ENVIRONMENT
+167,free service,free service,0,service gratuit,2,3,descriptor,http://eurovoc.europa.eu/4122,service,MT 2026 consumption,20 TRADE
+168,loan ecsc,ECSC loan,0,prêt CECA,2,4,descriptor,http://eurovoc.europa.eu/2608,Community loan,MT 1021 EU finance,10 EUROPEAN UNION
+170,rules procedure,rules of procedure,0,règlement intérieur,3,2,descriptor,http://eurovoc.europa.eu/3561,institutional activity,MT 0431 politics and public safety,04 POLITICS
+173,gas appliance,gas appliance,0,appareil à gaz,2,2,descriptor,http://eurovoc.europa.eu/5440,thermal equipment,MT 6821 mechanical engineering,68 INDUSTRY
+175,amount compensatory,compensatory amount,0,montant compensatoire monétaire,2,3,used_for,http://eurovoc.europa.eu/1988,agri-monetary policy,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+175,olive oil,olive oil,0,huile d'olive,2,4,descriptor,http://eurovoc.europa.eu/1264,vegetable oil,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+176,area development,development area,0,région de développement,2,2,used_for,http://eurovoc.europa.eu/3047,economic region,MT 1616 regions and regional policy,16 ECONOMICS
+177,agreement trade,trade agreement,0,accord commercial,2,2,descriptor,http://eurovoc.europa.eu/1567,trade relations,MT 2021 international trade,20 TRADE
+177,agreement trade,trade agreement (EU),0,accord commercial (UE),3,3,descriptor,http://eurovoc.europa.eu/5403,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+177,agreement tariff,tariff agreement,0,accord tarifaire,2,2,descriptor,http://eurovoc.europa.eu/4836,tariff policy,MT 2011 tariff policy,20 TRADE
+178,business tax,business tax,0,taxe professionnelle,2,2,descriptor,http://eurovoc.europa.eu/4406,tax on income,MT 2446 taxation,24 FINANCE
+179,world trade,world trade,0,commerce international,2,1,used_for,http://eurovoc.europa.eu/11,world trade,MT 2021 international trade,20 TRADE
+180,skimmed milk,skimmed milk,0,lait écrémé,2,3,descriptor,http://eurovoc.europa.eu/1570,milk,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+180,powder milk,milk powder,0,lait en poudre,2,2,used_for,http://eurovoc.europa.eu/1571,milk product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS
+182,tariff quota,tariff quota,0,contingent tarifaire,2,2,descriptor,http://eurovoc.europa.eu/161,tariff policy,MT 2011 tariff policy,20 TRADE
+187,sugar fruit,fruit sugar,0,sucre,2,1,used_for,http://eurovoc.europa.eu/4314,fruit sugar,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS
+190,party conference,party conference,0,congrès d'un parti,2,2,used_for,http://eurovoc.europa.eu/7343,party organisation,MT 0411 political party,04 POLITICS
+190,exploitation sea-bed,exploitation of the sea-bed,0,exploitation des fonds marins,4,4,descriptor,http://eurovoc.europa.eu/3137,exploitation of resources,MT 5206 environmental policy,52 ENVIRONMENT
+191,north sea,North Sea,0,mer du Nord,2,4,descriptor,http://eurovoc.europa.eu/1877,Atlantic Ocean,MT 5211 natural environment,52 ENVIRONMENT
+191,level stock,stock level,0,stock,2,2,used_for,http://eurovoc.europa.eu/4280,storage,MT 2036 distributive trades,20 TRADE
+191,sea fishing,sea fishing,0,pêche maritime,2,2,descriptor,http://eurovoc.europa.eu/2308,fishing grounds,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+195,social work,social work,0,travail social,2,2,descriptor,http://eurovoc.europa.eu/3360,welfare,MT 2836 social protection,28 SOCIAL QUESTIONS
+195,work programme,work programme,0,programme d'action,2,2,used_for,http://eurovoc.europa.eu/2792,management,MT 4021 management,40 BUSINESS AND COMPETITION
+197,regulation financial,financial regulation,0,règlement financier,2,2,descriptor,http://eurovoc.europa.eu/3119,public finance,MT 2436 public finance and budget policy,24 FINANCE
+197,institution financial,financial institution,0,institution financière,2,1,descriptor,http://eurovoc.europa.eu/1452,financial institution,MT 2416 financial institutions and credit,24 FINANCE
+197,accounting financial,financial accounting,0,comptabilité générale,2,2,descriptor,http://eurovoc.europa.eu/55,accounting,MT 4026 accounting,40 BUSINESS AND COMPETITION
+201,techniques management,management techniques,0,technique de gestion,2,1,descriptor,http://eurovoc.europa.eu/4413,management techniques,MT 4021 management,40 BUSINESS AND COMPETITION
+201,committee management,management committee (UE),0,organe décisionnel (UE),3,2,used_for,http://eurovoc.europa.eu/5762,institutional structure,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+201,committee management,management committee (EU),0,comité de gestion (UE),3,3,descriptor,http://eurovoc.europa.eu/5506,committee (EU),MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+201,management staff,staff management,0,administration du personnel,2,1,used_for,http://eurovoc.europa.eu/1163,staff management,MT 4421 personnel management and staff remuneration,44 EMPLOYMENT AND WORKING CONDITIONS
+203,accession act,act of accession,0,adhésion à l'Union européenne,3,2,used_for,http://eurovoc.europa.eu/12,enlargement of the Union,MT 1016 European construction,10 EUROPEAN UNION
+203,compensatory amount,compensatory amount,0,montant compensatoire monétaire,2,3,used_for,http://eurovoc.europa.eu/1988,agri-monetary policy,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+208,council decision,Council Decision,0,décision (UE),2,2,used_for,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+208,council cooperation,cooperation council,0,conseil d'association (UE),2,3,used_for,http://eurovoc.europa.eu/116,joint body (EU),MT 1016 European construction,10 EUROPEAN UNION
+209,commission decision,Commission Decision,0,décision (UE),2,2,used_for,http://eurovoc.europa.eu/349,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+210,intervention stock,intervention stock,0,stock d'intervention,2,4,descriptor,http://eurovoc.europa.eu/4284,market support,MT 2006 trade policy,20 TRADE
+210,international negotiations,international negotiations,0,négociation internationale,2,2,descriptor,http://eurovoc.europa.eu/3465,international agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS
+212,regulation council,Council Regulation,0,règlement (UE),2,2,used_for,http://eurovoc.europa.eu/3102,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+212,union council,Council of the Union,0,Conseil de l'Union européenne,4,2,used_for,http://eurovoc.europa.eu/114,EU institution,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+212,directive council,Council Directive,0,directive (UE),2,2,used_for,http://eurovoc.europa.eu/449,EU act,MT 1011 European Union law,10 EUROPEAN UNION
+214,committee joint,joint committee,0,commission ad hoc,2,3,used_for,http://eurovoc.europa.eu/14,parliamentary committee,MT 0421 parliament,04 POLITICS
+214,committee joint,joint committee (EU),0,comité mixte (UE),3,3,descriptor,http://eurovoc.europa.eu/5509,committee (EU),MT 1006 EU institutions and European civil service,10 EUROPEAN UNION
+214,agreement trade,trade agreement,0,accord commercial,2,2,descriptor,http://eurovoc.europa.eu/1567,trade relations,MT 2021 international trade,20 TRADE
+214,agreement trade,trade agreement (EU),0,accord commercial (UE),3,3,descriptor,http://eurovoc.europa.eu/5403,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION
+217,granting aid,granting of aid,0,soutien économique,3,1,used_for,http://eurovoc.europa.eu/712,granting of aid,MT 1606 economic policy,16 ECONOMICS
+217,year marketing,marketing year,0,campagne agricole,2,2,descriptor,http://eurovoc.europa.eu/5096,agricultural production policy,MT 5611 agricultural structures and production,"56 AGRICULTURE, FORESTRY AND FISHERIES"
+217,aid production,production aid,0,aide à la production,2,2,descriptor,http://eurovoc.europa.eu/797,economic support,MT 1606 economic policy,16 ECONOMICS
+227,republic congo,Republic of the Congo,0,Congo,4,3,used_for,http://eurovoc.europa.eu/111,Central Africa || ACP countries || CAEMC countries,MT 7221 Africa || MT 7231 economic geography,72 GEOGRAPHY
+227,republic kenya,Republic of Kenya,0,Kenya,3,3,used_for,http://eurovoc.europa.eu/1557,East Africa || ACP countries || EAC countries || East African Community,MT 7221 Africa || MT 7231 economic geography || MT 7616 extra-European organisations,72 GEOGRAPHY
+227,republic uganda,Republic of Uganda,0,Ouganda,3,3,used_for,http://eurovoc.europa.eu/2203,East Africa || ACP countries || EAC countries || East African Community,MT 7221 Africa || MT 7231 economic geography || MT 7616 extra-European organisations,72 GEOGRAPHY
+231,community national,Community national,0,ressortissant de l'UE,2,3,used_for,http://eurovoc.europa.eu/3526,national,MT 1231 international law,12 LAW
+231,national implementation,national implementation,0,application du droit de l'UE,2,2,used_for,http://eurovoc.europa.eu/2247,EU law,MT 1011 European Union law,10 EUROPEAN UNION
+232,analysis financial,financial analysis,0,analyse financière,2,2,descriptor,http://eurovoc.europa.eu/1811,financial management,MT 4021 management,40 BUSINESS AND COMPETITION
+232,financial situation,financial situation,0,situation financière,2,2,descriptor,http://eurovoc.europa.eu/4187,financial market,MT 2421 free movement of capital,24 FINANCE
+233,tariff customs,customs tariff,0,tarif douanier,2,1,descriptor,http://eurovoc.europa.eu/4380,customs tariff,MT 2011 tariff policy,20 TRADE
+233,customs duties,customs duties,0,droits de douane,2,2,descriptor,http://eurovoc.europa.eu/4078,customs tariff,MT 2011 tariff policy,20 TRADE
+249,small industry,small industry,0,petite industrie,2,3,descriptor,http://eurovoc.europa.eu/3620,small and medium industries,MT 6806 industrial structures and policy,68 INDUSTRY

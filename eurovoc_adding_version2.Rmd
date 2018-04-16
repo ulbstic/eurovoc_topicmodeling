@@ -65,12 +65,12 @@ thesaurus
 labels_tidy_joined_unigrams <- labels_tidy %>%
   fuzzyjoin::stringdist_left_join(thesaurus,
                                   by = c(tokens = "fingerprint_cleaned"),
-                                  distance_col = "dist",
-                                  max_dist = 0,
-                                  method='jw', p=0.1) %>% 
+                                  distance_col = "dist", 
+                                  max_dist = 0.01,
+                                  method='jw', p=0.2) %>% 
   arrange(as.integer(topic_id), term) %>% 
   filter(!is.na(term)) %>% 
-  select(topic_id, token_id, topic_number, tokens, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
+  select(topic_id, tokens, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
 
 labels_tidy_joined_unigrams
 
@@ -105,7 +105,7 @@ labels_tidy_joined_bigrams <- bigrammes %>%
                                    max_dist=0,
                                    ignore_case = TRUE,
                                    method = "lv") %>% 
-  select(topic_id, tokens = value, term, french, length, profondeur, category, link, bt1, mt, domain)
+  select(topic_id, tokens = value, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
 end.time <- Sys.time()
 time.taken <- end.time - start.time
 time.taken
@@ -131,7 +131,7 @@ View(merged)
 
 #Export en csv
 ```{r}
-fwrite(merged, file = "merged_mathias.csv")
+fwrite(merged, file = "merged_mathias2.csv")
 ```
 
 
