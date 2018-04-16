@@ -18,9 +18,10 @@ source("get_fingerprint.R") #imitation du fingerprint d'Open Refine
 #on importe les labels de Mathias
 
 ```{r}
-topic_labels <- fread("ordered_topics.csv",
+topic_labels <- fread("English_250_keys .csv",
                           header= FALSE,
-                          skip=1,
+                          skip=0,
+                          drop = c(2),
                           encoding = "Latin-1")
 topic_labels
 ```
@@ -66,7 +67,7 @@ labels_tidy_joined_unigrams <- labels_tidy %>%
                                   by = c(tokens = "fingerprint_cleaned"),
                                   distance_col = "dist",
                                   max_dist = 0,
-                                  method = "lv") %>% 
+                                  method='jw', p=0.1) %>% 
   arrange(as.integer(topic_id), term) %>% 
   filter(!is.na(term)) %>% 
   select(topic_id, token_id, topic_number, tokens, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
