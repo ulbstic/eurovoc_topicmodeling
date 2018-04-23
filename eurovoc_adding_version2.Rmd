@@ -7,10 +7,9 @@ output:
 
 #Prend le résultat d'un topic modeling de Mathias ajoute les eurovocs
 
-```{r}
+```{r, echo=FALSE}
 library(readr)
-library(dplyr)
-library(tidyr) 
+library(tidyverse)
 library(data.table)
 source("get_fingerprint.R") #imitation du fingerprint d'Open Refine
 ```
@@ -18,13 +17,28 @@ source("get_fingerprint.R") #imitation du fingerprint d'Open Refine
 #on importe les labels de Mathias
 
 ```{r}
-topic_labels <- fread("English_250_keys .csv",
+topic_labels <- fread("English_250_keys_2.csv",
                           header= FALSE,
                           skip=0,
                           drop = c(2),
-                          encoding = "Latin-1")
+                          encoding = "UTF-8")
 topic_labels
 ```
+#on inverse les colonnes, puisque le top term se trouve à la fin dans ce cas-ci, et on élimine les lignes de chiffres
+
+
+```{r}
+
+topic_labels <-
+  topic_labels %>% 
+  filter(!is.na(V1)) %>% 
+  select(num_range("V", c(1, 12:3)))
+
+topic_labels
+
+```
+
+
 
 # On transpose verticalement. (réorganiser topics sous forme de DB, afin de minimiser les matchings ?)
 ```{r}
