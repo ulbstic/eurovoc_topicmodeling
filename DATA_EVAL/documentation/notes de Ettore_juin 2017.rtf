@@ -1,0 +1,114 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036\deflangfe1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Tahoma;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+{\colortbl ;\red46\green83\blue149;\red0\green0\blue255;\red0\green0\blue0;}
+{\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+\pard\nowidctlpar\sb9\sl-560\slmult0\charscalex105\f0\fs46 Projet Eurovoc Topic Modeling Corpus\par
+
+\pard\nowidctlpar\sb121\sa595\sl-570\slmult0\expndtw1 commission : rapport informel\par
+
+\pard\nowidctlpar\sl-328\slmult0\cf1\expndtw7\charscalex100\fs27 Introduction\par
+
+\pard\nowidctlpar\ri72\sb22\sl-291\slmult0\cf0\expndtw0\fs19 Ce projet fait suite \'e0 l\rquote article\cf2\ul  Exploring archives with probabilistic models: Topic Modelling for the  valorisation of digitised archives of the European Commission,\cf0\ulnone  pour lequel Simon, Mathias et alii ont effectu\'e9 un topic modeling sur un corpus in\'e9dit et non annot\'e9 de plus de 20 000 documents d\rquote archives de la Commission europ\'e9enne.\par
+
+\pard\nowidctlpar\ri72\sb164\sl-289\slmult0\expndtw5 Dans cet article, les auteurs partent du pr\'e9suppos\'e9 qu\rquote il existe un lien entre le concept sous-jacent d\rquote un topic et un descripteur Eurovoc. Afin d\rquote identifier ce descripteur, ils ont utilis\'e9 une m\'e9thode semi-manuelle bas\'e9e sur une formule Google Spreadsheet qui permet d\rquote effectuer une recherche en temps r\'e9el sur le site web d\rquote Eurovoc. Cette m\'e9thode pr\'e9sente plusieurs probl\'e8mes :\par
+
+\pard\nowidctlpar\li360\sb219\sl-232\slmult0\tx720\expndtw4 -\tab Elle est manuelle, et prend beaucoup de temps.\par
+
+\pard\nowidctlpar\fi-360\li720\ri360\sl-289\slmult0\tx720\expndtw5 -\tab Elle n\rquote est pas reproductible. Les descripteurs sont choisis par des humains qui ne connaissent pas en d\'e9tail la structure d\rquote Eurovoc. Rien ne permet d\rquote affirmer que le terme choisi est le plus ad\'e9quat. Et comme un m\'eame topic pourrait \'eatre d\'e9crit par plusieurs termes, il est impossible de calculer un accord interannotateurs.\par
+
+\pard\nowidctlpar\sb310\sl-328\slmult0\cf1\expndtw9\fs27 Objectif\par
+
+\pard\nowidctlpar\ri72\sb24\sl-290\slmult0\cf0\expndtw5\fs19 Ce nouveau projet part de la m\'eame intuition que le pr\'e9c\'e9dent, \'e0 savoir que, pour un corpus constitu\'e9 de documents relatifs au fonctionnement de l\rquote Union europ\'e9enne, il devrait exister un lien entre les concepts latents issus du topic modeling et ceux d\rquote Eurovoc.\par
+
+\pard\nowidctlpar\ri576\sb161\sl-290\slmult0\expndtw0 On supposera \'e9galement qu\rquote une fois identifi\'e9s, ces termes Eurovoc permettront de d\'e9crire les documents de la commission. Notre apport consistera \'e0 essayer de trouver une m\'e9thode qui automatise le plus possible le processus d\rquote identification de ce ou ces descripteurs.\par
+
+\pard\nowidctlpar\sb757\sl-328\slmult0\cf1\expndtw4\fs27 Id\'e9e initiale\par
+
+\pard\nowidctlpar\sb84\sa182\sl-228\slmult0\cf0\fs19 Prenons un topic constitu\'e9 des tokens suivants :\par
+
+\pard\shading10000\nowidctlpar\sa5\sl-194\slmult0\cf3\expndtw0\f1\fs17 cereals|amounts|wheat|products|rice|regulation|applicable|falling|compensatory|referred|barley|content|starch|exceedin\expndtw-3 g|weight|dry|eec|headings|matter\par
+\par
+
+\pard\nowidctlpar\ri288\sl-293\slmult0\cf0\expndtw0\f0\fs19 Si l\rquote on pr\'e9sentait ce topic \'e0 un expert d\rquote Eurovoc, en lui demandant de lui associer un ou plusieurs descripteurs tir\'e9s du th\'e9saurus, comment proc\'e9derait-il ?\par
+
+\pard\nowidctlpar\sb158\sl-290\slmult0\expndtw7 Je pense qu\rquote il commencerait par isoler les tokens qui correspondent directement \'e0 un descripteur d\rquote Eurovoc, comme \'ab cereal \'bb, \'ab wheat \'bb ou \'ab barley \'bb. Ensuite, il effectuerait mentalement une s\'e9rie de combinaisons entre les tokens afin d\rquote identifier d\rquote\'e9ventuels descripteurs compos\'e9s, comme \'ab cereal regulation \'bb. Enfin, il choisirait parmi toutes ces possibilit\'e9s le descripteur qui lui para\'eet le plus pr\'e9cis.\par
+
+\pard\nowidctlpar\sb219\sl-226\slmult0\expndtw5\'c0 partir de cette intuition, j\rquote ai essay\'e9 de reproduire ce processus mental de mani\'e8re automatis\'e9e.\par
+\par
+
+\pard\nowidctlpar\sb12\sl-333\slmult0\cf1\expndtw7\fs27 Premier essai dans Open Refine\par
+
+\pard\nowidctlpar\sb22\sl-289\slmult0\cf0\expndtw4\fs19\'c0 partir de la version d\rquote Eurovoc en XML, j\rquote ai cr\'e9\'e9 un fichier plat .csv contenant les descripteurs et non-descripteurs d\rquote Eurovoc, soit environ 16 000 termes. A chacun de ces termes est associ\'e9 une s\'e9rie d\rquote informations, par exemple sa profondeur dans le th\'e9saurus, le domaine auquel il appartient, son BT1, etc. Outre les termes originaux, le .csv contient \'e9galement leur version pass\'e9e \'e0 l\rquote algorithme fingerprint d\rquote Open Refine, une version nettoy\'e9e des stop words, une version stemm\'e9e, etc.\par
+
+\pard\nowidctlpar\ri72\sb168\sl-289\slmult0\expndtw0 Toujours dans Open Refine, j\rquote ai ensuite effectu\'e9 plusieurs \'ab fuzzy matching \'bb entre les tokens issus du topic modeling de Simon et les termes du th\'e9saurus. Afin de suivre l\rquote intuition selon laquelle un sp\'e9cialiste d\rquote Eurovoc ne se contenterait pas d\rquote isoler des correspondances exactes, j\rquote ai test\'e9 d\rquote abord un fuzzy matching par tokens (unigrammes) puis par bigrammes (en assemblant deux \'e0 deux toutes les combinaisons possibles entre les 20 tokens du topic).\par
+
+\pard\nowidctlpar\sb220\sl-232\slmult0\expndtw4 Pour ce premier essai, la m\'e9thode utilis\'e9e est tr\'e8s basique :\par
+
+\pard\nowidctlpar\sb219\sl-227\slmult0\expndtw5 1 identifier les unigrammes et bigrammes communs entre les topics et Eurovoc.\par
+
+\pard\nowidctlpar\sb219\sl-232\slmult0 2 identifier le microth\'e9saurus et le domaine auquel appartiennent les termes match\'e9s.\par
+3 attribuer au topic le microth\'e9saurus et le domaine qui revient le plus souvent.\par
+
+\pard\nowidctlpar\ri432\sb158\sl-290\slmult0\expndtw0 Le r\'e9sultat m\rquote a sembl\'e9 prometteur, puisque les microth\'e9saurus et les domaines produits automatiquement paraissaient dans de nombreux cas aussi pertinents ceux des termes Eurovoc identifi\'e9s manuellement au cours du projet pr\'e9c\'e9dent.\par
+
+\pard\nowidctlpar\sb219\sl-223\slmult0\expndtw-6\b Probl\'e8mes :\par
+
+\pard\nowidctlpar\fi-360\li720\ri144\sb166\sl-290\slmult0\tx720\expndtw0\b0 -\tab J\rquote ai rapidement atteint les limites d\rquote Open Refine. Apr\'e8s un certain niveau de complexit\'e9 du projet, le logiciel devenait extr\'eamement lent, m\'eame apr\'e8s avoir scind\'e9 le projet en deux parties. La moindre op\'e9ration suppl\'e9mentaire prenait un quart d\rquote heure.\par
+
+\pard\nowidctlpar\fi-360\li720\ri72\sl-290\slmult0\qj\tx720 -\tab Je ne disposais d\rquote annotations manuelles que pour 106 topics sur 450, et ces annotations ne sont pas toujours les plus pertinentes.\par
+
+\pard\nowidctlpar\fi-360\li720\ri864\sl-288\slmult0\tx720 -\tab Je poss\'e9dais le corpus de la commission, mais pas la matrice qui relie les topics aux documents.\par
+
+\pard\nowidctlpar\ri72\sb162\sl-290\slmult0 Lorsque Simon a retrouv\'e9 cette matrice, j\rquote ai pu isoler un \'e9chantillon de 400 documents sur lesquels je comptais v\'e9rifier visuellement la pertinence des descripteurs attribu\'e9s automatiquement. De nouveaux probl\'e8mes sont alors apparus :\par
+
+\pard\nowidctlpar\fi-360\li720\ri72\sb163\sl-288\slmult0\qj\tx720 -\tab Le corpus de la commission est de mauvaise qualit\'e9. L\rquote OCR est parfois illisible, beaucoup de mots sont attach\'e9s sans espace...\par
+
+\pard\nowidctlpar\li360\sb61\sl-232\slmult0\tx720\expndtw4 -\tab Les documents sont parfois tr\'e8s longs.\par
+
+\pard\nowidctlpar\li360\sb61\sl-227\slmult0\tx720 -\tab Leurs th\'e8mes centraux ne sont pas toujours \'e9vidents.\par
+
+\pard\nowidctlpar\sb167\sl-288\slmult0 A raison d\rquote une trentaine de documents par jour, il m\rquote aurait fallu pr\'e8s de deux semaines pour passer en revue ce simple \'e9chantillon de documents. Et tout cela uniquement pour v\'e9rifier la qualit\'e9 d\rquote un brouillon de m\'e9thode, qu\rquote il aurait fallu ensuite affiner dans un Open Refine devenu extr\'eamement lent, puis rev\'e9rifier une fois encore ! De plus, la mauvaise qualit\'e9 du corpus biaiserait les v\'e9rifications : comment distinguer les erreurs d\rquote attribution eurovoc dues \'e0 la m\'e9thode et celles dues \'e0 l\rquote OCR ou \'e0 une identification erron\'e9e de la langue source ?\par
+
+\pard\expndtw0\f2\fs24\par
+
+\pard\nowidctlpar\li72\sl-316\slmult0\cf1\expndtw10\f0\fs26 Deuxi\'e8me essai dans R\par
+
+\pard\nowidctlpar\li72\ri72\sb34\sl-289\slmult0\cf0\expndtw0\fs19 Ces constatations m\rquote ont pouss\'e9 \'e0 quitter Open Refine et \'e0 repartir de z\'e9ro dans R (Python aurait pu convenir \'e9galement). J\rquote en ai profit\'e9 pour t\'e9l\'e9charger le corpus JRC-Acquis, qui a l\rquote avantage d\rquote\'eatre plus propre, d\'e9j\'e0 scind\'e9 linguistiquement et enti\'e8rement annot\'e9 en eurovocs. L\rquote id\'e9e : v\'e9rifier la m\'e9thode sur un corpus standard, puis l\rquote appliquer au n\'f4tre.\par
+
+\pard\nowidctlpar\li72\ri72\sb157\sl-290\slmult0\'c9tant beaucoup moins sp\'e9cialiste en R qu\rquote en Open Refine, il m\rquote a fallu plusieurs jours pour recr\'e9er la m\'e9thode originelle. (Ces efforts n\rquote auront toutefois pas \'e9t\'e9 vains. Les techniques apprises me resserviront, de m\'eame que plusieurs scripts mis au point \'e0 cette occasion.)\par
+
+\pard\nowidctlpar\li72\sb221\sl-273\slmult0\cf1\expndtw4\fs22 Aper\'e7u du script R\par
+
+\pard\nowidctlpar\li72\sb71\sl-227\slmult0\cf0\expndtw2\fs19 Le script est divis\'e9 en trois modules :\par
+
+\pard\nowidctlpar\li72\ri144\sb168\sl-288\slmult0\expndtw0 1 Le module de pr\'e9traitement de corpus : il permet de r\'e9cup\'e9rer l\rquote ensemble des fichiers contenus dans un dossier, que ce soit du .txt ou du XML, d\rquote en extraire le contenu et d\rquote effectuer une s\'e9rie de pr\'e9-processings.\par
+
+\pard\nowidctlpar\li72\ri288\sb158\sl-290\slmult0 2 Le module topic modeling : il prend en entr\'e9e les r\'e9sultats du premier traitement et renvoie un topic modeling complet, selon des param\'e8tres d\'e9finis \'e0 l\rquote avance. Il est \'e0 noter que l\rquote op\'e9ration s\rquote effectue en arri\'e8re-fond \'e0 l\rquote aide de Mallet, de loin l\rquote outil le plus utilis\'e9 en topic modeling, ce qui permet de b\'e9n\'e9ficier de la rapidit\'e9 de Java et de rendre les r\'e9sultats comparables avec ceux de Simon ou d\rquote autres digital humanists.\par
+
+\pard\nowidctlpar\li72\ri72\sb162\sl-290\slmult0 3 Le module \'ab matching eurovoc \'bb : il r\'e9cup\'e8re les r\'e9sultats du topic modeling, stemme (\'e9ventuellement) et combine les tokens en unigrammes et bigrammes (voire trigrammes), puis effectue des fuzzy matching avec le fichier .csv contenant le th\'e9saurus Eurovoc. Dans R, le tout ne prend que quelques minutes.\par
+
+\pard\nowidctlpar\li72\ri144\sb163\sl-288\slmult0 Au terme de cette op\'e9ration, nous obtenons pour chaque topic une liste de candidats descripteurs eurovoc. Le probl\'e8me est maintenant le suivant : lequel ou lesquels choisir ?\par
+
+\pard\nowidctlpar\li72\sb222\sl-270\slmult0\cf1\expndtw6\fs22 Premi\'e8re tentative : s\'e9lectionner les descripteurs \'ab saillants \'bb\par
+
+\pard\nowidctlpar\li72\sb68\sl-232\slmult0\cf0\expndtw1\fs19 Imaginons un document D constitu\'e9 \'e0 60 % du topic a, \'e0 20 % du topic b et \'e0 20 % du topic c.\par
+
+\pard\nowidctlpar\li72\ri1008\sb163\sl-288\slmult0\expndtw0 Imaginons que le topic a est constitu\'e9 des descripteurs eurovoc z, y, x, w, v, le topic b des descripteurs z, l, m, g, h et le topic c de z, i, j, m, e.\par
+
+\pard\nowidctlpar\li72\ri72\sb156\sl-290\slmult0\expndtw3 Le descripteur z appara\'eet donc dans les trois et le descripteur m dans deux d\rquote entre eux. Mon id\'e9e, peut-\'eatre na\'efve, \'e9tait de pond\'e9rer ces descripteurs en fonction du \'ab poids \'bb du topic auxquels ils appartiennent. Dans l\rquote exemple ci-dessus, le descripteur z obtiendrait un poids de 100 % (60 + 20 + 20) tandis que m obtiendrait 40 (20 + 20). Au terme du calcul, nous d\'e9ciderions que les descripteurs z et m sont les plus appropri\'e9s pour d\'e9crire le document D. Resterait alors \'e0 v\'e9rifier si ces descripteurs sont pertinents.\par
+
+\pard\nowidctlpar\li72\ri144\sb168\sl-288\slmult0\expndtw0 Un premier essai avec le corpus de la commission a livr\'e9 des r\'e9sultats d\'e9cevants. Mais l\'e0 encore, il est difficile de dire si c\rquote est la m\'e9thode qui est en cause ou la qualit\'e9 du corpus.\par
+
+\pard\nowidctlpar\li72\ri144\sb157\sl-290\slmult0\expndtw6 J\rquote ai effectu\'e9 ce lundi 5 juin un second essai avec le corpus JRC-Acquis. Pour celui-l\'e0, je dispose chaque fois de cinq ou six annotations eurovoc manuelles que je pourrai comparer avec le tagging automatique.\par
+
+\pard\nowidctlpar\li72\ri144\sb156\sl-289\slmult0\expndtw0 Je n\rquote ai pas encore pu effectuer cette comparaison, mais je crains que ce ne soit gu\'e8re brillant. Contrairement \'e0 WordNet ou Mesh, Eurovoc est un th\'e9saurus conceptuel. Il est tout \'e0 fait possible\par
+
+\pard\f2\fs24\par
+
+\pard\nowidctlpar\sb4\sl-290\slmult0\f0\fs19 et m\'eame tr\'e8s fr\'e9quent qu\rquote un documentaliste de la Commission europ\'e9enne attribue \'e0 un document des descripteurs dont les termes n\rquote apparaissent pas du tout dans le document. Par exemple, un texte qui \'e9voque le Br\'e9sil et la Chine pourra \'eatre taggu\'e9 avec le descripteur \'ab BRICS \'bb ou \'ab pays en voie de d\'e9veloppement \'bb m\'eame si ces mots n\rquote apparaissent pas explicitement dans le texte.\par
+
+\pard\nowidctlpar\sb159\sl-290\slmult0\expndtw5 Cette constatation a d\'e9j\'e0 \'e9t\'e9 faite par les auteurs du logiciel JEX, destin\'e9 \'e0 annoter automatiquement des documents en Eurovoc (voir : {{\field{\*\fldinst{HYPERLINK https://arxiv.org/ftp/cs/papers/0609/0609059.pdf }}{\fldrslt{https://arxiv.org/ftp/cs/papers/0609/0609059.pdf\ul0\cf0}}}}\f0\fs19 )\cf2\ul .\cf0\ulnone  Les auteurs ont pu constater que l\rquote extraction de mots-cl\'e9s offre un rappel et une pr\'e9cision tr\'e8s m\'e9diocre lorsqu\rquote elle est compar\'e9e \'e0 des annotations humaines, c\rquote est pourquoi leur m\'e9thode se base sur de l\rquote apprentissage automatique supervis\'e9. Le principal inconv\'e9nient de cet algorithme est qu\rquote il n\'e9cessite de vastes corpus annot\'e9s pour toutes les langues utilis\'e9es. De plus, certains descripteurs eurovoc ne sont pas pr\'e9sents en quantit\'e9 suffisante pour entra\'eener le syst\'e8me correctement. En outre, ils ont proc\'e9d\'e9 \'e0 des dizaines de tests en modifiant quelque 1500 param\'e8tres avant d\rquote obtenir une m\'e9thode satisfaisante...\par
+
+\pard\nowidctlpar\sb158\sl-290\slmult0\expndtw6 Je reste persuad\'e9 que le topic modeling a un r\'f4le \'e0 jouer dans la classification de documents, mais il serait pr\'e9somptueux ou na\'eff de croire que l\rquote on pourrait atteindre un r\'e9sultat plus satisfaisant que JEX en quelques jours voire en quelques semaines. Si la s\'e9lection par \'ab descripteurs saillants \'bb ne donne rien, se posera la question de savoir s\rquote il faut poursuivre ces exp\'e9rimentations ou tenter une approche plus \'ab quick wins \'bb, qui permette de produire un papier rapidement.\par
+\cf1\expndtw7\fs27\par
+}
+ 
