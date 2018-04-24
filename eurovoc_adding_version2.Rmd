@@ -7,7 +7,7 @@ output:
 
 #Prend le résultat d'un topic modeling de Mathias ajoute les eurovocs
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, comment=FALSE}
 library(readr)
 library(tidyverse)
 library(data.table)
@@ -45,7 +45,7 @@ topic_labels
 labels_tidy <- 
   melt(topic_labels, id.vars = c("V1"),
                     measure.vars = 2:ncol(topic_labels)) %>% 
-  select(topic_id=V1, tokens=value)
+  select(topic_id=V1, value)
 
 labels_tidy
 ```
@@ -78,13 +78,13 @@ thesaurus
 ```{r}
 labels_tidy_joined_unigrams <- labels_tidy %>%
   fuzzyjoin::stringdist_left_join(thesaurus,
-                                  by = c(tokens = "fingerprint_cleaned"),
+                                  by = c(value = "fingerprint_cleaned"),
                                   distance_col = "dist", 
                                   max_dist = 0.01,
-                                  method='jw', p=0.2) %>% 
+                                  method='jw', p=0.1) %>% 
   arrange(as.integer(topic_id), term) %>% 
   filter(!is.na(term)) %>% 
-  select(topic_id, tokens, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
+  select(topic_id, token=value, token_id, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
 
 labels_tidy_joined_unigrams
 
@@ -92,7 +92,7 @@ labels_tidy_joined_unigrams
 
 
 
-#création des bigrammes et fingerprint. Mais comment conserver l'ordre des tokens ???
+#création des bigrammes, fingerprint et numérotation dans l'ordre 
 
 ```{r}
 bigrammes <-
@@ -103,7 +103,7 @@ bigrammes <- bigrammes[,.(topic_id, V1, fingerprint = get_fingerprint(V1))]
 
 setnames(bigrammes, "V1", "value")
 
-bigrammes
+bigrammes <- bigrammes %>% 
 
 ```
 

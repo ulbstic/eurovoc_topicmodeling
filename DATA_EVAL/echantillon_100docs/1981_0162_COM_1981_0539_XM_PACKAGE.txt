@@ -1,0 +1,936 @@
+In accordance with Council Regulation (EEC, Euratom) No 354/83 of 1 February 1983 concerning the opening to the public of the historical archives of the European Economic Community and the European Atomic Energy Community (OJ L 43, 15.2.1983, p. 1), as amended by Regulation (EC, Euratom) No 1700/2003 of 22 September 2003 (OJ L 243, 27.9.2003, p. 1), this file is open to the public. Where necessary, classified documents in this file have been declassified in conformity with Article 5 of the aforementioned regulation.
+Thw draft Communication and Council Resolution' should be adopted by the Commission at its meeting on 23 September 1981 .
+The documents should be sent to the Council as sooi» as possible so as to prepare for its consideration at the meeting of the Energy Council .on 27 October .
+Communication of the Commission and Draft Council Resolution on Energy Pricing - Policy and Transparency
+Summary # *
+This paper is linked with the Communication on Oil Taxation approved by the Commission at its meeting on 9 September.
+It. develops the agreed by the Council in June
+1980 which call for realistic pricing and transparency. It surveys the existing state of transparency in energy markets within the Community. It describes recent trends in prices. It examines the reasons for divergence in prices for individual forms of energy within the Community, and presents in conclusion a draft Council Resolution which contains a fuller statement of Community aims in this field,, proposes
+a programme of action to improve transparency, a"nd calls on that Commission to make proposals for action in a number of areas where: there: is immediate scope for improving the consistency of policies effecting energy pricing.
+2 . The Commission is invited :
+- to adopt the draft Communication and Council Resolution - to transmit it to the Council
+4.2. The graph reproduced below shows the evolution of relative pyices for fuel oil , natural gas and coal . The conclusions should be treated with caution as it is based on highly aggregated data.
+publish none. The Commission receives official information, in confidence , on the price of power station coal , but there # is no reliable information on the input, price of oil and gas. U^JIPEDE collects and communicates,'~on a confidential basis, detailed information on the planned investment cost of power stations
+under construction, but there is no official information on realised investment costs .
+U. Reasons for divergence. Electricity prices vary significantly within the Community . In the case of industry , some of these differences arise from non-comparability of the stqtistics; for example, the extent to which consumers have to meet the cost of connection varies - between Member States , and the price actually
+paid under an individual contract may not always be accurately reflected by the published tariff formula on which it is based. But the most important source of difference is inequality in the cost of generation and distribution. The cost of fuel is an
+t important factor , and the extent to which individual suppliers are able to meet their base load demand from low-cost sources
+such as hydro , nuclear , lignite and coal , significantly affects the overall cost of the system. But fuel is only a part of overall cost; to a much greater extent than is the case for other forms of energy, electricity costs are determined by the cost of labour^, of power station construction and of capital.
+Because electricity cannot be stored, the system has to have the t*
+capacity to meet peak demand, and operates at well below capacity most . of the time . There is no single objectively valid method
+for apportioning the share of these large overhead costs between consumers, and important differences can arise from the adoption of different conventions .
+3. Some producers, notably Electricite de France (EDF), publish extensive information on the cost of electricity production. Others , especially in those countries ( Germany, Belgium , the Netherlands and Denmark ) where the industry is privately owned ,
+( Communication from Mr Davignon )
+- This question is on the agenda for the 618th meeting of the Commission- on *
+To : Members of the Commission Mr Audland
+The draft Communication and Council Resolution' should be adopted by the Commission at its meeting on 23 September T981 »
+The documents should be sent to the Council as soon as possible so as to prepare fpr its consideration at the meeting of the Energy Council on 27 October,
+Communication of the Commission and Draft Council Resolution
+on Energy Pricing - Policy and Transparency
+Summary •
+This paper is linked with the Communication on Oil Taxation approved by the Commission ai"its meeting on 9 September,
+It- develops the agreed by the Council in June
+1980 whic.h call for realistic pricing and transparency. I1t surveys the existing state of transparency in energy markets within the Community, It describes recent trends in prices. It examines the reasons for divergence in prices for individual forms of energy within the Community, and presents in conclusion a draft Council Resolution which contains a fuller statement of Community aims in this field, proposes
+a programme of action to improve transparency, a^nd calls on thflt Commission to make proposal& for action in a number of areas where: there: is immediate scope for improving the consistency of policies effecting energy pricing.
+2.» The Commission is invited:
+- to adopt the draft Communication and Council Resolution - to transmit it to the Council
+( Communication from the Commission and draft Council Resolution )
+1.1. A consistent and rational approach to energy pricing is one of the main components of policy for the achievement of the aims which the Community has set itself in the field of energy supply and demand. It should , in particular , permit an adequate stimulus to
+investment, encourage energy efficiency and contribute to the transition from oil to other forms of energy.
+In this Communication the Commission :
+- develops the principles of energy pricing adopted by the Council in its Resolution of 9 June. 1980, and suggests a series of practical aims for energy pricing policy ( Section 2 );
+- surveys the state of transparency in the markets for the various forms of energy ( Section 3 );
+- describes recent trends in prices within the Community (Section 4);
+- examines the reasons for divergence in prices for individual forms of energy within the Community ( Section 5 );
+- presents , in conclusion , a draft Council Resolution which contains a fuller statement of Community aims in this field, proposes a programme of action to improve transparency, and suggests a number of areas where there is immediate scope for action to improve the consistency of policies affecting energy pricing .
+ 1.3. In this main paper, many complex issues are dealt with in summary
+form . A technical annex ( Annex A) presents , for each of
+main energy markets ( coal , oil , gas and electricity ) a somewhat fuller analysis of market prospects, the state of transparency, and the reasons for divergences in price within the Community. A statistical annex (Annex B) presents a summary of some of the latest price data available to the Commission.
+2.1. In a Resolution of June 1980, the Council adopted the following principles for energy pricing policy :
+- consumer prices should reflect representative conditions on world markets , taking into account long-term trends ;
+- one of the factors determining consumer prices should be the cost of replacing and developing energy resources;
+- energy prices should be characterised by the greatest possible degree of transparency^.
+However , acceptance of these principles at a theohetical level will not in itself bring about a consistent and rational approach to energy pricing throughout the Community . This is in part - because energy markets are highly imperfect; external oil prices are largely determined by decisions of the Organization of Petroleum Exporting Countries (OPEC); oil product prices are heavily influenced by consumption taxes; coal pricing is dominated by public intervention; gas and electricity utilities enjoy local monopolies and are in most cases directly or indirectly controlled by government.' Even between Member States who are genuinely seeking to implement the agreed principles, differences in policy can and do lead to disparities in prices.
+Annex to Council Resolution of 9.6.1980 on New Lines of Action in the Field of Energy Saving ". 0J No C 149 of 18.6.1980 , page 4 .
+the four
+ Moreover this imperfection in markets is accompanied by a generally poor level of transparency. The Community has devoted particular attention in recent years to improving the scope and quality of public information on energy prices in the belief that * this is one of the best means of ensuring that prices genuinely reflect cost, and distribute costs fairly between consumers. Section 3 below reviews the progress that has been made in this field. »
+.4. The first two principles - the need, on the one hand, for realistic pri cinq ( verite des prix ' ) and, on the other hand, for prices to reflect trends in long-run cost - raise a wide range of difficult theoretical issues. To what extent is there, or will there be in the future, a world market for coal and gas such as already exists for oil? What is the long-term trend in production costs for individual fuels? To what extent will inter-fueUsubstitution
+affect relativities between the prices of individual fuels? How is the replacement cost of a non-renewable resource to be defined? How long is the long term? If prices on world markets depart in
+the short or medium term from levels that are justified by long- term cost considerations, which principle is to take priority?
+5. It would not be helpful to develop proposals for energy pricing policy in the Community by seeking agreement on all these issues.
+Trends in energy prices and costs can be forecast only in very general terms. This is because the existence of very large unused capacity for the production of low-cost oil makes it
+inevitable that the world price of oil will remain highly unstable and unpredictable. This instability is indeed a major reason why the Community has set itself the strategic objective of reducing dependence on oil . Because the price of other fuels is linked to that of oil, the course of their prices is also unpredictable; it
+ is , however , possible to identify some long-term trends . Annex A contains a brief summary, for each of the four main energy types, of long-term market prospects and reaches the following conclusions
+Oil prices will remain volatile . The long-tferm trend will be determined by the cost of non-conventional oil (oil sands, tar sands , oil from coal ) which will probably be higher than the present price . At these levels , oil will cease to be « competitive on the heat market and its use will increasingly be confined to non-substitutable uses, especially transport fuels and petrochemical feedstock .
+b) The future course of gas prices is particularly difficult to forecast. - On the one hand, reserves are large, and better distributed than those for oil . On the other hand , unless reserves are carefully managed at an international level, there is a risk that oil producers, some of whom are already seeking parity between prices for gas and for crude oil, may succeed in gaining control .of the market . However , in the long run , a ceiling will be set by the- price of alternatives, especially coal and electricity .
+c) World coal reserves are very large and seem capable of .meeting any likely expansion in demand at prices which will remain competitive with those for oil.
+d) The cost of electricity supply has fallen relative to the price of competing fuels , and this trend is likely to continue .
+Priority should therefore be given to conversion from oil to coal and electricity. Gas has made a useful contribution to the
+reduction of oil dependence
+which gas can continue to enlarge its share of the energy market without giving rise to security and price risks is an issue on which there is no unanimity within'the Community ( see Section 5 ).
+in the past ; however , the extent to
+sources of inequality in
+At the same time , however , there are
+prices within the Community which arise not from differences in cost but from differences in market structure , fiscal policy , and
+the organization and financing of public utilities . It is in
+minimising the distortions which arise from these sources that there is a particularly important role for the Community to play in promoting a consistent approach to pricing policy . In * implementing the agreed principles , the Community 's aims should include the following :
+- consumer prices should ensure an adequate rate of return on investment in energy supply and energy efficiency;
+- prices should provide consistent market signals on the price of energy relative to those for other goods and services and, so far as is possible, on trends in price relativities between individual forms of energy;
+- differences in energy prices within the Community should be limited to those arising from differences in the cost of supply.
+Member States who enjoy comparative advantage in energy supply, whether as a result of favourable location , prudent investment , superior productivity or other reasons, should reflect that advantage in consumer prices ;
+- on the other hand, differences in prices within the Community arising from differences in policy must be minimised. To this end, there is a need to develop common approaches to energy pricing in such areas as energy taxation , price regulation , the construction of gas and electricity tariffs, and the management and financing of public utilities.
+As suggested in para . 2.3 . above , transparency in the market for
+energy is a necessary, but not sufficient condition for the realisation of the above aims. In practical terms the
+requirement for transparency means that :
+- all consumers should have easy, access to information on tj?e price of energy, on how that price would vary in response to changes in the volume and pattern of individual demand, and on the price implications of switching to alternative forms of energy ;
+- in the caseof industry, consumers should also have ready access to information on the energy prices available to their competitors , both locally and in other countries ;
+- to enable consumers to reach informed judgements on trends in
+energy pricing , consumers should , in addition , be informed about the methods by wh-ich prices and tariffs are determined, about the prices paid for primary' enerby the the energy industries , and about other costs incurred in the transformation of primary
+energy and its distribution to consumers .
+These three aims represent an ascending scale of ambition . Efforts by the Commission to improve transparency, especially in the oil market , have generated a wealth of reliable , published information on the price of transport fuels and of prices for other forms of energy for domestic consumers.
+For prices to industry, the position is less satisfactory.
+Although official prices and^ tariffs are widely published, industrial prices are , in most countries , normally set for all but
+the smallest consumers in individual contracts. Such contract
+prices, even when based on published tariff formulae, may vary
+significantly in accordance with individual circumstances. Although many suppliers are willing to publish aggregated data on the average cost of energy to consumers in specified categories,
+somearenot; thisappliesinparticulartoverylargeconsumers.
+3.3. Annex A includes a survey of the extent to which the Commission has reliable information on prices and costs in each of the#four energy sectors. Not all of this information contributes to transparency. In the first place, a great deal of information, some of it supplied under Community regulations, is communicated to the Commission on a confidential basis. The Commission can
+only use this information as background, and in some cases uses aggregated results derived from it in official documents. In other cases the Commission receives restricted information which can be communicated to Member States and other interested
+authorities, but which cannot be published. The most direct contribution to transparency is made in cases where information is collected with a specific view to publication. In summary, the conclusions are as follows:
+a) Coal; ECSC rules require the publication of official prices based on the cost of coal production within the Community.
+In practice, however, the prices actually paid by consumers are heavily influenced by transport costs and by the practice of downward alignment to the price of imported coal. The Commission receives, but does not publish, data on coal import prices. The coal industry publishes reliable information on the cost of production within the Community.
+b) OiI. The Commission publishes extensive information on prices of crude oil and prices for and taxes on retail sales of the main products. An expert group on oil prices works on
+a continuing basis on the improvement of these arrangements, and is at present focussing attention on contract prices for bulk supplies of heating oil and on the means of improving transparency of refining and distribution .
+c) Gas. The Statistical Office of the European Communities (SOEC) publishes an annual survey of gas prices. For most countries this gives a reliable indication of prices for firm (nory interruptible ) gas to all but the largest industrial consumers . However, in the UK and parts of Germany, industrial gas tariffs are not published, and no information is available from the largest German wholesaler ( Ruhrgas ). In most countries , an important share of -industrial gas is supplied under interruptible contracts for which conditions vary widely, and on which the Commission receives no systematic data. The Commission receives no information of any kind bn the price at which suppliers acquire gas nor on the costs of handling and
+d) Electri city . The SOEC publishes an annual survey of electricity prices throughout the Community which gives a reliable guide to prices to all but" the very largest industrial consumers. As with other fuels , transparency of prices to such consumers , especially in the steel and chemical industries , is poor , and
+the picture here is complicated by the existence in many countries of long-term contracts concluded in the past at very favourable prices. Some electricity producers publish data on the cost of generation and distribution , but others , especially in those countries ( Germany , Belgium , the Netherlands , Denmark ) where the industry is privately owned, publish none. There is
+no reliable information on the input price of oil and gas.
+For the retail market , the present situation is satisfactory . The market in bulk' supplies of energy 'for industry presents more difficulties. Some energy suppliers and consumers argue that since
+skill and specialised knowledge are required to make meaningful comparisons between markets where conditions differ, the communication of price information should be restricted. The
+Commission does not agree. The progress that h^s already been made in the oil and electricity markets shows that the collection
+and publication of reliable data is both possible and useful.
+There is no. justification for treating different fuels in
+different ways, and the Commission therefore attaches importance to the improvement of the quality of existing gas and coal price statistics, and to establishing arrangements for the collection and' publication of data on coal and gas import prices .
+It has to be recognised , however , that improvement in transparency of prices to very large industrial consumers will not be easily achieved. It will therefore be necessary to develop separate arrangements for monitoring the prices charged in contracts of this kind at Community level so as to ensure that Community rules on competition and the agreed principles on energy pricing are respected .
+4.1 . Some of the price data described above is presented in Annex B in the form of four tables showing trends in the relative levels of prices as between Member States , the incidence of taxation , the evolution of prices in real terms, and trends in the dispersion
+of prices within the Community. The prices are for January 1973, 1978 , 1980 and 1981 . The following conclusions can be drawn :
+a) The position of each Member State with respect to the Community mean differs for each form of energy; this reflects policy differences ( see Annex B, Table 1 ):
+- Germany : low prices for gasoline ; high prices for heavy consumers of domestic electricity; high prices of industrial
+France: Low prices for industrial electricity.
+Italy : low prices for diesel ; high prices for gasoline ; Low prices for small domestic consumers of gas and
+electri city . «
+Nether lands : low prices for domestic gas .
+Belgium: high prices for domestic electricity. Luxembourg: low prices for motor fuels and electricity.
+JJK : high prices for automotive diesel ; low prices for domestic gas.
+Ireland : high prices for industrial electricity . Denmark : high prices for heating oil .
+b) Consumer taxes have an important influence on prjce levels and are an important element in differences between consumer prices (see Annex B, Table 2).
+c) The evolution of prices in real terms differs between countries and between forms of energy. The imprecision' of coal and gas data makes it difficult to draw reliable conclusions for the market in industrial fuel. Nevertheless attention is drawn to
+the large increase in prices for heating oil and to the relatively small increase in prices for motor fuels and for electricity ( see Annex B, Table 3).
+d) The dispersion of prices for .individual energy forms between Member States shows a tendency to diminish in most cases (with the exception of domestic gas and electricity ) ( see Annex B, Table 4).
+ 4.2. The graph reproduced below shows the evolution of relative prices for fuel oil, natural gas and coal. The conclusions should be treated with caution as it is based on highly aggregated data.
+ Although the price of the three energy forms rose roughly in step from 1973-78, the graph shows a breakdown at that point, coal rising by significantly less than oil, with gas occupying an intermediate position. The price of electricity, which does not appear on the graph , has risen more slowly . In real terms the increase in price during the period 1973-81 is of the order of 200% at most (and is even negligable in the case of some domestic
+# applications ), while it is of the order of 300-400% for fuels .
+4.3. Differences in energy prices for individual forms of energy between Member States have diminished ( see Annex B, Table 4 ).
+This does not , however , apply in the retail market , and the statistics suggest that consumer prices of gas and electricity for some domestic consumers are not being permitted to rise in line with the cost of supply, especially in Germany, Italy, Luxembourg and Greece (electricity), and in Italy, the Netherlands and the
+4.4. As noted in Section 3, these figures do not cover the prices of energy for large-scale industrial applications . ' This is , however , the area which is of. most significance for industrial competitivity. A recent report by a joint industry, trade union, and government task force in the United Kingdom suggested that while pre-tax prices for industrial energy in the UK are for most consumers broadly in line with those prevailing elsewhere in the Community, for very large consumers of gas and electricity, UK prices are relatively high, especially in relation to those prevailing in France and Germany . The Commission 's investigations suggest that this is probably true of electricity, but the position on gas is less clear .
+5.1. Energy prices may differ within Member States for four types of reason :
+these four types of explanation , only the first involves
+Although the need for realistic pricing is generally respected , there are cases where Member States depart from this principle.
+a) There may be cases in which prices are deliberately held below
+economic levels , either in general or to particular consumers .
+b) There may be differences in policy between Member States,. Examples include taxation, price control and differences in policy on the place of gas in the energy economy as a whole.
+- Differences in financial structure within the energy supply industry (e.g. privately owned or nationalised; integrated or
+not), and -in accounting practices can lead to significant differences in energy prices even in cases where costs of supply are similar.
+Finally , differences in location , wage and investment costs , productivity and levels of investment lead to differences in the cost of supply . -
+departure from the pMnciples agreed by the Council. But the aim should be to eliminate differences in policy and practice so that the energy price structure of each Member State is a genuine reflection of the cost of energy in that country. Distortion of competition arising from other causes is not only undesirable in itself, but creates pressures on countries whose policies and/or practices place them at a disadvantage to resort to competitive adjustment of policies .
+ They can be summarised as follows :
+a ) In coal producing countries , the cost of domestic production is -not competitive either with other fuels or with imported coal,
+and is heavily subsidised. The budgetary cost of this subsidy in 1980 was 2,200 MECU for the four Member States concerned.
+b) In some, extreme cases, state aids which appear to be contrary #
+to the Treaty are paid- to individual groups of energy consumers, for example, to the horticultural industry in the Netherlands, to fisheries in Belgium , France and Italy , and to agriculture in
+'Belgium. In all these cases the Commission has opened preliminary proceedings under Article 92 of the Treaty.
+In most countries there are isolated situations in which , for historic reasons, individual large-scale consumers have been granted long-run contracts at very favourable prices. This is the case of electricity supply in the Ruhr, where contracts for the steel and chemical industries were set many years ago at levels determined by the ability of major industries to
+generate their own electricity if the electricity supply industry could not offer competitive prices. Another case where
+problems may exist is the supply of gas to the fertiliser industry . All of these cases require careful investigation .
+d) The application of counter inflation policy may involve short- term restraints on the adjustment of prices in line with inflation. Recent examples are the freeze on gas and electricity prices in the UK in 1978/9 and in France in 1981. Provided such controls are clearly seen as temporary, they may do little harm in practice . It may, however , be useful for the Council to consider an arrangement whereby all such temporary controls are notified to the Commission, with a timetable for
+their removal specified in advance . r*
+# Annex B reviews , for each-of the four main energy markets , the
+reasons for divergences in price specific to that sector. The most important conclusions are as follows :
+a ) Coal . Differences in production and transport costs give rise to variations in price within the Community, but in practice these appear to be relatively small .
+b) Oil. Only in the UK and Germany is there no control on oil ν
+Finally , certain sectors , including agriculture and public transport, are to varying degrees exempt from oil taxation in all Member States. Although this arrangement does not strictly speaking violate the principle of realistic pricing, it is clearly contrary to its spirit. The Commission is therefore pursuing this issue separately.
+prices. In all other Member States there are regimes whereby movements in product prices are related to movements in the price of crude oil. This situation appears to give rise to distortions, especially at times of tension on oil markets, and the Council may wish to consider the scope for adopting more consistent arrangements within the Community .
+Differences in the structure and level of oil taxation are the most important source of differences in oil prices, and this
+problem is the subject of a separate Communication to the Council .
+Gas . There i s an important difference in policy between the UK, where British Gas is seeking in the medium term to align
+prices for 'firm gas with gasoil , and other Member States where residual fuel oil in the reference fuel. This
+difference in policy reflects in part differences in perception
+between Member States of the future availability and cost of gas supplies and of the proper place of gas in the energy economy. These wider issues are the subject of a separate Communication to the Council . «
+Electri city . Differences in electricity prices reflect not
+only differences in the cost of generation, but also differences
+in the construction of tariffs . In implementing the Council 's forthcoming Decision ori electricity tariff structures, the Commission wishes to pay particular attention to the methods whereby
+tariffs encourage off-peak consumption, and to the accounting conventions whereby generating costs are allocated between
+different types of tonsumer.
+6.1 . The Council is invited to adopt a Resolution in the terms suggested in the draft which follows.
+1. The Council reaffirms that energy pricing has a central role to play in •policies to reduce dependence on oil, and that pricing policy should be
+governed by the principles agreed by the Council in June 19801 . In pursuing the implementation of these principles the Council further agrees that :
+- consumer prices should ensure an adequate rate of return on investment in energy supply and energy efficiency ;
+- prices should provide consistent market signals on the price of energy relative to those for other goods and services and, so far as is possible, on trends in price relativities between individual forms of energy ; *
+- differences in energy prices within the Community should be limited to those arising from differences in the cost of supply. Member States who enjoy comparative advantage .in energy supply, whether as a result of favourable location , prudent investment , superior productivity or other reasons, should be 'free to reflect that advantage in consumer prices ;
+- for the rest, differences in prices within the Community arising from differences in policy must be minimised. To this end there is a need to develop common approaches to energy pricing in such areas as energy taxation , price regulation , the construction of gas and electricity tariffs , and the management and financing of public utilities .
+1Annex to the Council Resolution of 9.6.1980 on New Lines of Action for the Community in the Fielc/ of Energy Saving ".* 0J No C 149 of 18.6.1980 , p. 4 .
+ The harmonization of policies required to achieve consistency in energy pricing within the Community will be a gradual process. An essential pre-condition for its achievement is an improvement in transparency in the energy market . In this respect , the Council agrees that appropriate arrangements must be made to achieve the following aims:
+- all consumers should have easy access to information on the price of energy, on how that price would vary in response to changes irt the volume and pattern of individual demand, and on. the price implications of switching to alternative forms of energy;
+- in the case of industry, consumers should also have ready access to information on the energy prices available to their competitors, both locally and in other countries ;
+- to enable consumers to reach informed judgements on trends in energy pricing , consumers should , in addition , be informed about the methods by which prices and tariffs are determined, about the prices paid for primary energy by the energy industries, and about other costs incurred in the transformation of primary energy and its distribution to consumers .
+To this end, the Council endorses the following programme of action to improve transparency:
+Coal. The Commission will consider with Member States and the coal industry how best to improve the scope and quality of information on
+coal prices currently available under ECSC rules, and how to make that information available to the consuming public .
+OiI. The Commission's existing Expert Group on Oil Transparency will continue its work, focussing attention on the improvement of data on wholesale supplies of heating oil and on the transparency of
+refining and distribution .
+ Gas and electricity. The Commission will consult the gas and electricity industries and Member State administrations on the best means of improving the scope and quality of existing information on gas and electricity prices, and will make proposals to the Council accordingly .
+Member States will take all necessary measures to ensure that gas and electricity suppliers publish the tariffs or tariff formulae on which their prices are based.
+After appropriate consultation the Commission will propose to the Council a regulation for the communication to the Commi ssion .of information on the prices at which coal, oil. and gas are purchased by the gas and electricity industries and on other elements governing the cost of gas and electricity supply.
+The Council recognises that improvement in transparency of prices for energy to very large industrial consumers will not be easily achieved. It therefore invites the Commission to consider with the industries concerned and with national admini strations' what measures
+may be necessary to ensure that the agreed principles of energy pricing are respected in major contracts of this kind.
+In working towards the harmonization of energy pricing policies, the Council agrees that priority should be given to the following issues:
+- Oil taxation. The Council will give urgent attention to the proposals of the Commission for the harmonization of the structure and level of oil taxation .
+- Price control. The Council agrees that counter-inflation policy must not be permitted to inhibit the adjustment of energy prices to reflect changes in market circumstances. It therefore invites the Commission to prepare proposals for tl\e monitoring at Community level of all price control measures which might have this effect.
+ - Oi L pri ce regimes . The Council agrees that differences in the arrangements whereby changes in oil product prices are related to
+change's in the price of crude oil are a source of qjistortion. It therefore invites the Commission to prepare proposals for improving the consistency of such arrangements within the Community.
+- Gas pricing . " The Council recognises that differences in gas prices within the Community may to some extent arise from divergent views of the future availability and cost of gas supplies and of the proper place of gas in the energy economy. The Commission has submitted a separate communication on gas supplies and prospects.
+- Electricity tariffs. The Council has approved a decision on the harmonization of electricity tariff structures. It invites the Commission to consider with the electricity industry and Member State administrations
+the best means of implementing that decision, and of further harmonising the conventions governing the formation of electricity tariffs .
+- Gas tariffs. The Council invites the Commission to. submit proposals for the harmonization of gas tariff structures.
+This technical annex reviews, for each of the four main energy forms - coal, oil, gas and electricity - some of the more important features of pricing policy and practice . Each section :
+- surveys likely developments in the next ten to twenty years;
+- summarises the present state of price and cost transparency; and
+- discusses the main factors leading to divergence in prices within the
+Community and the scope for achieving greater consistency in policy. 1. C0AL
+World reserves of coal are very large . Expansion in
+production and world trade will require heavy investment in transport infrastructure and in coal-burning plant. Costs of production vary widely . Community coal , much of which is deep mined, is generally more expensive than production from resources now being developed elsewhere; the cheapest sources are likely
+to include open cast mines in the Western USA, South Africa, and Australia . The cost of production is likely to increase , but it is widely accepted that coal prices will nevertheless remain competitive with those for oil. The price of coal within the Community will, however, be' heavily influenced by transport costs.
+ Transparency. For coal, unlike other forms of energy, the ECSC Treaty itself provides for an official Community pricing regime, which in particular imposes on Community producers the obligation to publish their official pithead prices, which are in'principle related to the cost of production. However, this theoretical transparency is in practice limited, especially for large consumers , by the very high additional cost of transport , and by the alignment of. prices against those of coal from competing sources .
+Council Decisions1 further provide for the official communication of import prices for coking coal and power station coal; these Decisions require the Commission to treat this information as confidential, and it is only published after aggregation on a Community-wide basis. Prices for imported coal are also available in the general trade statistics, but are not in a form suitable for use in an energy policy context.
+For information on coal prices actually prevailing outside the specialised steel and electricity markets, the Commission conducts a separate research exercise on ruling prices . This exercise , which involves the collection of price data from a small sample of industrial users throughout the Community, covers oil and gas (and to a limited extent , electricity ), as well as coal . It is limited in its value by the size and distribution of the sample (coverage
+of the UK, Ireland, Denmark and Greece is less thorough than for the six founder Member States ). However , it provides a useful cross check on information from other sources, especially for the coal sector . Returns from industrial firms are confidential , and
+the small size of the sample therefore means that it is not possible to publish results in sufficient disaggregation to make any useful contribution to transparency.
+1.3. The ECSC also provides for the communication of detailed
+Reasons for divergence . Even within the Community production costs of coal as reflected in official prices vary between coal­ fields and between countries by 20-30%. However, the practice of alignment of prices between coalfields or on the pMce of
+imported coal has the effect of reducing the differences in price arising from differences in production costs. Transport of coal is expensive and may constitute as much as 75% of the final price in the case of imported coal in inland regions, but in practice
+this does not appear . to give rise to very marked price differences . The Commission 's research into ruling prices ( see para . 1.2 .) suggests that prices for industrial coal differ by less than those of other fuels. Confidential information on coal import prices also suggests a convergent trend in prices at ports of entry to the Community .
+information on the cost of production of Community coal, and
+although reliable however ,
+this information is not published in official form, data is available from the coal industry. There*is, no systematic information on transport costs, and information on coal import prices is protected by
+• 2.1 . It is not possible to forecast whether OPEC as an organization will retain effective control over the oil market. However, for the foreseeable future the market will continue to be dominated by a few large exporters whose present policy is to export in excess of
+their current requirement for foreign exchange but below their
+maximum capacity ( for example , Saudi Arabia , Kuwait and the UAE ). It is therefore inevitable that the world price will remain unstable and unpredictable.
+In the long run, a ceiling for prices will be set by the marginal cost of production from non-conventional sources. Estimates of the cost of production from these sources vary widely. Some recent studies suggest that commercial production from tar and oil sands and the production of methanol from coal is already or may soon become economic at current oil prices. The present consensus in the energy industries, however, is that prices would need to rise , perhaps substantially , above their present real level before competition from synthetic sources secured effective control of the
+market; OPEC seems to be pursuing a policy of gradual increase to this or higher levels. At this level, however, oil would be steadily displaced from its position as price leader in the bulk energy market, and its use would be largely confined to non- substitutable applications (e.g. transport fuels and petrochemical feedstock). In the bulk market for heat and electricity generation there are already cheaper alternatives to oil, especially coal and nuclear heat.
+Transparency . Improved transparency of oil prices has been a priority for the Commission in recent years. A Resolution of
+13 February 19751 commits the Council to a consumer pricing policy based on competition and on the transparency of costs and prices. Official ex-tax prices for the main products are notified to the Commission every week . In addition , a Council Directive of 19762
+requires Member States to notify average market prices for the «
+four main product categories ( motor fuels and heating oils ) at monthly intervals, and up-to-date reviews of oil price information are published by the Commission at regular intervals. However,
+2OJ No 153/6 of 9/8/1975, Section III 76/491/EEC of 4/5/1976
+this data is mainly related to retail prices; information on contract prices for bulk supplies to industry is much less reliable; differences in market conditions give rise to a need for care in making direct comparisons , especially for gasoil .
+Nevertheless price transparency for oil products is better than for all other fuels .
+2.3. The Commission receives extensive information and published a regular summary of average cif prices for imported crude oil. The Commission's expert group on oil prices is currently considering the scope for improving transparency of refining and
+distribution . Without information of this kind , it is . not possible to monitor strictly the principle that prices should reflect in full the cost of supply.
+2.4. Reasons for divergence. Prices for individual oil products, especially after tax, differ widely within the Community. Tables 3 and 4 of Annex B show that in money terms the divergence has shown a tendency to increase, though as a proportion of the total price it has diminished .
+Prices for individual products tend to vary more than for the average price of all refined oil (refinery netbacks). So far as pre-tax prices are concerned, divergence of prices arises in the main from differences in refining structure , and above all , in national arrangements for the regulation of product price movements. At times when oil prices are steady, there is a tendency for prices within the Community to converge. When they are rising or .falling , however, there can be marked differences
+in market conditions between those countries ( UK and Germany ) where there is no official regulation of oil product prices and
+those where price controls apply. The present situation (September 1981) is particularly difficult to interpret since there
+ is at the same time a surplus of oil, Leading to the widespread offer of discounts on official prices, and a general increase in official prices as a consequence of the rise of the dollar. In the absence of reliable information on refining and distribution costs
+(see previous paragraph), the Commission is unable to express a
+view as to the extent to which inconsistency in price regimes leads to breaches of the principle of realistic pricing.
+2.5. Whether or not this inconsistency is a source of serious distortion in normal times, it can cause difficulties in times of tension on
+oil markets. Experience suggests that at such times there is a danger that oil may be diverted to those countries where no price controls apply, and this may have the effect of exacerbating local supply difficulties and increasing tension on the spot market . Although it is essential that price regulation is not used as a means of shielding consumers from long-term cost increases, it may be valuable in some circumstances to cushion the impact of short- run movements in the volatile market for crude oil. In this respect, the arrangements which exist in some Member States whereby movements in official price maxima are related to movements in crude oil prices may have a useful contribution to make. The Council is therefore invited to consider whether there is scope for the adoption of a common approach to this problem
+throughout the Community.
+2.6. Differences in the rate of tax payable on oil products are the most important source of divergence between Member States. These are particularly serious with respect to excise duty payable on heating oil, since thi-s has a direct effect on industrial competitivity. Nor is the effect confined only to consumers of oil, since gas
+prices are generally set by reference to those for heating oil and electricity prices reflect the price of oil used in generation.
+In a separate Communication on oiI*taxation, the Commission has proposed a progressive harmonization both in the tax base and in
+the rates of taxation applied on individual products, and lays particular emphasis on the importance of regular revaluation of
+duties to prevent their erosion by inflation 1 . An important issue
+for- examination in this context is the balance of taxation as «
+between motor fuel and heating oils. ( Benelux and Denmark ) residual fuel
+effectively exempt from taxation.
+other hand, substantial tax is levied. Considerations of fiscal efficiency favour placing thje main weight of taxation on motor fuels where there is no effective substitute for oil. Energy policy would appear to require the taxation of oil so as to favour conversion to coal and electricity. This implies a need for a significant stiare of oil taxation to fall on these heavier products used for heat generation for which coal and electricity are satisfactory substitutes.
+3.1. As in the case of oil, there is very large unused capacity for the production of gas at very low cost. With the growth of demand for gas in industrial countries, some oil producers are now seeking to extend their control of oil prices to the gas market , and . are demanding prices at parity with crude oil. In the short run the concentration of gas export capacity in a few oil producing countries gives producers some leverage ; however , a cif export , price for gas at anything like parity with crude oil would mean that gas would cease to be competitive even with oil products on most markets.
+In the longer term, the size and geographical distribution of gas reserves make it reasonable to forecast that in the long run the market will cease to be dominated by a few large exporters. To
+this end, it will be necessary for consuming countries to
+In a number of Member States oil used in industry is
+In the UK and Ireland, on the
+ ensure that demand expands no faster than is compatible with the development of arrangements for secure and diversified supplies with adequate security reserves. Although gas will still be traded at prices much higher than the average c®st of -production, a ceiling will be set by the price of alternative fuels for heat generation, especially coal and electricity. The close link between gas and oil product prices which exists at present ,is therefore likely to weaken^
+3.2. Transparency. For firm (non-interruptible) gas supplies, the Statistical Office of the European Communities (SOEC) has defined a range of typical consumer types according to the volume and pattern of consumption, and publishes a survey of prices in selected cities throughout the Community according to those definitions at annual intervals. The Comit6 d'Etjjdes Economique
+de l*Industrie du Gaz (COMETEC-GAZ) communicates data to the Commission on a private basis on a more limited range of consumer types, on different definitions and confined in the case of industry to small consumers in France, Benelux and Italy at six
+monthly intervals.
+information for the domestic sector and a useful indication of
+trends in prices for industry, except for Germany and the UK. No information is available from the largest German wholesaler (Ruhrgas), and British Gas provides data only on the tariff formulaeapplyingtonewlyconnectedcustomers; theserepresenta very small fraction of the market and are not representative of
+prices actually prevailing. For very large-scale applications,
+especially as.feedstock in the chemical industry, the Commission /
+knows of no source of information. A large proportion of gas supplies for industrial applications are on an interruptible basis, for which conditions vary widely both within and between Member States, and for which price comparisons are particularly difficult.
+3.3. Reasons for divergence. Annex B shows a particularly wide divergence in gas prices within the Community, though this is in part attributable to the inclusion in the statistics of oil-based town gas prices for domestic consumers in Denmask and Ireland.
+On the other hand, the figures do not take account of large industrial consumers where industry reports substantial differences
+in price within and between Member States. The attention #of the Commission has indeed been, drawn to the existence in some countries
+(particularly the major gas "producing countries, the UK and the Netherlands) of contracts for the supply of gas to fertiliser manufacturers at very low prices, and pressure is being placed on gas suppliers in Other, countries to match these prices.
+3.4. One reason both for poor transparency and divergence in prices is that the philosophy of gas pricing is different from that applying to other fuels. Many Member States have indigenous reserves of natural gas which can be produced at very low cost, and since their discovery in the 1950's it has always been the practice to set gas prices by reference to the fuels with which it competes, which before 1973 was generally taken to be residual fuel oil. This is because pricing on a "cost plus" basis, as has generally been the practice in North America, would lead to uncontrollable expansion in demand and the rapid depletion of resources. In accordance with this approach, the gas industry has not normally been required to observe the same standards with respect to price discrimination and transparency as apply to the electricity industry. In the UK and Germany the tariff formulae on which industrial contracts are based are not published.
+3.5. Since the sharp rise in oil ,prices starting in 1973, demand for gas has been growing at a rate that has required European industry to move to a more strict alignment with competing fuels; retail prices
+for household consumption are now generally set at levels comparable to those for gasoil and electricity. For industry, the process has been less even; in the UK there has been a particularly sharp increase in prices for new contracts- which for
+«* non-interruptible supplies are in principle set at levels
+comparable to those for gasoil. Although prices in other Member States have also moved upward, the declared policy of suppliers is still in most cases to set prices by reference to residual fuel oil, and the UK survey referred tq in para. 4.4. of the main paper reports complaints that British industry is suffering a serious competitive disadvantage.
+3.6. The information available to the Commission is not sufficiently reliable to permit a judgement as to whether this complaint is justified. The position is complicated by the fact that for the largest consumers , supplies are normally on an interruptible basis . The availability of interruptible supplies and the conditions of interruptibi lity vary widely between Member States , and the pricing
+policy of individual suppliers is necessarily conditioned by the extent to which a growing interruptible market is required so as to enable the supplier to meet peak demand. But at least in theory this is an important difference in pricing policy which arises from differences in perception between Member States of the future availability and cost of gas supplies and of the proper place of gas in the energy economy as a whole. This issue is examined in more detail in a separate communication to the Council on natural gas, and it may be best at present to pursue this issue in that context. In order to inform that discussion the Commission attaches particular importance to progress on transparency and to the collection of reliable information, initially on a restricted basis, on gas import prices .
+3.7. At the same time the Commission is considering with respresentatives of the gas industry the scope for proposals for the harmonization of gas tariff structures, on similar lines to the proposal on electricity now before the Counqil.
+4.1. Primary energy costs form a relatively small part of the t<>tal cost of electricity supply. This, and the conversion of electricity generation systems from oil and gas to coal and nuclear has contributed to a fall in the price of electricity relative to those for other fuels, and this trend is likely to continue. - . -
+Transparency . SOEC, in conjunction with the Union Internationale des Producteurs et Di stributeurs de I'Electri cite XUNIPEDE), has defined a range of consumer types and UNIPEDE communicates data to the Commission according to those definitions at annual intervals on the understanding that such information is not published. SOEC carries out an annual survey covering a similar range of
+consumers but excluding the larger industrial consumers.
+For tariff customers this data is reliable and for industrial consumers it provides a useful general indication of trends;
+industrial prices are related to published tariff formulae for all but the largest consumers; although differences in contract conditions within and between Member States lead to difficulties
+in comparison, these are not so severe as in the case of gas. As with other fuels , transparency of prices to very large consumers , especially in the steel , chemicals and metallurgical industries ,
+is poor, and the picture here is complicated by the existence in many countries of long-term contracts concluded in the past at
+ 4.3. Some producers, notably Electricite de France (EDF), publish extensive information on the cost of electricity production. Others , especially in those countries ( Germany , Belgium , the Netherlands and Denmark ) where the industry is privately owned , publish none. The Commission receives official information, in confidence, on the price of power station coal, but there is no reliable information on the input, price of oil and gas. U^JIPEDE collects and communicates,' on a confidential basis, detailed information on the planned investment cost of power stations
+under construction, but there is no official information on realised investment costs .
+Reasons for divergence . Electricity prices vary significantly within the Community . In the case of industry , some of these differences arise from non-comparability of the statistics; for example, the extent to which consumers have to meet the cost of connection varies between Member States, and the price actually paid under an individual contract may not always be accurately reflected by the published tariff formula on which it is based. But the most important source of difference is inequality in the cost of generation and distribution. The cost of fuel is an important factor, and the extent to which individual suppliers are able to meet their base load demand from low-cost sources such as hydro , nuclear , lignite and coal , significantly affects the overall cost of the system. But fuel is only a part of
+overall cost; to a much greater extent than is the case for other forms of energy, electricity costs are determined by the cost of labour^ of power station construction and of capital.
+Because electricity cannot be stored, the system has to have the capacity to meet peak demand, and operates at well below capacity most . of the time . There is no single objectively valid method for apportioning the share of these large overhead costs between consumers, and important differences can arise from the adoption
+of different conventions .
+4.5 . One feature of parti cular- importance for industrial competiti vity
+is the extent to which prices to large industrial consumers can be reduced by confining demand to off-peak periods. This tends to be determined by the extent to which individual systems are based
+on hydro-electric and nuclear stations which cannot economically be shut down . In France and Germany , where hydro and nuclear
+capacity is relatively large, particularly attractive incentives are offered to encourage industry to smooth the pattern of demand for electricity as a whole . As a result , the degressivity of industrial tariffs (the extent to which the price per kWh falls as the level of consumption rises) in France and Germany is
+particularly marked. A firm in France that is able to accept interruption of its electricity supplies throughout the 400 hours of peak demand on winter weekdays can , in certain circumstances ,
+pay an average price per kWh below the marginal cost of nuclear generation .
+4.6. This effect may be amplified by differences in approach to the construction of tariffs . In countries where the electricity industry is publicly owned, there is normally a requirement for suppliers to divide costs between consumer types on an
+equitable basis. No such obligation applies to private industry
+and it has been suggested that in some parts of Germany, Low-cost generating plant is in effect hypothecated to large-scale industrial consumers, while prices for smaller consumers are calculated on the basis of costs of generation from higher-cost pl'ant - in effect a cross subsidy of large consumers by small ones.
+4.7. The issues raised here are of unusual complexity, and the pnce and cost transparency of the electricity industry is inadequate to
+permit any reliable judgement on them. It is, however, important that progress should be made towards a common view on those problems; for while it is essential that those countries who have invested prudently in electricity generation should enjoy the benefit of that investment in advantageous electricity prices, it is also important that the public should be satisfied that those prices are based on a fair and objective appreciation of cost.
+For if it is not it will become increasingly difficult for governments in those countries who are less favourably placed to resist pressures far concessionary pricing .
+4.8. The draft decision on electricity tariff structures now before the Council represents a 'useful first step, and reflects a general interest in these issues on the part of the electricity industry. It is , however , only a first step , and the Commission now proposes to discuss with the industry and with national administrations how best to monitor the implementation of this decision. To give
+practical effect to its recommendations, it will be necessary in the long term to improve the cost transparency of the
+electricity industry, and attention should probably be focussed in the first place on the price of power station fuel, and on the financial structure and government financing of the electricity
+industry. It may be appropriate to consider the extension to the electricity sector of Commission Decision No 80/723 on transparency of financial relations between Member States and public undertakings 1 .
+0J No L 195 of 29 July 1980
+ Prices on
+1 January of each year
+INDUSTRIAL ELEC- 1980 1.11 .90 .91 TRICITY (small 1981 1.0V .82» .96 consumers )
+( 1) Including VAT except for residual fuel oil and industrial fuels
+* Prices which differ from Community mean by more than one standard deviation •• Prices which differ from Community mean by more than two standard deviations
+ Prices on INCIDENCE 0? TAXATION AS PERCENTAGE OF PRE-TAX PRICE 1 January of each year
+prices on 1 January of each year 1973=100
+domestic electricity (large)
+Industrial electricity (small)
+Industrial electricity ( large )
+Domestic gas ( small )
+Price* include VAT except In the case of residual fuel oil and Industrial fuels.
+ _ . Pnces on
+1 January of each
+ye^fr®nda in the dispersion of prices within the Commifnity as measures by the coef­ ficient of dispersion of prices (the standard deviation expressed as a percentage
+in EUA's and SPP*s· VAT is included for residual fuel oil and industrial fu<
+Domestic coal 1973
+Domestic electricity 1973 • small 1978
+Domestic electricity - heavy
+Industrial electricity 19. 15.Ö 14.9 - small 1978 19.3 20.4
+Ther draft Communication and Council Resolution should be adopted by the Commission at its meeting on 23 September T981-
+The documents should be sent to the Council as soon as possible so as to prepare for its consideration at the meeting of the Energy Council on 27 October.
+Communication of the Commission and Draft Council Resolution on Energy Pricing - Policy and Transparency
+This paper is linked with the Communication on Oil Taxation approved by the Commission at its meeting on 9 September. It develops the prdua.cApl&s agreed by the Council in June
+1980 which call for realistic pricing and transparency. It surveys the existing state of transparency in energy markets within the Community. It describes recent trends in prices.
+It examines the reasons for divergence in prices for individual forms of energy within the Community, and presents in conclusion a draft Council Resolution which contains a
+fuller statement of Community aims in this field, proposes a programme of action to improve transparency, and calls on tha Commission to make proposals- for action in a number of areas where theren is immediate scope for improving the "consistency of policies effecting energy pricing.
+Z- The Commission is invited :
+- to adopt the draft Communication and ,Council Resolution - to transmit them to the Council
+prochaines années;
+(Revised text)
+This question is on the agenda for the61
+To : Members of the Commission Mr Audland
+( Communication from Mr
+meeting of the Commission, on Wednesday
+Thar draft Communication and Council Resolution should be adopted by the Commission at its meeting on 23 September 1981 »
+The documents should be sent to the Council as soon as possible so as to prepare for its consideration at the meeting of the Energy Council on 27 October.
+Communication of the Commission and Draft Council Resolution on Energy Pricing - Policy and Transparency
+This paper is linked with the Communication on Oil Taxation approved by the Commission at its meeting on 9 September. It develops the p:riu.c±pjL&s agreed by the Council in June
+1980 which call for realistic pricing and transparency. It surveys the existing state of transparency in energy markets within the Community. It describes recent trends in prices. It examines the reasons for divergence in prices for individual forms of energy within the Community, and presents in conclusion a draft Council Resolution which contains a fuller statement of Community aims in this field, proposes
+a programme of action to improve transparency, and calls on tha Commission to make proposals for action in a number of areas where there: is immediate scope for improving the consistency of policies effecting energy pricing.
+2 . The Commission is invited :
+- to adopt the draft Communication and Council Resolution - to transmit the» to the Council
+( Communication from the Commission and draft Council Resolution )
+1.1 . A consistent and rational approach to energy pricing is one of the main components of policy for the achievement of the aims which the
+Community has set itself in the field of energy supply and demand.
+It should, in particular , assist the process of macroeconomi c adjust­
+ment to higher prices for imported oil, permit an adequate stimulus to investment, encourage energy efficiency and contribute to the transition from oil to other forms of energy.
+1.2. In this Communication the Commission:
+- develops the principles of energy pricing adopted by the Council in its Resolution of 9 June 1980, and suggests a series of
+practical aims for energy pricing policy ( Section 2 );
+- surveys the state of transparency in the markets for the various forms of energy ( Section 3 );
+- describes recent trends in prices within the Community (Section 4);
+- examines the reasons for divergence in prices for individual forms of energy within the Community ( Section 5 );
+- presents , in conclusion , a draft Council Resolution which contains a fuller statement of Community aims in this field, proposes a programme of action to improve transparency, and suggests a number of areas where there is immediate scope for action to improve the consistency of policies affecting energy pri cing .
+ 1.3. In this main paper, many complex issues are dealt with in summary form . A technical annex ( Annex A) presents , for each of the four main energy markets ( coal , oil , gas and electricity ) a somewhat fuller analysis of market prospects, the state of transparency, and the reasons for divergences in price within the Community. A statistical annex (Annex B) presents a summary of some of the latest price data available to the Commission.
+2.1 . Both the Council and the European Council have on numerous
+occasions reaffirmed the central role that energy pricing has to play in promoting structural change in the economy of the Community. At a macroeconomic level the main elements of policy were set out
+in a Communication of the Commission to the Council on "Energy and Economic Policy" ( C0M(80) 583) . This paper laid particular stress on the need for consumer prices to reflect in full trends in energy prices on world markets, on the need for adjustment in oil product prices in a manner that does not discourage energy saving and fuel switching, and on the need for a predictable and rational hierarchy
+of relative prices between individual forms of energy.
+In a Resolution of June 1980, the Council adopted the following principles for energy pricing policy:
+- consumer prices should reflect representative conditions on world markets , taking into account long-term trends ;
+- one of the factors determining consumer prices should be the cost of replacing and developing energy resources;
+- energy prices should be characterised by the greatest possible degree of transparency 1
+However , acceptance of these principles at a theoretical level will not in itself bring about a consistent and rational approach to energy pricing throughout the Community .
+1. Annex to Council Resolution of 9.6.1980 on "New Lines of Action in the Field of Energy Saving". 0J No C 149 of 18.6.1980, page 4.
+ This is in part because energy markets are highly imperfect; external oil prices are largely determined by decisions of the Organization
+of Petroleum Exporting Countries (OPEC); oil product prices are heavily influenced by consumption taxes; coal pricing is dominated
+by public intervention; gas and electricity utilities enjoy local monopolies and are in most cases directly or indirectly controlled by government. Even between Member States who are genuinely seeking to implement the agreed principles, differences in policy can and do lead to disparities in prices .
+ 2.3. Moreover this imperfection in markets is accompanied by a generally poor level of transparency. The Community has devoted particular attention in recent years to improving the scope and quality of public information on energy prices in the belief that this is one of the best means of ensuring that prices genuinely reflect cost, and distribute costs fairly between consumers. Section 3 below reviews the progress that has been made in this field.
+2.4. The first two principles - the need, on the one hand, for reaIistic pri cinq (" verite des prix ") and , on the other hand , for prices to reflect trends in long-run cost - raise a wide range of difficult theoretical issues . To what extent is there , or will there be in the future, a world market for coal and gas such as already exists for oil? What is the long-term trend in production costs for individual fuels? To what extent will inter-fuel substitution affect relativities between the prices of individual fuels? How
+is the replacement cost of a non-renewable resource to be defined? How long is the long term? If prices on world markets depart in the short or medium term from levels that are justified by long- term cost considerations , which principle is to take priority ?
+2.5. It would not be helpful to develop proposals for energy pricing policy in the Community by seeking agreement on all these issues. Trends in energy prices and costs can be forecast only in very general terms . In particular , it is inevitable that the world price
+of oil will remain highly unstable and unpredictable. This instability is indeed a major reason why the Community has set itself
+the strategic objective of reducing dependence on oil . Because the price of other fuels is linked to that of oil, the course of their prices is also unpredictable ; it
+ is , however , possible to identify some Long-term trends . Annex A contains a brief summary, for each of the four main energy types,
+of long-term market prospects and reaches the following conclusions:
+Oi I prices will remain volatile . In the long run an upper limit wil be set by the cost of non-conventional oil
+which will probably be higher than the present price . At these levels , oil will cease to be
+competitive on the heat market and its use will increasingly be confined to non-substitutable uses, especially transport fuels and petrochemi cal feedstock .
+The future course of gas prices is particularly difficult to
+hand , reserves are large , and better
+for oil . On the other hand , unless managed at an international level, there
+forecast . On the one
+distributed than those
+reserves are carefully
+is a risk that producers, some of whom are already seeking parity between prices for gas and for crude oil, may succeed in gaining control of the market . However , in the long run , a ceiling will be set by the price of alternatives, especially coal and electricity .
+c) World coal reserves are very large and seem capable of meeting
+any likely expansion in demand at prices which will remain
+competitive with those for oil . Transport and inf rastructure costs will remain an important element in consumer prices.
+d) The cost of electricity supply has fallen relative to the price of competing fuels , and this trend is likely to continue .
+Priority should therefore be given to conversion from oil to coal and electricity. Gas has made a useful contribution to the reduction of oil dependence in the past ; however , the extent to which gas can continue to enlarge its share of the energy market without giving rise to security and price risks is an issue on which there is no unanimity within the Community ( see Section 5 ).
+ At the same time, however, there are many sources of inequality in prices within the Community which arise not from differences in cost but from differences in market structure , fiscal policy , and the organization and financing of public utilities. It is in minimising the distortions which arise from these sources that there is a particularly important role for the Community to play in promoting a consistent approach to pricing policy. In implementing the agreed principles, the Community's aims should include the following :
+- consumer prices should ensure an adequate rate of return on investment in energy supply and energy efficiency;
+- prices should provide consistent market signals on the price of energy relative to those for other goods and services and, so far as is possible, on trends in price relativities between individual forms of energy;
+- pricing policies should combine realistic pricing based on costs with the rigorous pursuit of other energy objectives, particularly on the demand side . Thus the existence of comparative advantage , whether it arises from favourable location, prudent investment
+or superior productivity may justify differences in energy prices within the Community. Differences may also be justified by priorities such as the reduction of dependence on oil or the penetration of oil, coal electricity or other alternative sources provided that such priorities in accordance with community energy
+- Differences in prices within the Community arising from differences in policy should in any case be clearly identified and should be
+progressively reduced. To this end, there is a need to develop common approaches to energy pricing in such areas as energy taxation, price regulation, the construction of gas and electricity tariffs, and
+the management and financing of public utilities .
+3.1. As suggested in para. 2.3. above, transparency in the market for energy is a necessary, but not sufficient condition for the realisation of the above aims. In practical terms the requirement for transparency means that :
+- all consumers should have easy access to information on the price of energy, on how that price would vary in response to
+changes in the volume and pattern of individual demand, and on the price implications of switching to alternative forms of energy ;
+- in the case of industry, consumers should also have ready access to information on the energy prices available to their competitors , both locally and in other countries ;
+- to enable consumers to reach informed judgements on trends in energy pricing, consumers should, in addition, be informed about the methods by which prices and tariffs are determined, about the prices paid for primary energy by the energy industries, and about other costs incurred in the transformation of primary energy and its distribution to consumers .
+These three aims represent an ascending scale of ambition . Efforts by the Commission to improve transparency, especially in the oil market, have generated a wealth of reliable, published information on the price of transport fuels and of prices for other forms of energy for domestic consumers.
+For prices to industry, the position is less satisfactory.
+Although official prices and tariffs are widely published, industrial prices are , in most countries , normally set for all but the smallest consumers in individual contracts. Such contract
+ prices, even when based on published tariff formulae, may vary significantly in accordance with individual circumstances . Although many suppliers are willing to publish aggregated data on the average cost of energy to consumers in specified categories, some are not ; this applies in particular to very large consumers .
+3.3. Annex A includes a survey of the extent to which the Commission has reliable information on prices and costs in each of the four energy sectors. Not all of this information contributes to transparency . In the first place , a great deal of information , some of it supplied under Community regulations, is communicated to the Commission on a conf identi a I basis . The Commission can only use this information as background, and in some cases uses aggregated results derived from it in official documents. In other cases the Commission receives restricted information which can be communicated to Member States and other interested authorities , but which cannot be published . The most direct contribution to transparency is made in cases where information is collected with a specific view to publication. In summary, the conclusions are as follows :
+a) CoaI. ECSC rules require the publication of official prices
+based on the cost of coal production within the Community.
+In practice , however , the prices actually paid by consumers
+are heavily influenced by transport costs and by the practice
+of downward alignment to the price of imported coal. The Commission receives , but does not publish , data on coal import prices. The coal industry provides reliable information on
+the cost of production within the Community on a confidential basis.
+b) OiI. The Commission publishes extensive information on prices of crude oil and prices for and taxes on retail sales of the main products. An expert group on oil prices works on
+a continuing basis on the improvement of these arrangements, and is at present focussing attention on contract prices for bulk supplies of heating oil and on the means of improving transparency of refining and distribution .
+c) Gas. The Statistical Office of the European Communities (SOEC) publishes an annual survey of gas prices. For most countries this gives a reliable indication of prices for firm (non- interruptible ) gas to all but the largest industrial consumers . However, in the UK and parts of Germany, industrial gas tariffs are not published, and no information is available from the
+largest German wholesaler ( Ruhrgas ). In most countries , an important share of industrial gas is supplied under interruptible contracts for which conditions vary widely, and on which the Commission receives no systematic data. The Commission receives no information of any kind on the price at which suppliers acquire gas nor on the costs of handling and distribution .
+d) Electri city . The SOEC publishes an annual survey of electricity prices throughout the Community which gives a reliable guide to prices to all but the very largest industrial consumers. As with other fuels , transparency of prices to such consumers , especially in the steel and chemical industries, is poor, and
+the picture here is complicated by the existence in many countries of long-term contracts concluded in the past at very favourable prices. Some electricity producers publish data on the cost of generation and distribution, but others, especially in those countries (Germany, Belgium, the Netherlands, Denmark) where the industry is privately owned, publish none. There is no reliable information on the input price of oil and gas.
+For the retail market , the present situation is satisfactory .
+The market in bulk supplies for industry presents more
+difficulties. Some energy suppliers and consumers argue that since
+skill and specialised knowledge are required to make meaningful comparisons between markets where conditions differ, the communication of price information should be restricted. The Commission does not agree. The progress that has already been made in the oil and electricity markets shows that the collection and publication of reliable data is both possible and useful. There is no justification for treating different fuels in
+different ways, and the Commission therefore attaches importance to the improvement of the quality of existing gas and coal price statistics, and to establishing arrangements for the collection and publication of data on coal and gas import prices.
+It has to be recognised , however , that improvement in transparency of prices to very large industrial consumers will not be easily achieved. It will therefore be necessary to develop separate arrangements for monitoring the prices charged in contracts of this kind at Community level so as to ensure that Community rules on competition and the agreed principles on energy pricing are respected .
+4.1 . Some of the price data described above is presented in Annex B in the form of four tables showing trends in the relative levels of prices as between Member States ( 1 ), the incidence of taxation , the evolution of prices in real terms, and trends in the dispersion
+of prices within the Community. The prices are for January 1973, 1978 , 1980 and 1981 . The following conclusions can be drawn :
+a) The position of each Member State with respect to the Community mean differs for each form of energy; this reflects policy differences ( see Annex B, Table 1 ):
+- Germany : low prices for gasoline ; high prices for heavy consumers of domestic electricity; high prices of industrial gas .
+■/a■■ In most cases comparable statistics for Greece are not yet available .
+ - France: low prices for industrial electricity.
+- Italy : low prices for diesel ; high prices for gasoline ; low prices for small domestic consumers of gas and
+electri city .
+- Netherlands: low prices for domestic gas.
+- Belgium: high prices for domestic electricity.
+- Luxembourg: low prices for motor fuels and electricity.
+- _UK: high prices for automotive diesel; low prices for domestic gas.
+- Ireland: high prices for industrial electricity. - Denmark : high prices for heating oil .
+b) Consumer taxes have an important influence on price levels and are an important element in differences between consumer prices (see Annex B, Table 2) (1).
+c) The evolution of prices in real terms differs between countries and between forms of energy. The imprecision of coal and gas data makes it difficult to draw reliable conclusions for the market in industrial fuel. Nevertheless attention is drawn to
+the large increase in prices for heating oil and to the relatively small increase in prices for motor fuels and for electricity ( see Annex B, Table 3).
+d) The dispersion of prices for individual energy forms between Member States shows a tendency to diminish in most cases (with
+the exception of domestic Table 4).
+( 1 ) In a separate paper ( COM particular problems which
+gas and
+electricity ) ( see
+examined the taxation .
+the Commission has
+arise in the field of oi I
+4.2. The graph reproduced below shows the evolution of relative prices for fuel oil, natural gas and coal. The conclusions should be treated with caution as it is based on highly aggregated data.
+These figures are taken from the Commission's investigations into ruling prices in general industry (see Annex A para. 1.2), aggregated for the whole of the Community.
+ Although the price of the three energy forms rose roughly in step from 1973-78, the graph shows a breakdown at that point, coal rising by significantly less than oil, with gas occupying an intermediate position. The price of electricity, which does not appear on the graph, has risen more slowly; in real terms the increase in price during the period 1973-81 is of the order of 100% at most (and is even negligible in the case of some domestic applications), while it is of the order of 200-300% for oil fuels.
+4.3. Differences in energy prices for individual forms of energy between Member States have diminished (see Annex B, Table A). This does not, however, apply in the market for small and medium consumers and the statistics suggest that consumer prices of gas and electricity for some domestic consumers are not being permitted to rise in line
+with the cost of supply , especially in Germany , Italy , Luxembourg and Greece ( electricity ), and in Italy , the Netherlands and the UK (gas).
+4.4. As noted in Section 3, these figures do not cover the prices of energy for large-scale industrial " applications . This is , however ,
+significance for industrial
+report by a joint industry , trade union , in the United Kingdom suggested that
+the area which is of most
+competiti vity . A recent
+and government task force
+while pre-tax prices for industrial energy in the UK are for most consumers broadly in line with those prevailing elsewhere in the Community , for very large consumers of gas and electricity , UK prices are relatively high, especially in relation to those prevailing in France and Germany. The Commission's investigations suggest that this is probably true of electricity, but the position on gas is less clear .
+5.1. Energy prices may differ within Member States for four types of reason :
+are deliberately held below or to particular consumers .
+b) There may be differences in policy
+Examples include taxation, price control and differences in policy on the place of gas in the energy economy as a whole.
+c) Differences in financial structure within the energy supply industry ( e.g. privately owned or nationalised ; integrated or
+not), and in accounting practices can lead to significant differences in energy prices even in cases where costs of supply are similar.
+d ) Finally , differences in location , wage and investment costs , productivity and levels of investment lead to differences in the cost of supply .
+Of these four types of explanation , only the first involves departure from the principles agreed by the Council. But the aim should be to eliminate differences in policy and practice so that the energy price structure of each Member State is a genuine reflection of the cost of energy in that country. Distortion of competition arising from other causes is not only undesirable in itself, but creates pressures on countries whose policies and/or practices place them at a disadvantage to resort to competitive adjustment of policies .
+Although the need for realistic pricing is generally respected , there are cases where Member States depart from this principle.
+a) There may be cases in which prices economic levels , either in general
+ They can be summarised as follows :
+a ) In coal producing countries , the cost of domestic production is not competitive either with other fuels or with imported coal,
+and is heavily subsidised. The budgetary cost of this subsidy in 1980 was 2,200 MECU for the four Member States concerned.
+b) In some extreme cases, state aids which appear to be contrary
+to the Treaty are paid to individual groups of energy consumers,
+for example, to the horticultural industry in the Netherlands, to fisheries in Belgium, France and Italy, and to agriculture in Belgium. In all these cases the Commission has opened preliminary proceedings under Article 92 of the Treaty.
+In most countries there are isolated situations in which , for historic reasons, individual large-scale consumers have been granted long-run contracts at very favourable prices. This is the case of electricity supply in the Ruhr, where contracts for the steel and chemical industries were set many years ago at levels determined by the ability of major industries to
+generate their own electricity if the electricity supply industry could not offer competitive prices. Another case where
+problems may exist is the supply of gas to the fertiliser industry. All of these cases require careful investigation.
+d) The application of counter inflation policy may involve short- term restraints on the adjustment of prices in line with
+inflation. Recent examples are the freeze on gas and electricity prices in the UK ih 1978/9 and in France in 1981. Provided such controls are clearly seen as temporary, they may do little harm in practice . It may, however , be useful for the Council to consider an arrangement whereby all such temporary
+controls are notified to the Commission, with a timetable for their removal specified in advance .
+e ) Finally , certain sectors , including agriculture and public transport, are to varying degrees exempt from oil taxation in all Member States. The Commission is therefore persuing this issue separately.
+Annex A reviews , for each of the four main energy markets , the reasons for divergences in price specific to that sector. The most important conclusions are as follows :
+Coa I . Differences in production and transport costs give rise to variations in price within the Community, but these are partially reduced by the practice of alignment.
+OiI. Only in the UK and Germany is there no control on oil prices. In all other Member States there are regimes whereby movements in product prices are related to movements in the price of crude oil. This situation appears to give rise to distortions , especially at times of tension on oil markets , and the Council may wish to consider the scope for adopting more consistent arrangements within the Community .
+Differences in the structure and level of oil taxation are the most important source of differences in oil prices, and as
+stated above this is the subject of a separate Communication to the Council (COM (81) 511).
+Gas . There is an important difference in policy between the
+UK, where British Gas is seeking in the medium term to align . prices for firm gas with gasoil, and other Member States
+where residual fuel oil in the reference fuel. This difference in policy reflects in part differences in perception
+between Member States of the future availability and cost of gas supplies and of the proper place of gas in the energy economy. These wider issues are the subject of a separate Communication to the Council (COM ( 81) 530).
+Electri city . Differences in electricity prices reflect not
+only differences in the cost of generation, but also differences
+in the construction of tariffs . In implementing the Council 's forthcoming Recommendation on electricity tariff structures , the Commission wishes to pay particular attention to the methods whereby tariffs encourage off-peak consumption, and to the accounting conventions whereby generating costs are allocated between
+different types of consumer .
+6.1. The Council is invited to adopt a Resolution in the terms suggested in the draft which follows .
+. The Council reaffirms that energy pricing has a central role to play in policies to reduce dependence on oil, and that pricing policy should be governed by the principles agreed by the Council in June 19801. In
+pursuing the implementation of these principles the Council further agrees that :
+- consumer prices should ensure an adequate rate of return on investment in energy supply and energy efficiency;
+- prices should provide consistent market signals on the price of energy relative to those for other goods and services and, so far as is
+possible, on trends in price relativities between individual forms of energy ;
+- pricing policies should combine realistic pricing based on costs with the rigorous pursuit of other energy objectives, particularly on the demand side . Thus the existence of comparative advantage , whether it arises from favourable location, prudent investment
+or superior productivity may justify differences in energy prices within the Community. Differences may also be justified by priorities such as the reduction of dependence on oil or the penetration of oil, coal electricity or other alternative sources provided that such priorities in accordance with community energy objectives.
+- Differences in prices within the Community arising from differences
+in policy should in any case be clearly identified and should be progressively reduced. To this end, there is a need to develop common approaches to energy pricing in such areas as energy taxation, price regulation , the construction of gas and electricity tariffs , and the management and financing of public utilities.
+1Annex to the Council Resolution of 9.6.1980 on "New Lines of Action for the Community in the Dield of Energy Saving ". 0J No C 149 of 18.6.1980 , p. 4 .
+ 2. The harmonization of policies required to achieve consistency in energy pricing within the Community will be a gradual process. An essential pre-condition for its achievement is an improvement in transparency in the energy market . In this respect , the Council agrees that appropriate arrangements must be made to achieve the following aims:
+- all consumers should have easy access to information on the price of energy, on how that price would vary in response to changes in the volume and pattern of individual demand, and on the price implications of switching to alternative forms of energy;
+- in the case of industry, consumers should also have ready access to information on the energy prices available to their competitors, both locally and in other countries ;
+- to enable consumers to reach informed judgements on trends in energy pricing , consumers should , in addition , be informed about the methods by which prices and tariffs are determined, about the prices paid for primary energy by the energy industries, and about other costs
+incurred in the transformation of primary energy and its distribution to consumers .
+3. To this end, the Council endorses the following programme of action to improve transparency :
+Coal. The Commission will consider with Member States and the coal industry how best to improve the scope and quality of information on
+coal prices currently available under ECSC rules, and how to make that information available to the consuming public .
+QiI. The Commission's existing Expert Group on Oil Transparency will continue its work, focussing attention on the improvement of data on wholesale supplies of heating oil and on the transparency of
+refining and distribution .
+ Gas and electricity. The Commission will consult the gas and electricity industries and Member State administrations on the best means of improving the scope and quality of existing information on gas and electricity prices, and will make proposals to the Council accordingly .
+Member States will take all necessary measures to ensure that gas and electricity suppliers publish the tariffs or tariff formulae on which their prices are based.
+After appropriate consultation the Commission will propose to the Council a regulation for the communication to the Commission of information on the prices at which coal, oil and gas are purchased by the gas and electricity industries and on other elements governing the cost of gas and electricity supply.
+4. The Council recognises that improvement in transparency of prices for energy to very large industrial consumers will not be easily achieved. It therefore invites the Commission to consider with the industries concerned and with national administrations what measures
+may be necessary to ensure that the agreed principles of energy pricing are respected in major contracts of this kind.
+In working towards the harmonization of energy pricing policies , the Council agrees that priority should be given to the following issues:
+- Oil taxation. The Council will give urgent attention to the proposals of the Commission for the harmonization of the structure and level of oil taxation .
+- Price control. The Council agrees that counter-inflation policy must not be permitted to inhibit the adjustment of energy prices to reflect changes in market circumstances. It therefore invites the Commission to prepare proposals for the monitoring at Community level of all price control measures which might have this effect.
+ Oil price regimes. The Council agrees that differences in the arrangements whereby changes in oil product prices are related to
+changes in the price of crude oil are a source of distortion. It therefore invites the Commission to prepare proposals for improving
+the consistency of such arrangements within the Community.
+Gas pricing. The Council recognises that differences in gas prices within the Community may to some extent arise from divergent views of the future availability and cost of gas supplies and of the proper place of gas in the energy economy. The Commission has submitted a separate communication on gas supplies and prospects.
+Gas tariffs. The Council invites the Commission to submit proposals for the harmonization of gas tariff structures.
+Electricity tariffs . The Council has approved a recommendation on the harmonization of electricity tariff structures. It invites the Commission to consider with the electricity industry and Member State administrations
+the best means of implementing this recommendation, and of further
+harmonising the conventions governing the formation of electricity tari ff s .
+This technical annex reviews, for each of the four main energy forms - coal oil, gas and electricity - some of the more important features of pricing policy and practice . Each section :
+- surveys likely developments in the next ten to twenty years;
+- summarises the present state of price and cost transparency; and
+- discusses the main factors leading to divergence in prices within the
+Community and the scope for achieving greater consistency in policy. 1. C0AL
+World reserves of coal are very large . Expansion in
+production and world trade will require heavy investment in transport infrastructure and in coal-burning plant. Costs of production vary widely . Community coal , much of which is deep mined, is generally more expensive than production from resources now being developed elsewhere; the cheapest sources are likely
+to include open cast mines in the Western USA, South Africa, and Australia . The cost of production is likely to increase , but it is widely accepted that coal prices will nevertheless remain competitive with those for oil. The price of coal within the Community will, however, be heavily influenced by transport costs.
+Transparency . For coal , unlike other forms of energy , the ECSC Treaty itself provides for an official Community pricing regime, which in particular imposes on Community producers the obligation to publish their official pithead prices, which are in principle
+related to the cost of production. However, this theoretical transparency is in practice limited, especially for large consumers, by the very high additional cost of transport, and by the alignment of prices against those of coal from competing sources .
+Council Decisions further provide for the official communication of import prices for coking coal and power station coal; these Decisions require the Commission to treat this information as confidential, and it is only published after aggregation on a Community-wide basis. Prices for imported coal are also available in the general trade statistics, but are not in a form
+suitable for use in an energy policy context .
+For information on coal prices actually prevailing outside the specialised steel and electricity markets, the Commission conducts
+a separate research exercise on ruling prices. This exercise, which involves the collection of price data from a small sample of industrial users throughout the Community, covers oil and gas (and to a limited extent, electricity), as well as coal. It is limited in its value by the size and distribution of the sample (coverage of the UK, Ireland, Denmark and Greece is less thorough than for the six founder Member States). However, it provides a useful cross check on information from other sources, especially for the coal sector. Returns from industrial firms are confidential, and
+ the small size of the sample therefore means that it is not possible to publish results in sufficient disaggregation to make any useful contribution to transparency .
+A 1.3. The ECSC also provides for the communication of detailed information on the cost of production of Community coal, and
+although this information is not published in official form,
+reliable data is available from the coal industry. There is,
+however, no systematic information on transport costs, and official information on coal import prices is protected by commercial secrecy .
+Reasons for divergence . Even within the Community production costs of coal as reflected in official prices vary between coal­ fields and between countries by 20-30%. However, the practice of alignment of prices between coalfields or on the price of
+imported coal has the effect of reducing the differences in price arising from differences in production costs. Transport of coal is expensive and may constitute as much as 75% of the final price in the case of imported coal in inland regions, but in practice this does not appear to give rise to very marked price differences. The Commission 's research into ruling prices ( see para . 1.2 .)
+suggests that prices for industrial coal differ by less than those of other fuels. Confidential information on coal import prices
+also suggests a convergent trend in prices at ports of entry to the Community .
+A 2.1 . It is not possible to forecast whether OPEC as an organization will retain effective control over the oil market. However, for the foreseeable future the market will continue to be dominated by a few large exporters whose present policy is to export in excess of
+ their current requirement for foreign exchange but below their maximum capacity (for example, Saudi Arabia, Kuwait and the UAE). It is therefore inevitable that the world price will remain unstable and unpredictable .
+In the long run, a ceiling for prices will be set by the marginal cost of production from non-conventional sources. Estimates of the cost of production from these sources vary widely. Some recent studies suggest that commercial production from tar and oil sands and the production of methanol from coal is already or may soon become economic at current oil prices. The present consensus in the energy industries , however , is that prices would need to rise , perhaps substantially , above their present real level before competition from synthetic sources secured effective control of the market; OPEC seems to be pursuing a policy of gradual increase to this or higher levels. At this level, however, oil would be steadily displaced from its position as price leader in the bulk energy market, and its use would be largely confined to non- substitutable applications (e.g. transport fuels and petrochemical feedstock). In the bulk market for heat and electricity generation there are already cheaper alternatives to oil, especially coal and nuclear heat .
+A 2.2. Transparency. Improved transparency of oil prices has been a priority for the Commission in recent years. A Resolution of
+13 February 19751 commits the Council to a consumer pricing policy based on competition and on the transparency of costs and prices. Official ex-tax prices for the main products are notified to the Commission every week - In addition , a Council Directive of 1976 requires Member States to notify average market prices for the four main product categories ( motor fuels and heating oils ) at monthly intervals, and up-to-date reviews of oil price information are published by the Commission at regular intervals. However,
+Joj No 153/6 of 9/8/1975, Section III 76/491/EEC of 4/5/1976
+ this data is mainly related to retail prices; information on contract prices for bulk supplies to industry is much less reliable; differences in market conditions give rise to a need for care in making direct comparisons, especially for gasoil. Nevertheless price transparency for oil products is better than for all other fuels .
+A 2.3. The Commission receives extensive information and publishes a regular summary of average cif prices for imported crude oil. The Commission's expert group on oil prices is currently considering the scope for improving transparency of refining and distribution . Without information of this kind , it is not possible to monitor strictly the principle that prices should reflect in full the cost of supply.
+A 2.4. Reasons for divergence. Prices for individual oil products, especially after tax , differ widely within the Community . Tables 3 and 4 of Annex B show that in money terms the divergence has shown a tendency to increase, though as a proportion of the total price it has diminished.
+Prices for individual products tend to vary more than for the average price of all refined oil (refinery netbacks). So far as
+pre-tax prices are concerned, divergence of prices arises in the main from differences in refining structure, and above all, in national arrangements for the regulation of product price movements . At times when oil prices are steady , there is a tendency for prices within the Community to converge. When they are rising or falling, however, there can be marked differences
+in market conditions between those countries ( UK and Germany )
+where there is no official regulation of oil product prices and those where price controls apply. The present situation
+( September 1981 ) is particularly difficult to interpret since there
+ is at the same time a surplus of oil, leading to the widespread offer of discounts on official prices, and a general increase in official prices as a consequence of the rise of the dollar. In the absence of reliable information on refining and distribution costs
+( see previous paragraph ), the Commission is unable to express a view as to the extent to which inconsistency in price regimes leads to breaches of the principle of realistic pricing.
+A 2.5. Whether or not this inconsistency is a source of serious distortion in normal times, it can cause difficulties in times of tension on oil markets. Experience suggests that at such times there is a danger that oil may be diverted to those countries where no price controls apply, and this may have the effect of exacerbating local supply difficulties and increasing tension on the spot market. Although it is essential that price regulation is not used as a means of shielding consumers from long-term cost increases, it may be valuable in some circumstances to cushion the impact of short- run movements in the volatile market for crude oil. In this respect, the arrangements which exist in some Member States
+whereby movements in official price maxima are related to movements in crude oil prices may have a useful contribution to make. The Council is therefore invited to consider whether there is scope for the adoption of a common approach to this problem throughout the Community.
+A 2.6. Differences in the rate of tax payable on oil products are the most important source of divergence between Member States. These are particularly serious with respect to excise duty payable on heating oil, since this has a direct effect on industrial competitivity. Nor is the effect confined only to consumers of oil, since gas prices are generally set by reference to those for heating oil and electricity prices reflect the price of oil used in generation.
+In a separate communication on oil taxation, the Commission has proposed a progressive harmonization both in the tax base and in
+the rates of taxation applied on individual products, and lays particular emphasis on the importance of regular revaluation of
+duties to prevent their erosion by inflation 1 . An important issue for examination in this context is the balance of taxation as between motor fuel and heating oils. In a number of Member States (Benelux and Denmark) residual fuel oil used in industry is effectively exempt from taxation. In the UK and Ireland, on the other hand, substantial tax is levied. Considerations of fiscal efficiency favour placing the main weight of taxation on motor fuels where there is no effective substitute for oil. Energy policy would appear to require the taxation of oil so as to favour conversion to coal and electricity. This implies a need for a significant share ofoil taxation to fall on these heavier products used for heat generation for which coal and electricity are satisfactory substitutes .
+A 3.1. As in the case of oil, there is very large unused capacity for the production of gas at very low cost. With the growth of demand for gas in industrial countries, some oil producers are now seeking to extend their control of oil prices to the gas market, and are demanding prices at parity with crude oil. In the short run the concentration of gas export capacity in a few oil producing countries gives producers some leverage ; however , a cif export price for gas at anything like parity with crude oil would mean that gas would cease to be competitive even with oil products on most markets.
+In the longer term,-the size and geographical distribution of gas reserves make it reasonable to forecast that in the long run the market will cease to be dominated by a few large exporters. To
+this end, it will be necessary for consuming countries to
+ ensure that demand expands no faster than is compatible with the development of arrangements for secure and diversified supplies with adequate security reserves. Although gas will still be traded at prices much higher than the average cost of production, a ceiling will be set by the price of alternative fuels for heat generation, especially coal and electricity. The close link between gas and oil product prices which exists at present is therefore likely to weaken .
+A 3.2. Transparency. For firm (non-interruptible) gas supplies, the Statistical Office of the European Communities (SOEC) has defined
+a range of typical consumer types according to the volume and pattern of consumption, and publishes a survey of prices in selected cities throughout the Community according to those definitions at annual intervals . The Comite d' Etudes Economique de I ' Industrie du Gaz ( COMETEC- GAZ ) communicates data to the
+Commission on a private basis on a more limited range of consumer types, on different definitions and confined in the case of industry to small consumers in France, Benelux and Italy at six monthly intervals. These two sources provide reliable information for the domestic sector and a useful indication of trends in prices for industry, except for Germany and the UK. No
+information is available from the largest German wholesaler (Ruhrgas), and British Gas provides data only on the tariff formulae applying to newly connected customers; these represent a very small fraction of the market and are not representative of prices actually prevailing. For very large-scale applications, especially as feedstock in the chemical industry, the Commission knows of no source of information. A large proportion of gas supplies for industrial applications are on an interruptible basis, for which conditions vary widely both within and between Member States, and for which price comparisons are particularly difficult.
+ A 3.3. Reasons for divergence. Annex B shows a particularly wide divergence in gas prices within the Community, though this is in part attributable to the inclusion in the statistics of oil-based town gas prices for domestic consumers in Denmark and Ireland.
+On the other hand, the figures do not take account of large
+industrial consumers where industry reports substantial differences
+in price within and between Member States. The attention of the Commission has indeed been drawn to the existence in some countries
+(particularly the major gas producing countries, the UK and the Netherlands) of contracts for the supply of gas to fertiliser manufacturers at very low prices, and pressure is being placed on gas suppliers in other countries to match these prices.
+A 3.4. One reason both for poor transparency and divergence in prices is that the philosophy of gas pricing is different from that applying to other fuels. Many Member States have indigenous reserves of natural gas which can be produced at very low cost, and since their discovery in the 1950's it has always been the practice to set gas prices by reference to the fuels with which it competes, which
+before 1973 was generally taken to be residual fuel oil . This is because pricing on a "cost plus" basis, as has generally been the practice in North America, would lead to uncontrollable expansion
+in demand and the rapid depletion of resources. In accordance with this approach, the gas industry has not normally been required to observe the same standards with respect to price discrimination and transparency as apply to the electricity industry. In the UK and
+Germany the tariff formulae on which industrial contracts are based are not published.
+A 3.5. Since the sharp rise in oil prices starting in 1973, demand for gas has been growing at a rate that has required European industry to move to a more strict alignment with competing fuels; retail prices
+ for household consumption are now generally set at levels
+comparable to those for gasoiI and electricity. For industry,
+the process has been less even; in the UK there has been a particularly sharp increase in prices for new contracts, which for non-interruptible supplies are in principle set at levels
+comparable to those for gasoil . Although prices in other Member States have also moved upward, the declared policy of suppliers is still in most cases to set prices by reference to residual fuel oil, and the UK survey referred to in para. 4.4. of the main paper
+reports complaints that British industry is suffering a serious competitive disadvantage.
+A 3.6. The information available to the Commission is not sufficiently reliable to permit a judgement as to whether this complaint is justified. The position is complicated by the fact that for the largest consumers, supplies are normally on an interruptible basis. The availability of interruptible supplies and the conditions of interruptibiIity vary widely between Member States, and the pricing policy of individual suppliers is necessarily conditioned by the extent to which a growing interruptible market is required so as to enable the supplier to meet peak demand. But at least in theory this is an important difference in pricing policy which arises from differences in perception between Member States of the future availability and cost of gas supplies and of the proper place of gas
+in the energy economy as a whole. This issue is examined in more detail in a separate communication to the Council on natural gas, and it may be best at present to pursue this issue in that context.
+In order to inform that discussion the Commission attaches
+particular importance to progress on transparency and to the collection of reliable information, initially on a restricted basis,
+ A 3.7. At the same time the Commission is considering with respresentatives of the gas industry the scope for proposals for the harmonization of gas tariff structures, on similar lines to
+the proposal on electricity now before the Council. 4 . ELECTRICITY
+A 4.1. Primary energy costs form a relatively small part of the total cost of electricity supply. This, and the conversion of electricity generation systems from oil and gas to coal and nuclear has contributed to a fall in the price of electricity relative to those for other fuels, and this trend is likely to continue .
+A 4.2. Transparency. SOEC, in conjunction with the Union Internationale des Producteurs et Distributeurs de I'Electricite (UNIPEDE), has defined a range of consumer types and UNIPEDE communicates data to the Commission according to those definitions at annual intervals on the understanding that such information is not published. SOEC
+carries out an annual survey covering a similar range of consumers but excluding the larger industrial consumers.
+For tariff customers this data is reliable and for industrial consumers it provides a useful general indication of trends; industrial prices are related to published tariff formulae for all but the largest consumers; although differences in contract conditions within and between Member States lead to difficulties
+in comparison, these are not so severe as in the case of gas. As with other fuels, transparency of prices to very large consumers, especially in the steel, chemicals and metallurgical industries,
+is poor, and the picture here is complicated by the existence in many countries of long-term contracts concluded in the past at favourable prices.
+ A 4.3. Some producers, notably Electricite de France (EDF), publish extensive information on the cost of electricity production. Others , especially in those countries ( Germany , Belgium , the Netherlands and Denmark ) where the industry is privately owned , publish none . The Commission receives official information , in
+confidence, on the price of power station coal, but there is no reliable information on the input price of oil and gas. UNIPEDE collects and communicates , on a confidential basis , detailed information on the planned investment cost of power stations under construction, but there is no official information on realised investment costs .
+Reasons for divergence . Electricity prices vary significantly within the Community. In the case of industry, some of these differences arise from non-comparability of the statistics; for example, the extent to which consumers have to meet the cost of connection varies between Member States, and the price actually paid under an individual contract may not always be accurately reflected by the published tariff formula on which it is based. But the most important source of difference is inequality in the
+cost of generation and distribution. The cost of fuel is an important factor, and the extent to which individual suppliers are able to meet their base load demand from low-cost sources such as hydro, nuclear, lignite and coal, significantly affects the overall cost of the system. But fuel is only a part of overall cost; to a much greater' extent than is the case for other forms of energy, electricity costs are determined by the cost of labour, of power station construction and of capital.
+ Because electricity cannot be stored, the system has to have the capacity to meet peak demand, and operates at well below capacity most of the time. There is no single objectively valid method for apportioning the share of these large overhead costs between consumers, and important differences can arise from the adoption of different conventions .
+A 4.5. One feature of particular importance for industrial competitivity
+is the extent to which prices to large industrial consumers can be reduced by confining demand to off-peak periods. This tends to
+be determined by the extent to which individual systems are based on hydro-electric and nuclear stations which cannot economically be shut down. In France and Germany, where hydro and nuclear
+capacity is relatively large, particularly attractive incentives are offered to encourage industry to smooth the pattern of demand for electricity as a whole. As a result, the degressivity of industrial tariffs (the extent to which the price per kWh falls as the level of consumption rises) in France and Germany is particularly marked. A firm in France that is able to accept
+interruption of its electricity supplies throughout the 400 hours of peak demand on winter weekdays can, in certain circumstances, pay an average price per kWh below the marginal cost of nuclear generation .
+A 4.6. This effect may be amplified by differences in approach to the construction of tariffs . In countries where the electricity industry is publicly owned, there is normally a requirement for suppliers to divide costs between consumer types on an
+equitable basis. No such obligation applies to private industry
+ and it has been suggested that in some parts of Germany, low-cost generating plant is in effect hypothecated to large-scale industrial consumers,, while prices for smaller consumers are calculated on the basis of costs of generation from higher-cost plant - in effect a cross subsidy of large consumers by small ones.
+A 4.7. The issues raised here are of unusual complexity, and the price and cost transparency of the electricity industry is inadequate to permit any reliable judgement on them . It is , however , important that progress should be made towards a common view on those problems; for while it is essential that those countries who have invested prudently in electricity generation should enjoy the benefit of that investment in advantageous electricity prices, it is also important that the public should be satisfied that those prices are based on a fair and objective appreciation of cost.
+For if it is not it will become increasingly difficult for governments in those countries who are less favourably placed to resist pressures for concessionary pricing .
+A 4.8. The draft decision on electricity tariff structures now before the Council represents a useful first step, and reflects a general interest in these issues on the part of the electricity industry. It is, however, only a first step, and the Commission now proposes to discuss with the industry and with national administrations how best to monitor the implementation of this decision. To give practical effect to its recommendations, it will be necessary in the long term to improve the cost transparency of the
+electricity industry, and attention should probably be focussed in the first place on the price of power station fuel, and on the financial structure and government financing of the electricity
+ industry. It may be appropriate to consider the extension to the electricity sector of Commission Directive No 80/723 on transparency on financial relations between Member States and public
+10J No L 195 of 29 July 1980
+ Prices on 1 January year
+(INDUSTRIAL ELEC- 1980 1.11 'THICITY (small 1981 1.0V consumers )
+(1) Including VAT except for residual fuel oil and industrial fuels
+* PriceswhichdifferfromCommunitymeanbymorethanonestandarddeviation *• Prices which differ from Community mean by more than two standard deviation*?
+Prices on INCIDENCE OF TAXATION AS PERCENTAGE OF PRE-TAX PRICE 1 January of each year
+inimujtmal electricity 1973 0.0 0 3.1
+( ismflll consumera )
+Prices on 1 January of each year
+Domestio electricity ( small )
+domestic electricity ( large )
+Industrial electricity 1980 (small) 1981
+Industrial electricity 1980
+Price* include VAT except in the case of residual fuel oil and industrial fuels .
+Prices on
+1 January of each
+^ ^renda in the dispersion of prices within the Community aa measures by the coef­ ficient of dispersion of prices (the standard deviation expressed as a percentage
+of the Community mean price)* Before and after tax prices are shownt measured both in EUA's and SPP's. VAT is included for residual fuel oil and industrial fuels#
+Domestic coal 1973 1978 1980 1981 Industrial coal 1973 1978 198O 198I 1973 1978 1980 1981 1973 1978 1980 1981
+Industrial electricity 19
+Domestic electricity - small
+Domestic electricity - heavy
+1981 Industrial electricity 1973
+Prices in EUA'a Before tax After tax
+Prices in SPP's Before tax After tax
+tend à à usage
+19 to 1901
+INDUSTRIEGAS " (mittlere Verbraucher ι
+i)*i £Se LrCrsf tstof Benzin
+~ Duitsland :
+- Nederland ;
+(Communication from the Commission to the Council' and draft.Council resolution)
+( Communication from the Commission and ' draft Council Resolution )
+• 1.1 . A consistent and rational approach to energy pricing is one of the main components of policy for the achievement of the aims which the • Community has set itself in the field of . energy supply and demand .
+It should in particular, assist the process of macro-economic adjustment to higher , pri ces for imported oil , permit an adequate stimulus to investment, encourage energy efficiency and contribute
+to the transition from oil to other forms of energy. In this Communication the Commission :
+- develops the principles of energy pricing adopted by the Council in its Resolution of 9 June 1980, and suggests a series of practical aims for energy pricing policy (Section 2);
+- surveys the state of transparency in the markets for the various forms of energy ( Section 3 );
+- describes recent trends in prices within the Community (Section '.4) • -
+- examines the reasons for divergence in prices. for individual forms of energy within the Community ( Section 5 ). Since taxation is the main cause of disparity in' pri ces for oil products, reference is made to the Commission's Communication on Oil Taxation
+- presents , in conclusion , a draft Council Resolution which contains a fuller statement of Community aims in this field, proposes a
+ programme of action to improve transparency, and suggests a number of areas where there is immediate scope for action to improve the consistency of policies affecting energy pricing .
+1.3. In tfiis main paper, many complex issues are dealt with in summary form . It is based on a fuller analysis of market prospects , the state of transparency and the reasons for divergence . in price within the Community which will be sent to the Council separately1. A statistical annex presents a summary of some of the latest price data available to the Commission . •
+2.1 . Both the Council and the European Council have on numerous occasions reaffirmed the central role that energy pricing has to play in promoting structural change in the economy of the Community. At a macro-economic level the main elements of policy were set out in a Communication of the Commission to the Council on "Energy and
+Economic Policy" (C0MC80) 583). This paper laid particular stress on the need for consumer prices to reflect in full trends in energy prices on world markets, on the need for adjustment in oil product prices in a manner that does not discourage energy saving and fuel A switching , and on the need for - a predictable and rational hierarchy
+of relative prices between individual forms of energy.
+In a Resolution of June 1980, the Council adopted the following principles for energy pricing policy :
+- "consumer prices should reflept representative conditions on world markets , taking into account long-terra trends ";
+1Commission staff working paper, on The price and cost structure of energy markets in the Community", XVII / 256/ 81 , dated 5 October 1981
+- one of the factors determining consumer prices should be the cost of replacing and developing energy resources";
+- "energy prices should be characterised by the greatest possible
+2.2. However, acceptance of these principles at a theoretical level is
+not in itself an adequate response to the problem. This is in part because energy markets are highly imperfect : external oil prices 'are largely determined by decisions of the Organization of Petroleum Exporting Countries (OPEC)j oil product prices are heavily influenced by consumption taxes: coal pricing is dominated by public^ intervention; gasandelectricityutilitiesenjoylocalmonopolies
+- and are in most cases directly or indirectly,controlled by government. . Even between Member States, who are genuinely seeking to implement the agreed principles, differences in policy can and do
+lead to disparities in prices.
+2.3. This imperfection in markets is accompanied by a generally poor level of transparency. The Community has devoted particular attention in recent years to improving the scope and quality of public information on energy prices in the belief that this is one of the best means of - ensuring that prices genuinely reflect cost and market conditions, and distribute costs fairly between consumers. Section 3 below
+- reviewstheprogressthathasbeenmadeinthisfield.;"
+degree of transparency
+Annex to Council Resolution of 9.6.1980 on New Lines of Action in the Field of Energy Saving". 0J No C 149 of 18.6.1980, page 4. "
+2.4. The first two principles - the need, on the one hand, for realistic pr i cing (" verit6 des prix ") and , on the other hand , for prices to reflect trends in long-run cost - raise a wide range of difficult theoretical issues . To what extent is there , or will there be in the future, a world market for coal, and gas such as already ex/ists for oil? What is the long-term trend in production costs for individual fuels? To what extent will inter-fuel substitution affect relativities between the prices of individual fuels? How is the replacement cost of a non-renewable resource to be defined?
+How long is the long term? If prices on world markets depart in the short or medium term from levels that are justified by long- term cost considerations , which principle is to take priority ?
+2.5. It would be difficult to develop proposals for energy pricing policy in the Community by seeking agreement on all these issues. Trends in energy prices and costs can be foreseen only in very general
+terms . In particular , the world price of oil will inevitably remain highly unstable and unpredictable. This instability is indeed a major reason why the Community has set itself the strategic
+objective of reducing dependence on oil. other fuels is linked on the one hand to other hand to their own production costs,
+Because the price of
+that of oil, and on the the cause of their prices to identify some .long-term
+. is also unpredictable ; but it is trends .
+The principle conclusions that can be drawn from the more detailed *
+analysis of possible future trends in prices for the main energy forms are as follows : ~
+ (a) OiL prices will remain volatile. In the long run an upper limit
+will be set by the cost of non-conventional oil which will -
+probably be higher than the present price. At these levels, oil will cease to be competitive for the production of heat and
+electricity, and its use will increasingly be confined to non- substitutable uses, especially transport fuels and petrochemical feedstock . -
+The future course of gas prices is particularly difficult to forecast . Reserves $re large , and better distributed than those for oil. In the short run, the concentration of export capacity in the hands of a few producer countries does offer then an opportunity to prices for an alignment of gas prices against those for crude oil." However, in the long run, a ceiling will
+electri city . ~
+be set by the price of alternatives, especially coal and
+Cc) World coaI reserves are very large and seem capable of meeting any likely expansion in demand at prices which will remain competitive with those for oil. Transport and infrastructure costs will remain an important element in consumer prices.-
+(d) The cost of electricity supply has fallen relative to the price
+of competing fuels , and this trend is likely to continue . \'.
+Priority should therefore be given to conversion from oil to coal
+and electricity. Gas has made a useful contribution to the
+reduction of oil dependence in the past; however, the extent to which gas can continue to enlarge its share of the Community energy market without giving rise to security and price risks is an issue now under active discussion ( see Section 5 below ).
+ 2.7 . At the same time , however , there are many sources of inequality in /'s
+- prices within the Community which arise not from differences in cost but from differences in market structure , fiscal policy , and the organization and financing of public utilities. It is in minimising the distortions which arise from these sources that there is a particularly important role for the Community to play in
+promoting a consistent approach to pricing policy. the agreed principles , the Community 's aims should following: ._ '
+- consumer prices must ensure an adequate rate pf return on - investment in energy supply and energy efficiency; .
+- prices should provide reliable market signals on the price of energy / relative to those for other goods and services and, so ■far as is ,
+possible, on trends in price relativities between individual forms of energy; s .
+- pricing policies should combine realistic pricing based on market conditions and costs with the rigorous pursuit of other energy , objectives , particularly on the demand side . Differences in
+energy prices within the Community may only be justified by the existence of comparative advantage (whether it arises from favourable location , prudent investment or superior productivity ) or by the existence of priorities (such as the reduction of dependence on oil, . or the penetration of coal, electricity or other alternative
+sources), provided that such priorities are in accordance with , Community energy objectives;
+- differences in prices within the Community arising from differences
+in policy must in any case be clearly identified as a matter of urgency , and progressively reduced . To this end , there is a need
+to develop common approaches in such areas as energy taxation,
+price regulation, the construction of gas and electricity tas-HfCi -–
+and the management and financing of public utilities. . .■i••
+3.1. As suggested in paragraph 2.3. above, transparency in the market for energy is a necessary, but not sufficient condition for the realisation of the above aims. In practical terms, the requirement for transparency means that: - ;
+- all consumers should have easy access to information on the price
+of energy, on how that price would vary in. response to changes in the volume and pattern of individual demand, and on the implications for their energy expenditure of switching to alternative forms of energy ;
+- in the case of industry, consumers should also have ready access
+to information on the1 energy prices available to their competitors, both locally and in other countries;
+- consumers should be able to reach informed judgements on trends in energy pricing; they should therefore be informed about the methods by which prices and tariffs are determined, about the prices paid
+for primary energy by the energy industries, and about other costs incurred in the transformation of primary energy and its distribution to consumers.
+3.2. These three aims represent an ascending scale of ambition. Efforts by the Commission to improve transparency, especially in the oil market, have generated a wealth of reliable, published information on the"' price of transport fuels and of prices for other forms of energy for domestic consumers.
+For prices to industry, the position is less satisfactory. Although official prices and tariffs are widely published, industrial prices are, in most countries, normally set for all but the smallest consumers in individual contracts. Such contract prices, even when based on published tariff formulae, may vary significantly in accordance with individual circumstances.-' Although many suppliers are willing to publish aggregated data on the average cost of energy to consumers in specified categories, some are not; - this applies in particular to
+ Not all of the information available to the Commission on energy prices and costs contribute di rect ly to transparency . In the first place, a great deal of information, some of, it supplied under Community regulations, is communicated to the Commission on a
+confidential basis. The Commission can only use this information as background, and in some cases uses aggregated results derived from it in official documents . In other cases the - Commission receives restricted information which' can be communicated to Member States and other interested authorities, but which cannot be published. The most direct contribution to transparency is made in cases where information is collected with a specific view to publi cation . In summary, the situation for each form of energy is as follows:
+( a ) Coal . The ECSC Treaty requires the publication of official sales - prices of Community coal producers . In practice , however , the prices actually paid by consumers, determined not only by the cost of production, but are heavily influenced by transport costs and • by the practice of downward alignment to the price of imported
+coal. The Commission receives data on coal import prices and publishes aggregated indices-. - The coal industry provides reliable information on the cost of production within the Community on a confidential basis; some producers publish information of this kind .
+(b) Oi I . The Commission publishes extensive' information of prices of «crude oil and prices for and taxes on retail sales of the main
+products. Work on improving this data is inr hand on a continuing basis with the assistance of an expert group: attention is at present focussed on contract prices for bulk supplies of heating oil and on the means of improving transparency of refining and distribution .
+(c) Gas. The Statistical Office of the European Communities (SOEC) publishes an annual survey of gas prices. For most countries this gives a reliable indication of prices applying to new contracts for the supply of firm ( non-interruptible ) gas to a range of consumers but excluding some of the largest industrial consumers . However , in the UK and parts of Germany, industrial gas tariffs are not
+published, and no information is available from the largest German supplier ( Ruhrgas ). In most countries , an important share of industrial gas' is supplied under interruptible contracts for which conditions vary widely, and on which the Commission receives no systematic data. The Commission receives no
+' information of any kind on the price at which suppliers acquire i *•
+gas nor on the costs of handling and distribution.
+(d) Electri city . The SOEC publishes an annual survey of electricity
+prices throughout the Community which gives a reliable guide to prices to all but the very largestwindustrial consumers. As
+with other forms of energy, transparency of prices to such
+consumers , especially in the steel and chemical industries , is
+poor, and -the picture here is complicated by the existence in
+many countries- of long-term contracts concluded in the past at
+very favourable prices. Some electricity producers publish data -
+between markets where
+information should be
+progress that has already been made in the oil and electricity markets shows that the collection and publication of reliable data is both possible and useful. There is no justification for treating
+generation and distribution , but others , j
+on the cost of
+especially in
+Denmark ) where the industry is privately owned, publish none .
+There is, no reliable information on the input price of oil and gas. .
+, 3.4 . For the retail market , the present situation is generally satisfactory .
+The market in bulk supplies for , industry presents more difficulties .
+those countries ( Germany , Belgium , the Netherlands , \!(
+and consumers argue that since skill and
+are required to make meaningful comparisons conditions differ, the communication of price restricted . The Commission does not agree . The
+7 different forms of energy in different ways, and the Commission therefore attaches importance to the improvement of the quality of existing gas and coal price statistics, and to establishing
+arrangements for the collection and publication of data on coal and gas import pri ces . '
+ 3.5. In the absence of arrangements to ensure complete transparency for very larg# consumers it will at least be necessary to develop separate arrangements for monitoring the prices charged in contracts of this kind . at Community level so as to ensure that Community rules on competition and the agreed principles on energy pricing are respected.
+4.1 . Some of form of between
+the price data referred to above is presented at Annex in the four tables showing trends in the relative levels of prices as Member States 1 , the incidence of taxation , the evolution of
+prices in real terms, and trends in the dispersion of prices within the Community . The prices are for January 1973 , 1978 , 1980 and 1981 . The following general conclusions can be drawn :
+(a) The position of each Member State with respect to the Community mean differs for each form of energy; this reflects policy differences
+- Germany : low prices for gasoline ; high prices for heavy
+of domestic electricity ; high prices of industrial gas . *'
+- France : low prices for industrial electricity .
+- Italy : low prices for diese.l ; high prices for gasoline ; prices for small domestic consumers of gas and electricity.
+- Netherlands: low prices„for domestic gas.
+- Belgium : high prices for domestic electricity .
+- Luxembourg : low, prices for motor fuels and electricity .
+- JUK: high prices for automotive diesel; v low prices for domestic -• gas.
+- Ireland : high
+industrial electricity .
+for Greece are not yet available .
+4.2. The graph reproduced below shows the evolution of relative prices for fuel oil, natural gas and coal. The conclusions should be treated with caution as it is based on highly aggregated data.
+These figures are taken from the Commission's investigations
+into ruling prices in general industry
+' aggregated for the whole of the Community.
+ Although the price of the three energy forms rose roughly in step from 1973-78, the graph shows a breakdown at that point, coal rising by significantly lessthan oil , with gas occupying an intermediate position . The price of electricity, which does not appear on the graph, has risen more- slowly; in real terms the increase in price during the period 1973-81 is of the order of 100% at most (and is even negligible in the case of some domestic applications), while it is of the order of
+200-300% for oil fuels. . , . '
+4.3. In the case of industrial energy, differences in energy prices for individual forms of energy between Member States have diminished (see Annex , Table 4 ). This does not , however , apply in the market for small and medium consumers and the statistics suggest that consumer prices of gas and electricity for some domestic consumers are not being permitted
+to rise in line with
+the cost of supply , especially in Germany , Italy ,
+Luxembourg and the UK (gas).
+( electricity ), and in
+Italy ,
+the Netherlands and ...
+4.4. As noted in Section 3, these figures do not cover the prices of energy for large-scale industrial applications . This is , however , the area which is of mosxt significance for industrial competitivity. A recent report by a joint industry, trade- union and government task force in
+the UK suggested that while pre-tax prices for industrial energy in the UK are for most consumers broadly in line with those prevailing elsewhere in the Community, for very large consumers of gas and electricity, UK prices are relatively high, especially in relation to those prevailing
+in Trance and Germany ." The Commi ssion 1 s investigations suggest that tius is probably true of electricity, but the position on gas is less clear . ...
+5.1 . Energy prices may differ within Member States for the following reasons
+Ca) There may be cases in which prices are deliberately held below economic levels , either in general or to particular consumers .
+There may be differences in policy between Member States .
+Examples include taxation, price control and differences in policy on the place. of gas in the energy economy as a whole.
+Differences in financial structure within the energy supply
+industry ( e.g. privately owned or nationalised ; integrated or not ) 4and in accounting practices can lead to significant differences in
+energy prices even in cases where costs of supply are similar.
+Finally , differences in location , wage and investment costs ,, productivity and levels of investment lead to differences in the cost of supply . .
+5.2. Of these four types of explanation, only the first involves departure from the principles agreed by the Council. But the aim should be to eliminate differences in policy and practice so that the energy price
+•> Although the need for realistic pricing is generally respected , there
+are*; cases where Member States depart from this principle..
+' structure of each Member State is a genuine reflection of the cost of energy in that country . In practice , differences in price which arise from policies and practice that do not depart from the agreed principles can nevertheless give rise to political pressure on public authorities for concessions which would involve breach of the
+ They can be summarised as follows :
+In coal producing countries , the cost of domestic production is not competitive either with other fuels or with imported coal, and is heavily subsidised . The budgetary cost of this subsidy in .1980 •
+,;<was 2,200 MECU for the four Member States concerned.
+In some extreme cases, state aids which appear to be incompatible with the Common Market as understood in the sense of Article 92 of
+the Treaty are paid to individual groups of energy consumers, for
+• fisheries in Belgium', France and Italy, and to agriculture in
+In most countries , there are isolated situations in which , for
+historic reasons, individual large-scale consumers have been granted . long-run contracts at very favourable prices. This is the case of
+electricity supply in the Ruhr, where contracts for the steel and chemical industries were set many-years ago at levels determined by the ability of . major industries to generate their own electricity
+if the electricity supply industry could not offer competitive prices. Another case where problems may exist is the supply of gas to the fertiliser industry. All of these cases require careful investigation. - ' . ' ;
+example , to the horticultural industry in the Netherlands , to Belgium .. In all these .cases the Commission has opened proceedings
+in accordance with Article 93 of the Treaty.
+(d) The application of counter inflation policy may involve short-term . restraints on the adjustment of prices in line with inflation.
+Recent examples are the freeze on gas and electricity prices in the UK in 1978/9 and in France in 1981. Provided such controls are
+; clearly seen as temporary, they may do little harm in practice. It may , however , be useful for the Council to consider an
+. arrangement whereby all such temporary controls are notified to the Commission, with a timetable for their removal specified in advance. /^ ' '
+ (e) Finally, certain sectors, including agriculture and public . . transport, 'are to varying degrees exempt from oil taxation in all Member States. The Commission is therefore pursuing this issue separately . • -
+5.4. The main reasons for divergence in price specific to each sector are as follows'' :
+Coal . Differences in production and transport costs give rise to differences in price within the Community, but these are partially reduced by the practice of alignment*
+OiI. Only in the UK and Germany is there no control on oil product prices. In all other Member States there are regimes whereby movements in product prices are related to movements in the price of crude oil. This situation appears to give rise to distortions, especially at times of tension on oil markets, and the Council may wish to consider the scope for adopting more consistent arrangements within the Community . . • • -
+Differences in the structure and level of taxation on 01 1
+products are the most important source of differences .in consumer
+prices, arid as stated above, this is the subject of a separate Communication to the Council (C0MC81). 511 final).
+Gas. There is an important difference in policy between the UK, where British Gas is seeking , in the medium term to align prices
+for firm gas with gasoil, and other Member States where residual fuel oil is'the reference fuel. This difference in policy
+of the future availabi lity and cost of gas supplies and of the proper place of gas in the energy economy. These wider issues are the subject of a separate Communication to the Council ( C0M(81 ) 530 )
+1 For details see the Working Paper cited in paragraph 1.3 .).
+ (d) Electricity. Differences in electricity prices reflect not only differences in the cost of generation, but also differences in the
+construction of tariffs. In implementing the Recommendation on electricity tariff structures which the Council is now being invited to approve, the Commission wishes to pay particular attention to the methods whereby tariffs encourage off-peak
+consumption, and to the accounting conventions whereby generating costs are allocated between different types of consumer. _
+6.1 . The Council is invited to adopt a Resolution in the terms of the " following draft.
+1 The1 Council reaffirms that energy pricing policy has a central role to play in reducing dependence on oil;-, this
+implies a need to observe the principles agreed by the Council in June 1980.0kn pursuing, the implementation of these principle
+the- Council emphasises that:
+- consumer prices must ensure am adequate rate' of return ,^on investment in energy supply and energy efficiency;
+- prices should provide reliable market signals on the price' of energy relative to those for other goods and services and, so far as is possible,on trends i»~
+• price relativities between individual forms of 'energy;;
+- pricing policies should combine realistic pricing based on market conditions and costs with the rigorous pursuit of other energy objectives, particularly on the demand side. Differences in energy prices within the Community may only be justified by the existence of comparitive advantage (whether it arises from favourable location, prudent investment or superior productivity) or by the existence of priorities (such as the reduction of dependence on oil, or the penetration of coal, electricity or other alternative sources), provided that such priorities are in accordance with Community energy objectives?
+differences in prices within the Community arising
+from, differences in policy must in any case be
+clearly identified as SL matter of urgency, and progressively reduced. To this end there is a need
+to develop common approaches- in such areas as energy taxation, price regulation, the construction of gas
+and electricity tariffs and the management and financing of public utilities.
+Transparency of the energy market is a necessary and urgent
+condition for the practical implementation of the principles set out ,above. This means that:
+– all consumers should have easy access to information on the price of energy, on how that price would vary
+in response to the volume and pattern of individual demand, and on the implications for their' energy expenditure of switching to alternative forms of energy ; :
+- in the^ case of industry, consumers should also have' ready access to information on the energy prices
+available to their competitors-, both locally and in other countries
+T.) Annex to the Council Resolution of 9I»6»1980 on "New Lines of Action for the Community" in the Field of Energy Saving". OJ No C 149 of 18.6.1980p. pA.
+ - consumers should be able to reach informed judgements on trends in energy pricing;: they should accordingly be informed about the methods by which prices and tariffs are determined, about the prices paid for primary energy by the energy industries, and about.
+• other costs incurred in the transformation of primary energy and its distribution to consumers. '
+To achieve transparency the Council endorses the following programme of action:
+1! ^ After consultation with Member State* administrations and the coal industry the Commission will make proposals for improving the scope and quality of information on
+coal prices currently available under ECSC rules, and
+how to make that information available to the consuming public .
+2, The Commission's existing Expert Group' on Oil Tran^pa-r^nr.y will continue its work, focussing attention on the improvement of data on wholesale supplies of heating oil and on the transparency of refining and distribution .
+- 3. The Commission will consult the gas and electricity industries and Member State' administrations on the oest
+means of improving the scope and quality of existing inforiiiu.tion oil gas and electricity prices, and will make proposals to the Council accordingly. In this context member states will take all necessary measures to ensure- that gas and electricity suppliers publish the tariffs or tariff formulae on which their prices are based.
+Following these consultations the Commission will make appropriate recommendations to the Council. These will give priority to,:
+- Data on the prices at which coal, oil products and gas are pwarchased by the gas and electricity industries, and on other elements governing th© cost of gas and electricity supply; -
+– Arrangements to monitor the prices paid by large industrial consumers so as to ensure the~ observance
+of community rules on competition and of the agreed principles of caiesigy policy.
+ 3.. In working towards- consistency in energy pricing policy . * the Council agrfies that priority shoiild be given to i;he
+following issues: , " - .
+. Oil taxation. ■ The Council will respond as a matter of . urgency to the proposals of the Commission on the structure and level of oil taxation, .
+Price Control The Council notes wi:';ii satisfaction that che Commission has decided to propose arrangements "Co
+ensure that price controls introduced in support of-
+coun-tOr-inflarionary policy do not conflict with, energy /policy objectives. . -
+' Qy.l. VTice I'o^iines The Council invites - the Commission to consider how to achieve greater consistency within the * Community between systems for setting oil. product, prices, and, before the end. of 1982 to present a report accompanied by such recommendations as may be necessary.
+Gas Pricing Policy The Council will resrpond without delay to the Commission's Communication on gas supplies ■ and prospects, v .
+Gas- Tariffs ' The- Council invites the Commission to submit* - proposals for the harmonisation/of gas tariff structures*
+Electricity Tariffs The Council has approved a Recommendation; on the harmonisation of electricity tariff structures. XiC invites the Commission to consider with the electricity industry and Member Stat© administrations the best
+means of implementing this recommendation, and of further, harmonising the conventions governing the formation
+of electricity tariffs ; and within six months to present . a report accompanied by such recommendations as may be necessary .
+^»' The Council invites the Commission, in its annual review
+the energy policies of Member State®, to report on the ' implementation of the general principles defined above and to make such recommendations as may be required for further progress in this field.
+Oil Delta communicated by Member States in accordance with Council Directive 76/491/EEC. For earlier* years, SOEC
+Coal Commission investigations Gas SOEC : COMETEC - GAZ jiLsctricitv SOEC : UNIPEDE
+Prices on
+1 Januaryofeach. D year -
+(1) Xnoluding VAT except for residual fu«l oil and industrial fuels
+"• PriceswhiohdifferfromCommunityqieanbymorethanonestandarddeviation
+** Prices which differ from Community mean by more than two standard deviations
+1 January ci each year .
+Prlcu"; on 1 January of
+each year 1 973 =1 00
+Domestic coal Industrial coal
+Domestic electricity • (small)
+^womestic electricity ( lar^e )
+Industrial electricity (small)
+Industrialelectricity 198O
+Prlcara include' VAT except in the cat* of residual fuel oil and industrial fuels.
+Prices on
+Trends in tho dispersion of prices within the Community as measures by the coef­
+ficient df dispersion of priceo ( the standord . deviation expressed as fei percentage of the Community mean price). Before and after tax prices ore shown, measured both in EUA's and SPP's. VAT is included for residual fuel oil and industrial fuels*
+, Domestic coal 1973 1978 1980 1981 Industrial coal 1973 1978 1980 1981 1973 ..-small 1978 1980 1981 Dorrest íe electricity 1 973 - heavy I9va *"--.1980 1981
+Industrial electricity 19
+Industrial electricity 1973
+Prices in SPP 's
+Concerns only the English version
+( Communication from the Commission and draft Council Resolution )
+ b) Consumer taxes have an important influence on price Levels and are an important element in differences between consumer prices (see Annex Table 2) C1).
+c) The evolution of prices in real terms differs between countries and between forms of energy. The imprecision of coal and gas data makes it difficult to draw reliable conclusions for the market in industrial fuel . Nevertheless attention is drawn to
+the large increase in prices for heating oil and to the relatively small increase in prices for motor fuels and for electricity ( see Annex Table 3).
+d) The dispersion of prices for irrdividual energy forms between Member States shows a tendency to diminish in most cases (with the exception of domestic gas and electricity ) ( see Annex
+(1) In a separate paper (COM (81) 511 final, the Commission has examined the particular problems which arise in the field of oil taxation.
