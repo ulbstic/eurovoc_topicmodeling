@@ -7,7 +7,7 @@ output:
 
 #Prend le résultat d'un topic modeling de Mathias ajoute les eurovocs
 
-```{r, echo=FALSE, comment=FALSE}
+```{r, message=FALSE}
 library(readr)
 library(tidyverse)
 library(data.table)
