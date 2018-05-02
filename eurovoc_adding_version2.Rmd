@@ -41,7 +41,7 @@ topic_labels
 
 
 # On transpose verticalement. (réorganiser topics sous forme de DB, afin de minimiser les matchings ?)
-```{r}
+```{r test_1}
 labels_tidy <- 
   melt(topic_labels, id.vars = c("V1"),
                     measure.vars = 2:ncol(topic_labels)) %>% 
@@ -179,3 +179,5 @@ jrc_metadata <- fread("~/eurovoc_topicmodeling/jrc_acquis_metadata.csv") %>%
   select(-body)
 
 fwrite(jrc_metadata, "jrc_metatada_sansbody.csv")
+
+
