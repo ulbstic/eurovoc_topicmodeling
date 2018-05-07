@@ -155,13 +155,24 @@ fwrite(merged, file = "merged_mathias2.csv")
 #Je me suis arrêté ici pour cette partie
 -----------------------------------------------------------------------------------
 
+#On importe la matrice de topic par documents transposée dans refine pour gagner du temps
 
-#on réconcilie les topics_id des termes matchés avec la matrice doc.topics transposée
+```{r}
+library(readr)
+doc.topics <- read_csv("DATA_EVAL/NewEnglish_250_composition_transposed.csv")
+View(doc.topics)
+```
+
+
+#on transpose doc.topic
+```{r}
 doc.topics_t <- 
   doc.topics %>% 
-  as.data.frame() %>% 
+  select(1:16) %>% 
   tibble::rownames_to_column("fichier") %>% 
-  gather(topic_id, proportion, 2:21)
+  gather(topic_id, proportion, 3:16)
+```
+
 
 final <- 
   doc.topics_t %>% 
