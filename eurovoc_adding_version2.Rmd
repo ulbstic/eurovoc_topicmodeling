@@ -15,16 +15,19 @@ source("get_fingerprint.R") #imitation du fingerprint d'Open Refine
 ```
 
 #on importe les labels de Mathias
+```{r}
+topic_modeling_result <- file.choose()
+```
+
 
 ```{r}
-topic_labels <- fread("English_250_keys_2.csv",
+
+topic_labels <- fread(topic_modeling_result,
                           header= FALSE,
-                          skip=0,
-                          drop = c(2),
                           encoding = "UTF-8")
 topic_labels
 ```
-#on inverse les colonnes, puisque le top term se trouve à la fin dans ce cas-ci, et on élimine les lignes de chiffres
+#on inverse les colonnes SI le top term se trouve à la fin, et on élimine les lignes de chiffres
 
 
 ```{r}
@@ -67,7 +70,7 @@ labels_tidy
 ```{r}
 thesaurus <-
   fread("eurovoc_thesaurus_complet.csv", encoding="UTF-8")
-thesaurus
+
 
 ```
 
@@ -84,9 +87,9 @@ labels_tidy_joined_unigrams <- labels_tidy %>%
                                   method='jw', p=0.1) %>% 
   arrange(as.integer(topic_id), term) %>% 
   filter(!is.na(term)) %>% 
-  select(topic_id, token=value, token_id, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
+  select(topic_id, tokens = value, term, dist, french, length, profondeur, category, link, bt1, mt, domain)
 
-labels_tidy_joined_unigrams
+head(labels_tidy_joined_unigrams)
 
 ```
 
@@ -99,14 +102,14 @@ bigrammes <-
   melt(setDT(labels_tidy), 
        id.var = c("topic_id"))[, combn(value, 2, FUN = paste, collapse = ' '), topic_id]
 
-bigrammes <- bigrammes[,.(topic_id, V1, fingerprint = get_fingerprint(V1))]
-
-setnames(bigrammes, "V1", "value")
-
-bigrammes <- bigrammes %>% 
 
 ```
 
+```{r}
+bigrammes <- bigrammes[,.(topic_id, V1, fingerprint = get_fingerprint(V1))]
+
+setnames(bigrammes, "V1", "value")
+```
 
 
 #Fuzzy join sur les bigrammes (prend de 3 à 20 minutes et BEAUCOUP de RAM avec 17 000 bigrammes)
