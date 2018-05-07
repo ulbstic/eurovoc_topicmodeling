@@ -1,221 +1,219 @@
-Table 1;;;;;;;;;;;;;
-;Keyword 1;Keyword 2;Keyword 3;Keyword 4;Keyword 5;Keyword 6;Keyword 7;Keyword 8;Keyword 9;Keyword 10;;;
-Topic 0;labour;purchased;paid;income;holdings;land;farm;family;sheep;machinery;;;
-Topic 1;women;men;discrimination;employment;vocational;training;treatment;equal;law;access;;;
-Topic 2;reagents;manufacture;combination;consisting;form;identification;acid;circuit;weight;figures;;;
-Topic 3;euratom;September;February;european;file;article;accordance;public;community;regulation;;;
-Topic 4;obtenus;product;products;manufacture;materials;processing;produits;exceed;working;finished;;;
-Topic 5;proposed;proposal;commission;council;decision;parliament;treaty;draft;community;european;;;
-Topic 6;taxable;tax;exemption;transactions;goods;services;persons;person;amount;added;;;
-Topic 7;france;germany;italy;belgium;ireland;netherlands;united;kingdom;states;member;;;
-Topic 10;social;economic;community;development;policy;measures;action;commission;states;member;;;
-Topic 11;u.s.;cigarettes;cigarette;tobacco;smoking;smoke;tar;surcharge;formula;yield;;;
-Topic 12;employee;employees;company;companies;management;enterprise;law;council;collective;participation;;;
-Topic 13;staff;salaries;servants;allowance;service;officials;secretary;regulations;communities;July;;;
-Topic 14;average;rate;increase;total;level;number;figures;period;table;national;;;
-Topic 15;parts;territories;including ;similar;heading;falling;wood;machines;article;beneficiary ;;;
-Topic 16;labour;farms;farm;incomes;income;holdings ;region;returning;holding;england;;;
-Topic 17;eua;budget;appropriations;expenditure;financial;million;year;chapter;article;ecu;;;
-Topic 18;tariff;imports;customs;duties;protocol;agreement;products;states;member;community;;;
-Topic 19;sales;market;products;agreement;treaty;undertakings;decision;commission;competition;article;;;
-Topic 20;bonaire;electrical;voltage;intrinsically;standard;apparatus;safe;certificate;hotel;european;;;
-Topic 21;vessel;vessels;waterway;waterways;inland;roads;vehicles;total;expenditure;category;;;
-Topic 22;sugar;cereals;milk;wheat;beef;oil;products;intervention;marketing;year;;;
-Topic 24;cheeses;cheese;milk;butter;fat;products;content;zealand;levy;special;;;
-Topic 26;regard;intervention;community;quality;marketing;tobacco;leaf;article;year;ecu;;;
-Topic 27;agreements;agreement;negotiations;cooperation;trade;economic;community;commission;concluded;european;;;
-Topic 28;fishing;fishery;fish;guide;eec;products;regulation;listed;head;annex;;;
-Topic 29;import;imported;customs;goods;origin;processing;duties;authorities;taxes;temporary;;;
-Topic 30;programmes;programme;projects;project;research;community;commission;field;action;european;;;
-Topic 31;programmes;vocational;employment;training;young;social;people;regions;application;fund;;;
-Topic 32;unrwa;aid;refugees;food;community;nations;commission;united;convention;advance;;;
-Topic 33 ;areas;area;varieties;hops;hop;harvest;market;production;year;aid;;;
-Topic 34;icl;applications;data;processing;analysis;management;system;computer;departments;conversion;;;
-Topic 35;farms;farm;farmers;land;plan;plans;development;directive;article;eec;;;
-Topic 36;egypt;arab;wheat;flour;importation;applicable;amounts ;account;net;including;;;
-Topic 37;less-favoured;paragraph;article;list;directive;council;community ;areas;farming;mountain;;;
-Topic 38;economic;industrial;development;developing;financial;international;countries;world;trade;cooperation;;;
-Topic 40;mercury;pollution;discharges;water;waters;substances;standards;quality;limit;values;;;
-Topic 41;projects;project;development;community;support;demonstration;commission;financial;water;hydrocarbons;;;
-Topic 42;ecsc;investment;loan;jobs;million;plant;steel;treaty;commission;article;;;
-Topic 44;milk;butter;price;minimum;tender;processing;regulation;article;invitation;eec;;;
-Topic 46;sea;marine;ship;oil ;pollution;mediterranean;area;substances;present;convention;;;
-Topic 47;systems;system;software;computer;data;processing;development;projects;study;european ;;;
-Topic 48;company;companies;market;capital;fuel;coal;undertaking;joint;statutes;british;;;
-Topic 49;powder;milk;tons;supply;delivery;costs;aid;intervention;metric;skimmed;;;
-Topic 50;development;researcdh;technical;proprietary;information;energy;agency;field;exchange;party;;;
-Topic 51;reactor;reactors;nuclear;reprocessing;fuel;energy;power;materials;safety;fast;;;
-Topic 52;proposal;council;community;force;regulation;regard;article ;applicable;eec;european;;;
-Topic 53;rail;transit;transport;infrastructure;traffic;road;projects;austria;interest;combined;;;
-Topic 54;export;imports;trade;textile;products;quantitative;agreement;authorities;community;limits;;;
-Topic 55;customs;goods;transit;destination;country;state;community;office;document;number;;;
-Topic 56;energy;electricity;power;coal;nuclear;oil;consumption;production;sources;community;;;
-Topic 57;service;services;safety;inspection;requirements;certificate;passengers;car;lift;doors;;;
-Topic 58;February;european;persons;social;assistance;fund;council;operations;decision;article;;;
-Topic 59;steel;iron;plates;machines;products;including;excluding;rates;duty;worked;;;
-Topic 61;west;north;fishing;herring;sea;stocks;stock;catches;norway;ices;;;
-Topic 62;agriculture;agricultural;trade;markets;prices;products;production;policy;community;common;;;
-Topic 63;licence ;vessel;vessels;fishing;species;zone;community;commission;point;referred;;;
-Topic 64;ceilings;ceiling;imports;unwrought;products;magnesium;regulation;commission;member;community;;;
-Topic 65;edf;eua;project;projects;development;financing;technical;million;aid;states;;;
-Topic 66;sugar;beet;raw;quota;production;white;basic;levy;year;marketing;;;
-Topic 67;type-approval;lamps;lamp;lights;lighting;light;rear;fog;devices;mark;;;
-Topic 68;amount;amounts;refund;levy;compensatory;applicable;export;products;trade;regulation;;;
-Topic 69;appropriation;appropriations;expenditure;expenses;allowances;staff;posts;cover;article;officials;;;
-Topic 71;european;israel;economic;community;exchange;agreement;article;letters;originating;preserved;;;
-Topic 72;type-approval;vehicles;vehicle;motor;item;type;requirements;point;annex;approval;;;
-Topic 73;shares;share;quota;tariff;tons;reserve;states;member;community;metric;;;
-Topic 74;sluice-gate;egg;eggs;poultry;grain;feed;hatching;shell;quantity;brazil;;;
-Topic 75;country;community;economic;aid;goods;agreement;recipient;delivery;date;european;;;
-Topic 76;cereals;rice;products;amounts;applicable;exceeding;weight;compensatory;regulation;falling ;;;
-Topic 77;amount;amounts;monetary;compensatory;animals;conditions;authorities;regulation;competent;eec;;;
-Topic 78;imports;consumption;prices;production;market;increase;million;year;world;community;;;
-Topic 79;ecsc;aid;aids;measures;steel;coal;industry;production;million;decision;;;
-Topic 80;proceedings;court;justice;law;rights;mark;marks;trade;office;community;;;
-Topic 81;party;parties;date;subject;paragraph;article ;accordance;referred;agreement;contracting;;;
-Topic 82;December;July;June;commission;council;amended;eec;community;regulation;laying;;;
-Topic 83;amount;paid;reimbursement;granted;aid;guidance;fruit;trees;section;eec;;;
-Topic 84;fish;fishing;fisheries;waters;sea;vessels;species;resources;measures;community;;;
-Topic 85;meat;poultry;pigmeat;offals;carcases;pig;fat;heads;cuts;feet;;;
-Topic 86;railways;railway;rail;transport;traffic;undertakings;state;regulation;financial;decision;;;
-Topic 88;programme;pollution;environmental;waste;water;environment;protection;measures;action;effects;;;
-Topic 89;agreements;agreement;treaty;friendship;exchange;commerce;convention;commercial;navigation ;notes;;;
-Topic 90;survey;surveys;statistics;data;statistical;information;national;community;work;member;;;
-Topic 91;hellenic;including;excluding;products;articles;paper;similar;republic;heading;January;;;
-Topic 92;nederland;danmark;irish;british;ireland;italia;united;kingdom;northern;trade;;;
-Topic 93;accounts;account;assets;financial;profit;balance;loss;year;group;fixed;;;
-Topic 94;paragraph;article;provisions;measures;procedure;commission;accordance;referred;laid;community;;;
-Topic 95;person;persons;institution;state;legislation;regulation;insurance;member;article;benefits;;;
-Topic 96;authorised;vine;varieties;pinot;product;china;republic;list;annex;added;;;
-Topic 97;pension;pensions;insurance;health;benefits;schemes;expenditure;social;security;age;;;
-Topic 98;committee;commission;chairman;representatives;members;advisory;meetings;decision;opinion;working;;;
-Topic 99;loans;loan;financing;investment;financial;bank;capital;interest;million;community;;;
-Topic 100;eua;appropriation;appropriations;commission;council;expenditure;community;general;commitment;entered;;;
-Topic 102;protocol;customs;originating;products;certificate;joint;committee;movement;decision;article;;;
-Topic 103;instalment;n.c.;amount;number;total;level;totally;partially;priority ;assistance;;;
-Topic 104;products;products;foodstuffs;labelling;substances;human;intended;states;annex;member;;;
-Topic 105;tax;taxes;taxation;excise;rates;harmonization;tobacco;duty;stage;member ;;;
-Topic 106;sweden;portugal;norway;switzerland;austria;finland;iceland;swiss;countries;kingdom;;;
-Topic 107;r&d;technologies;technology;innovation;technological;research;information;activities;community;european;;;
-Topic 109;danish;denmark;derogation;element;proof;products;tobacco;rate;fiscal;duty;;;
-Topic 110;licence;licences;date;advance;issued;period;certificate;quantity ;export;state;;;
-Topic 111;accession;ratification;convention;united;government;force;protocol;application;extension;article;;;
-Topic 112;litres;alcholic;alcohol;beverages;containers;grapes;actual;exceeding;vol;strength;;;
-Topic 113;n/o;steel;copper;iron;coated;duty;valued;rate;dozen;articles;;;
-Topic 114;fibres;knitted;crocheted;fabrics;garments;yarn;woven;textile;elastic;synthetic;;;
-Topic 115;italy;italian;stock;stocks;tin;fund;common;measures;buffer;agreement;;;
-Topic 116;proposed;proposals;commission;measures;increase;million;price;community;production;ecu;;;
-Topic 117;programme;butteroil;milk;cereals;food;aid;powder;countries;community;commission;;;
-Topic 118;hectolitres;litres;wines;wine;designation;certificate;origin;containers;considered;holding;;;
-Topic 119;centre;staff;administrative;departments;office;agency;commission;board;institute;director;;;
-Topic 120;anti-dumping;provisional;commission;duty;injury;imports;definitive;dumping;originating;community;;;
-Topic 121;regulation;lead;zinc;levels;petrol;blood;general;grouping;members ;contract;;;
-Topic 122;regulations;regulation;inspection;checks;control;period;transport;road;infringement;number;;;
-Topic 123;u.a.;appropriation;appropriations;expenditure;research;scientific;technical;staff;account;units;;;
-Topic 124;test;tests;measuring;temperature;conditions;pressure;water;air;gas;appliance;;;
-Topic 125;projects;construction;plant;capacity ;power;thermal;stations;planned;sets;year;;;
-Topic 126;shares;share;quota;tariff;states;state;initial;reserve;community;member;;;
-Topic 127;wine-growing;grape;grapes;wine;wines;varieties;alcoholic;quality;table;regulation;;;
-Topic 128;programme;study;studies;research;analysis;evaluation;data;methods;techniques;development;;;
-Topic 129;measuring;measurement;sound;noise;test;level;pressure;equipment;power;appliances;;;
-Topic 130;tunisia;morocco;european;cyprus;originating;imports;economic;agreement;community;interim;;;
-Topic 131;producer;production;oil;oils;beans;olive;marketing;aid;year;system;;;
-Topic 133;duty-free;importation;imported;goods;purposes;cultural;scientific;community;free;relief;;;
-Topic 134;expenditure;appropriations;payments;commitments;proposed;total;compulsory;breakdown;change;col;;;
-Topic 135;directive;directives;provisions;laws ;proposal;states;council;article;member;eec;;;
-Topic 136;amendments;amendment;amended;proposal;paragraph;article;text;annex;words;replaced;;;
-Topic 138;region;regions;areas;regional;economic;industrial;growth;development;population;employment;;;
-Topic 139;general;secretary;state;council;convention;party;annex;contracting;international;information;;;
-Topic 140;programme;livestock;animal;disease;virus;protein;research;institute;group;number;;;
-Topic 141;institutions;credit;insurance;business;branches;undertakings;coordination;directive;life;margin;;;
-Topic 142;coffee;cocoa;beans;executive;director;member;agency;certifying;certificate;country;;;
-Topic 143;shipbuilding;shipyard;ships;shipping;aircraft;orders;market;civil;world;european;;;
-Topic 145;sugar;fruit;products;content;weight;exceeding;excluding;added;falling;preserved;;;
-Topic 146;licences;exploration;prospecting;mining;uranium;deposits;resources;number;year;brown;;;
-Topic 147;customs;goods;tariff;duties;commission;regulation;eec;subheading;common;falling;;;
-Topic 148;agriculture;agricultural;areas;regions;land;aid;measures;improvement;production;common;;;
-Topic 149;rate;rates;prices;inflation;growth;increase;deficit;balance;countries;year;;;
-Topic 150;costs;cost;provide;system;work;number;order;carried;made;years;;;
-Topic 152;part-time;labour;work;working;workers;employment;temporary;hours;time;social;;;
-Topic 153;fuel;nuclear;material;safeguards;parties;agreement;subject;article;community;australia;;;
-Topic 154;steels;steel;furnace;ecu;continuous;casting;properties ;blast;years;research;;;
-Topic 155;aid;assistance;fund;investment;projects;development;community;regional;regions;commissions;;;
-Topic 156;cultural;culture;heritage;health;public;medical;sector;works;european;action;;;
-Topic 157;countries;states;territories;overseas;european;community;council;convention;acp;decision;;;
-Topic 158;children;people;population;poverty;social;poor;housing;groups;projects;project;;;
-Topic 159;sulphur;pollutants;pollution;sewage;sludge;dioxide;treatment;content;matter;suspended;;;
-Topic 161;work;working;workers;health;medical;safety;protection;accidents;radiation;exposure;;;
-Topic 163;laying-up;vessel;vessels;waterways;supervisory;management;board;fund;statute;solution;;;
-Topic 164;services;goods;transport;traffic;carriage;air;road;tariffs;system;international;;;
-Topic 165;conventions;convention;code;standards;practices;conference;international;community;resolution;action;;;
-Topic 166;prices;price;market;level;marketing;fixed;year;account;community;intervention;;;
-Topic 168;budget;appropriations;expenditure;revenue;payment;financial;accounts;year;article;european;;;
-Topic 169;pipeline;pipelines;gas;oil;production;project;equipment;depths;natural;laying;;;
-Topic 170;west;north;area;council;commission;lattitude;longitude;fisheries;convention;contracting;;;
-Topic 173;liable;liability;damage;caused;property;claims ;personal;person;products;producer;;;
-Topic 174;import;imports;trade;quotas;countries;agreements;products;country;arrangements;community;;;
-Topic 175;schools;teachers;education;community;language;foundation;activities;information;countries;european;;;
-Topic 176;commission;council;amended;member;article;regard;thereof;regulation;eec;european;;;
-Topic 177;petroleum;oil;gas;crude;prices;imports;price;supply;companies;products;;;
-Topic 179;guarantee;guarantees;insured;insurer;payment;credit;contract;amount;loss ;export;;;
-Topic 180;era;budgetary;budget;expenditure;financial;resource;commissions;contributions;year;article;;;
-Topic 181;paddy;rice;grains;husked;milled;amount ;threshold;market;broken;July;;;
-Topic 182;intake;concentration;inhalation;limit;air;end;derived;annual;public;workers;;;
-Topic 183;animals;animal;swine;bovine;veterinary;meat;disease;health;trade;fresh;;;
-Topic 184;duty;duties;customs;tariff;suspension;products;frozen;fresh;intended;community;;;
-Topic 185;programme;programmes;measures;measure;operations;development;tourism;community;specific;special;;;
-Topic 186;participants;participant;committee;executive;information;operating;contracting;agent;annex;task;;;
-Topic 187;textile;cotton;footware;leather;woven;flax;gloves;products;quotas;articles;;;
-Topic 188;expenditure;appropriation;aid;financial;regulation;draft;article;cover;preliminary;eec;;;
-Topic 189;contracts;contract;tender;contractor;awarded;works;supplies;invitation;number;nature;;;
-Topic 190;meat;beef;veal;sheep;bovine;animals;frozen;processing;import;community;;;
-Topic 192;agencies;agency;regulation;intervention;storage;distillation;wine;eec;article;price;;;
-Topic 193;port;airport;fabrics;products;communities;address;date;description;european;member ;;;
-Topic 194;subsidy;aid;fund;agricultural;project;application;section;article;guidance;regulation;;;
-Topic 195;increase;increased;level;years;time ;economic;general;situation;present;made;;;
-Topic 196;barley;wheat;durum;maize;cereals;flower;starch;meal;refund ;common;;;
-Topic 197;country;countries;international;policy;measures;situations;community;market;problems;present;;;
-Topic 198;euronet;information;data;documentation;services;network;users;technical;scientific;plan;;;
-Topic 199;industry;industries;sector;firm;market;products;industrial;production;japan;european;;;
-Topic 200;papua;passport;identity;bagage;cargo;nationals;crew;practice;guinea;recommended;;;
-Topic 201;tenders;tender;tenderer;invitation;intervention;regulation;agency;port;community;sucessful;;;
-Topic 203;financial;economic;agricultural;workers;additional;period;turkey;association;protocol;turkish;;;
-Topic 204;process;process;materials;products;waste;recycling;coal;raw;recovery;high;;;
-Topic 205;migrant;migrants;migration;consumers;consumer;advertising;illegal;protection;information;toys;;;
-Topic 206;projects;project;construction;development;health;medical;hospital;ngos;equipment;ngo;;;
-Topic 207;portugal’s;portuguese;portugal;imports;tariff;accession;products;duties;transitional;community;;;
-Topic 208;tax;income;indexation;savings;schemes;capital;law;building;years;formation;;;
-Topic 210;credit;credits;terms;guidelines;arrangement;understanding;interest;countries;export;participants;;;
-Topic 211;shares;stock;securities;investment;company;exchange;authorities;public;information;quotation;;;
-Topic 212;seed;seeds;colza;harvested;oils;fats;oil;subsidy;intervention;rape;;;
-Topic 213;producers;production;products;market;marketing;organization;system;measures;aid;granted;;;
-Topic 214;act;acts;community;council;decision;eec;accession;regulation;December;relating;;;
-Topic 215;state;national;states;communities;authorities;community;concerned;information;respect;member;;;
-Topic 216;species;fauna;conservation;wild;state;provisions;appendix;council;convention;europe;;;
-Topic 217;behaviour;hens;birds;poultry;poult;egg;cages;cage;water;laying;;;
-Topic 218;milk;dairy;cows;premiums;premium;period;number;applications;December;conversion;;;
-Topic 219;pears;apples;oranges;fruit;vegetables;citrus;varieties;marketing;reference;class;;;
-Topic 220;commission;council;proposal;meeting;measures;authorities;report;information;work;made;;;
-Topic 221;organisation;quality;products;content;information;storage;weight;agency;reg;substituted;;;
-Topic 222;federal;commission;decision;treaty;measures;republic;regard;article;December;germany;;;
-Topic 224;delegation;commission;accession;transitional;measures;period;position;community;greek;Greece;;;
-Topic 225;community;communities;government;economic ;republic;agreement;exchange;protocol;letters;european;;;
-Topic 226;luxembourg;commission’s;chefs;chef;cabinet;meeting;communication;reservation;countries;agreed;;;
-Topic 227;council;department;agriculture;land;species;seed;directive;material;marketing;eec;;;
-Topic 229;rate;rates;currency;currencies;monetary;exchange;amounts;account;system;unit;;;
-Topic 230;tenders;tender;market;export;commission;levy;regulation;article;eec;invitation;;;
-Topic 231;training;professional;qualitifications;services;activities;nationals;persons;establishment;recognition;freedom;;;
-Topic 232;west;east;london;african;british;airport;airlines;airways;corporation;partner;;;
-Topic 233;ministry;department;health;national;social;dublin;london;house;supply;board;;;
-Topic 234;roll-over;type-approval;tractors;tractor;seat;annex;structure;protection;test;eec;;;
-Topic 237;policies;policy;economic;growth;investment;monetary;measures;community;public;member;;;
-Topic 238;institutions;community;political;states;commission;union;treaty;member;common;european;;;
-Topic 240;spain’s;spanish;spain;mediterranean;enlargement;twelve;number;applicant;process;exports;;;
-Topic 241;case;commission;community;approach;level;existing;general;present;time;based;;;
-Topic 242;ecsc;jobs;employment;company;project;commission;area;loan;art;limited;;;
-Topic 243;provisions;provision;law;rules;undertakings;legal;case;paragraph;article;undertaking;;;
-Topic 244;s.e;supervisory;management;board;company;group;meeting;general;article;european;;;
-Topic 246;india;pakistan;bangladesh;jute;economic;government;trade;community;products;agreement;;;
-Topic 247;material;information;safeguards;facility;agreement;nuclear;agency;inventory;physical;balance;;;
-Topic 248;steel;iron;scrap;production;products;market;undertakings;treaty;concentration;article;;;
-Topic 249;animals;animal;veterinary;products;product;medicinal;marketing;proprietary;tests;authorization;;;
+﻿Topic 0,labour,purchased,paid,income,holdings,land,farm,family,sheep,machinery
+Topic 1,women,men,discrimination,employment,vocational,training,treatment,equal,law,access
+Topic 2,reagents,manufacture,combination,consisting,form,identification,acid,circuit,weight,figures
+Topic 3,euratom,September,February,european,file,article,accordance,public,community,regulation
+Topic 4,obtenus,product,products,manufacture,materials,processing,produits,exceed,working,finished
+Topic 5,proposed,proposal,commission,council,decision,parliament,treaty,draft,community,european
+Topic 6,taxable,tax,exemption,transactions,goods,services,persons,person,amount,added
+Topic 7,france,germany,italy,belgium,ireland,netherlands,united,kingdom,states,member
+Topic 10,social,economic,community,development,policy,measures,action,commission,states,member
+Topic 11,u.s.,cigarettes,cigarette,tobacco,smoking,smoke,tar,surcharge,formula,yield
+Topic 12,employee,employees,company,companies,management,enterprise,law,council,collective,participation
+Topic 13,staff,salaries,servants,allowance,service,officials,secretary,regulations,communities,July
+Topic 14,average,rate,increase,total,level,number,figures,period,table,national
+Topic 15,parts,territories,including ,similar,heading,falling,wood,machines,article,beneficiary 
+Topic 16,labour,farms,farm,incomes,income,holdings ,region,returning,holding,england
+Topic 17,eua,budget,appropriations,expenditure,financial,million,year,chapter,article,ecu
+Topic 18,tariff,imports,customs,duties,protocol,agreement,products,states,member,community
+Topic 19,sales,market,products,agreement,treaty,undertakings,decision,commission,competition,article
+Topic 20,bonaire,electrical,voltage,intrinsically,standard,apparatus,safe,certificate,hotel,european
+Topic 21,vessel,vessels,waterway,waterways,inland,roads,vehicles,total,expenditure,category
+Topic 22,sugar,cereals,milk,wheat,beef,oil,products,intervention,marketing,year
+Topic 24,cheeses,cheese,milk,butter,fat,products,content,zealand,levy,special
+Topic 26,regard,intervention,community,quality,marketing,tobacco,leaf,article,year,ecu
+Topic 27,agreements,agreement,negotiations,cooperation,trade,economic,community,commission,concluded,european
+Topic 28,fishing,fishery,fish,guide,eec,products,regulation,listed,head,annex
+Topic 29,import,imported,customs,goods,origin,processing,duties,authorities,taxes,temporary
+Topic 30,programmes,programme,projects,project,research,community,commission,field,action,european
+Topic 31,programmes,vocational,employment,training,young,social,people,regions,application,fund
+Topic 32,unrwa,aid,refugees,food,community,nations,commission,united,convention,advance
+Topic 33 ,areas,area,varieties,hops,hop,harvest,market,production,year,aid
+Topic 34,icl,applications,data,processing,analysis,management,system,computer,departments,conversion
+Topic 35,farms,farm,farmers,land,plan,plans,development,directive,article,eec
+Topic 36,egypt,arab,wheat,flour,importation,applicable,amounts ,account,net,including
+Topic 37,less-favoured,paragraph,article,list,directive,council,community ,areas,farming,mountain
+Topic 38,economic,industrial,development,developing,financial,international,countries,world,trade,cooperation
+Topic 40,mercury,pollution,discharges,water,waters,substances,standards,quality,limit,values
+Topic 41,projects,project,development,community,support,demonstration,commission,financial,water,hydrocarbons
+Topic 42,ecsc,investment,loan,jobs,million,plant,steel,treaty,commission,article
+Topic 44,milk,butter,price,minimum,tender,processing,regulation,article,invitation,eec
+Topic 46,sea,marine,ship,oil ,pollution,mediterranean,area,substances,present,convention
+Topic 47,systems,system,software,computer,data,processing,development,projects,study,european 
+Topic 48,company,companies,market,capital,fuel,coal,undertaking,joint,statutes,british
+Topic 49,powder,milk,tons,supply,delivery,costs,aid,intervention,metric,skimmed
+Topic 50,development,researcdh,technical,proprietary,information,energy,agency,field,exchange,party
+Topic 51,reactor,reactors,nuclear,reprocessing,fuel,energy,power,materials,safety,fast
+Topic 52,proposal,council,community,force,regulation,regard,article ,applicable,eec,european
+Topic 53,rail,transit,transport,infrastructure,traffic,road,projects,austria,interest,combined
+Topic 54,export,imports,trade,textile,products,quantitative,agreement,authorities,community,limits
+Topic 55,customs,goods,transit,destination,country,state,community,office,document,number
+Topic 56,energy,electricity,power,coal,nuclear,oil,consumption,production,sources,community
+Topic 57,service,services,safety,inspection,requirements,certificate,passengers,car,lift,doors
+Topic 58,February,european,persons,social,assistance,fund,council,operations,decision,article
+Topic 59,steel,iron,plates,machines,products,including,excluding,rates,duty,worked
+Topic 61,west,north,fishing,herring,sea,stocks,stock,catches,norway,ices
+Topic 62,agriculture,agricultural,trade,markets,prices,products,production,policy,community,common
+Topic 63,licence ,vessel,vessels,fishing,species,zone,community,commission,point,referred
+Topic 64,ceilings,ceiling,imports,unwrought,products,magnesium,regulation,commission,member,community
+Topic 65,edf,eua,project,projects,development,financing,technical,million,aid,states
+Topic 66,sugar,beet,raw,quota,production,white,basic,levy,year,marketing
+Topic 67,type-approval,lamps,lamp,lights,lighting,light,rear,fog,devices,mark
+Topic 68,amount,amounts,refund,levy,compensatory,applicable,export,products,trade,regulation
+Topic 69,appropriation,appropriations,expenditure,expenses,allowances,staff,posts,cover,article,officials
+Topic 71,european,israel,economic,community,exchange,agreement,article,letters,originating,preserved
+Topic 72,type-approval,vehicles,vehicle,motor,item,type,requirements,point,annex,approval
+Topic 73,shares,share,quota,tariff,tons,reserve,states,member,community,metric
+Topic 74,sluice-gate,egg,eggs,poultry,grain,feed,hatching,shell,quantity,brazil
+Topic 75,country,community,economic,aid,goods,agreement,recipient,delivery,date,european
+Topic 76,cereals,rice,products,amounts,applicable,exceeding,weight,compensatory,regulation,falling 
+Topic 77,amount,amounts,monetary,compensatory,animals,conditions,authorities,regulation,competent,eec
+Topic 78,imports,consumption,prices,production,market,increase,million,year,world,community
+Topic 79,ecsc,aid,aids,measures,steel,coal,industry,production,million,decision
+Topic 80,proceedings,court,justice,law,rights,mark,marks,trade,office,community
+Topic 81,party,parties,date,subject,paragraph,article ,accordance,referred,agreement,contracting
+Topic 82,December,July,June,commission,council,amended,eec,community,regulation,laying
+Topic 83,amount,paid,reimbursement,granted,aid,guidance,fruit,trees,section,eec
+Topic 84,fish,fishing,fisheries,waters,sea,vessels,species,resources,measures,community
+Topic 85,meat,poultry,pigmeat,offals,carcases,pig,fat,heads,cuts,feet
+Topic 86,railways,railway,rail,transport,traffic,undertakings,state,regulation,financial,decision
+Topic 88,programme,pollution,environmental,waste,water,environment,protection,measures,action,effects
+Topic 89,agreements,agreement,treaty,friendship,exchange,commerce,convention,commercial,navigation ,notes
+Topic 90,survey,surveys,statistics,data,statistical,information,national,community,work,member
+Topic 91,hellenic,including,excluding,products,articles,paper,similar,republic,heading,January
+Topic 92,nederland,danmark,irish,british,ireland,italia,united,kingdom,northern,trade
+Topic 93,accounts,account,assets,financial,profit,balance,loss,year,group,fixed
+Topic 94,paragraph,article,provisions,measures,procedure,commission,accordance,referred,laid,community
+Topic 95,person,persons,institution,state,legislation,regulation,insurance,member,article,benefits
+Topic 96,authorised,vine,varieties,pinot,product,china,republic,list,annex,added
+Topic 97,pension,pensions,insurance,health,benefits,schemes,expenditure,social,security,age
+Topic 98,committee,commission,chairman,representatives,members,advisory,meetings,decision,opinion,working
+Topic 99,loans,loan,financing,investment,financial,bank,capital,interest,million,community
+Topic 100,eua,appropriation,appropriations,commission,council,expenditure,community,general,commitment,entered
+Topic 102,protocol,customs,originating,products,certificate,joint,committee,movement,decision,article
+Topic 103,instalment,n.c.,amount,number,total,level,totally,partially,priority ,assistance
+Topic 104,products,products,foodstuffs,labelling,substances,human,intended,states,annex,member
+Topic 105,tax,taxes,taxation,excise,rates,harmonization,tobacco,duty,stage,member 
+Topic 106,sweden,portugal,norway,switzerland,austria,finland,iceland,swiss,countries,kingdom
+Topic 107,r&d,technologies,technology,innovation,technological,research,information,activities,community,european
+Topic 109,danish,denmark,derogation,element,proof,products,tobacco,rate,fiscal,duty
+Topic 110,licence,licences,date,advance,issued,period,certificate,quantity ,export,state
+Topic 111,accession,ratification,convention,united,government,force,protocol,application,extension,article
+Topic 112,litres,alcholic,alcohol,beverages,containers,grapes,actual,exceeding,vol,strength
+Topic 113,n/o,steel,copper,iron,coated,duty,valued,rate,dozen,articles
+Topic 114,fibres,knitted,crocheted,fabrics,garments,yarn,woven,textile,elastic,synthetic
+Topic 115,italy,italian,stock,stocks,tin,fund,common,measures,buffer,agreement
+Topic 116,proposed,proposals,commission,measures,increase,million,price,community,production,ecu
+Topic 117,programme,butteroil,milk,cereals,food,aid,powder,countries,community,commission
+Topic 118,hectolitres,litres,wines,wine,designation,certificate,origin,containers,considered,holding
+Topic 119,centre,staff,administrative,departments,office,agency,commission,board,institute,director
+Topic 120,anti-dumping,provisional,commission,duty,injury,imports,definitive,dumping,originating,community
+Topic 121,regulation,lead,zinc,levels,petrol,blood,general,grouping,members ,contract
+Topic 122,regulations,regulation,inspection,checks,control,period,transport,road,infringement,number
+Topic 123,u.a.,appropriation,appropriations,expenditure,research,scientific,technical,staff,account,units
+Topic 124,test,tests,measuring,temperature,conditions,pressure,water,air,gas,appliance
+Topic 125,projects,construction,plant,capacity ,power,thermal,stations,planned,sets,year
+Topic 126,shares,share,quota,tariff,states,state,initial,reserve,community,member
+Topic 127,wine-growing,grape,grapes,wine,wines,varieties,alcoholic,quality,table,regulation
+Topic 128,programme,study,studies,research,analysis,evaluation,data,methods,techniques,development
+Topic 129,measuring,measurement,sound,noise,test,level,pressure,equipment,power,appliances
+Topic 130,tunisia,morocco,european,cyprus,originating,imports,economic,agreement,community,interim
+Topic 131,producer,production,oil,oils,beans,olive,marketing,aid,year,system
+Topic 133,duty-free,importation,imported,goods,purposes,cultural,scientific,community,free,relief
+Topic 134,expenditure,appropriations,payments,commitments,proposed,total,compulsory,breakdown,change,col
+Topic 135,directive,directives,provisions,laws ,proposal,states,council,article,member,eec
+Topic 136,amendments,amendment,amended,proposal,paragraph,article,text,annex,words,replaced
+Topic 138,region,regions,areas,regional,economic,industrial,growth,development,population,employment
+Topic 139,general,secretary,state,council,convention,party,annex,contracting,international,information
+Topic 140,programme,livestock,animal,disease,virus,protein,research,institute,group,number
+Topic 141,institutions,credit,insurance,business,branches,undertakings,coordination,directive,life,margin
+Topic 142,coffee,cocoa,beans,executive,director,member,agency,certifying,certificate,country
+Topic 143,shipbuilding,shipyard,ships,shipping,aircraft,orders,market,civil,world,european
+Topic 145,sugar,fruit,products,content,weight,exceeding,excluding,added,falling,preserved
+Topic 146,licences,exploration,prospecting,mining,uranium,deposits,resources,number,year,brown
+Topic 147,customs,goods,tariff,duties,commission,regulation,eec,subheading,common,falling
+Topic 148,agriculture,agricultural,areas,regions,land,aid,measures,improvement,production,common
+Topic 149,rate,rates,prices,inflation,growth,increase,deficit,balance,countries,year
+Topic 150,costs,cost,provide,system,work,number,order,carried,made,years
+Topic 152,part-time,labour,work,working,workers,employment,temporary,hours,time,social
+Topic 153,fuel,nuclear,material,safeguards,parties,agreement,subject,article,community,australia
+Topic 154,steels,steel,furnace,ecu,continuous,casting,properties ,blast,years,research
+Topic 155,aid,assistance,fund,investment,projects,development,community,regional,regions,commissions
+Topic 156,cultural,culture,heritage,health,public,medical,sector,works,european,action
+Topic 157,countries,states,territories,overseas,european,community,council,convention,acp,decision
+Topic 158,children,people,population,poverty,social,poor,housing,groups,projects,project
+Topic 159,sulphur,pollutants,pollution,sewage,sludge,dioxide,treatment,content,matter,suspended
+Topic 161,work,working,workers,health,medical,safety,protection,accidents,radiation,exposure
+Topic 163,laying-up,vessel,vessels,waterways,supervisory,management,board,fund,statute,solution
+Topic 164,services,goods,transport,traffic,carriage,air,road,tariffs,system,international
+Topic 165,conventions,convention,code,standards,practices,conference,international,community,resolution,action
+Topic 166,prices,price,market,level,marketing,fixed,year,account,community,intervention
+Topic 168,budget,appropriations,expenditure,revenue,payment,financial,accounts,year,article,european
+Topic 169,pipeline,pipelines,gas,oil,production,project,equipment,depths,natural,laying
+Topic 170,west,north,area,council,commission,lattitude,longitude,fisheries,convention,contracting
+Topic 173,liable,liability,damage,caused,property,claims ,personal,person,products,producer
+Topic 174,import,imports,trade,quotas,countries,agreements,products,country,arrangements,community
+Topic 175,schools,teachers,education,community,language,foundation,activities,information,countries,european
+Topic 176,commission,council,amended,member,article,regard,thereof,regulation,eec,european
+Topic 177,petroleum,oil,gas,crude,prices,imports,price,supply,companies,products
+Topic 179,guarantee,guarantees,insured,insurer,payment,credit,contract,amount,loss ,export
+Topic 180,era,budgetary,budget,expenditure,financial,resource,commissions,contributions,year,article
+Topic 181,paddy,rice,grains,husked,milled,amount ,threshold,market,broken,July
+Topic 182,intake,concentration,inhalation,limit,air,end,derived,annual,public,workers
+Topic 183,animals,animal,swine,bovine,veterinary,meat,disease,health,trade,fresh
+Topic 184,duty,duties,customs,tariff,suspension,products,frozen,fresh,intended,community
+Topic 185,programme,programmes,measures,measure,operations,development,tourism,community,specific,special
+Topic 186,participants,participant,committee,executive,information,operating,contracting,agent,annex,task
+Topic 187,textile,cotton,footware,leather,woven,flax,gloves,products,quotas,articles
+Topic 188,expenditure,appropriation,aid,financial,regulation,draft,article,cover,preliminary,eec
+Topic 189,contracts,contract,tender,contractor,awarded,works,supplies,invitation,number,nature
+Topic 190,meat,beef,veal,sheep,bovine,animals,frozen,processing,import,community
+Topic 192,agencies,agency,regulation,intervention,storage,distillation,wine,eec,article,price
+Topic 193,port,airport,fabrics,products,communities,address,date,description,european,member 
+Topic 194,subsidy,aid,fund,agricultural,project,application,section,article,guidance,regulation
+Topic 195,increase,increased,level,years,time ,economic,general,situation,present,made
+Topic 196,barley,wheat,durum,maize,cereals,flower,starch,meal,refund ,common
+Topic 197,country,countries,international,policy,measures,situations,community,market,problems,present
+Topic 198,euronet,information,data,documentation,services,network,users,technical,scientific,plan
+Topic 199,industry,industries,sector,firm,market,products,industrial,production,japan,european
+Topic 200,papua,passport,identity,bagage,cargo,nationals,crew,practice,guinea,recommended
+Topic 201,tenders,tender,tenderer,invitation,intervention,regulation,agency,port,community,sucessful
+Topic 203,financial,economic,agricultural,workers,additional,period,turkey,association,protocol,turkish
+Topic 204,process,process,materials,products,waste,recycling,coal,raw,recovery,high
+Topic 205,migrant,migrants,migration,consumers,consumer,advertising,illegal,protection,information,toys
+Topic 206,projects,project,construction,development,health,medical,hospital,ngos,equipment,ngo
+Topic 207,portugal’s,portuguese,portugal,imports,tariff,accession,products,duties,transitional,community
+Topic 208,tax,income,indexation,savings,schemes,capital,law,building,years,formation
+Topic 210,credit,credits,terms,guidelines,arrangement,understanding,interest,countries,export,participants
+Topic 211,shares,stock,securities,investment,company,exchange,authorities,public,information,quotation
+Topic 212,seed,seeds,colza,harvested,oils,fats,oil,subsidy,intervention,rape
+Topic 213,producers,production,products,market,marketing,organization,system,measures,aid,granted
+Topic 214,act,acts,community,council,decision,eec,accession,regulation,December,relating
+Topic 215,state,national,states,communities,authorities,community,concerned,information,respect,member
+Topic 216,species,fauna,conservation,wild,state,provisions,appendix,council,convention,europe
+Topic 217,behaviour,hens,birds,poultry,poult,egg,cages,cage,water,laying
+Topic 218,milk,dairy,cows,premiums,premium,period,number,applications,December,conversion
+Topic 219,pears,apples,oranges,fruit,vegetables,citrus,varieties,marketing,reference,class
+Topic 220,commission,council,proposal,meeting,measures,authorities,report,information,work,made
+Topic 221,organisation,quality,products,content,information,storage,weight,agency,reg,substituted
+Topic 222,federal,commission,decision,treaty,measures,republic,regard,article,December,germany
+Topic 224,delegation,commission,accession,transitional,measures,period,position,community,greek,Greece
+Topic 225,community,communities,government,economic ,republic,agreement,exchange,protocol,letters,european
+Topic 226,luxembourg,commission’s,chefs,chef,cabinet,meeting,communication,reservation,countries,agreed
+Topic 227,council,department,agriculture,land,species,seed,directive,material,marketing,eec
+Topic 229,rate,rates,currency,currencies,monetary,exchange,amounts,account,system,unit
+Topic 230,tenders,tender,market,export,commission,levy,regulation,article,eec,invitation
+Topic 231,training,professional,qualitifications,services,activities,nationals,persons,establishment,recognition,freedom
+Topic 232,west,east,london,african,british,airport,airlines,airways,corporation,partner
+Topic 233,ministry,department,health,national,social,dublin,london,house,supply,board
+Topic 234,roll-over,type-approval,tractors,tractor,seat,annex,structure,protection,test,eec
+Topic 237,policies,policy,economic,growth,investment,monetary,measures,community,public,member
+Topic 238,institutions,community,political,states,commission,union,treaty,member,common,european
+Topic 240,spain’s,spanish,spain,mediterranean,enlargement,twelve,number,applicant,process,exports
+Topic 241,case,commission,community,approach,level,existing,general,present,time,based
+Topic 242,ecsc,jobs,employment,company,project,commission,area,loan,art,limited
+Topic 243,provisions,provision,law,rules,undertakings,legal,case,paragraph,article,undertaking
+Topic 244,s.e,supervisory,management,board,company,group,meeting,general,article,european
+Topic 246,india,pakistan,bangladesh,jute,economic,government,trade,community,products,agreement
+Topic 247,material,information,safeguards,facility,agreement,nuclear,agency,inventory,physical,balance
+Topic 248,steel,iron,scrap,production,products,market,undertakings,treaty,concentration,article
+Topic 249,animals,animal,veterinary,products,product,medicinal,marketing,proprietary,tests,authorization
