@@ -1,0 +1,194 @@
+file_number,File name,topic 1,top_mt,topic 2,JEX - label,JEX - MT,JEX - Domain,manual_headings,Manual - MT,Manual - Domain,Evaluator
+1,1974_0013_COM_1974_0062_XM_PACKAGE.txt,7,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,0.4634235069250998,egg,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES",6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,207,MT 2451 prices,0.16888779719924552, egg product, MT 6011 animal product, 60 AGRI-FOODSTUFFS,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,225,MT 1016 European construction,0.2641481527753582, live poultry, MT 6026 foodstuff,,,,,Seth
+2,1974_0069_COM_1974_0389_XM_PACKAGE.txt,38,MT 0811 cooperation policy,0.08067176763397459,milk,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,223,Cannot retrieve field from null,0.21722286118173295, milk product, MT 6016 processed agricultural produce, 60 AGRI-FOODSTUFFS,2011,MT 2011 tariff policy,20 TRADE,Seth
+,,225,MT 1016 European construction,0.266663139111363, monetary compensatory amount,,,2021,MT 2021 international trade,20 TRADE,Seth
+3,1974_0080_COM_1974_0476_XM_PACKAGE.txt,59,"MT 6816 iron, steel and other metal industries",0.15425601672596737,intervention stock,MT 2006 trade policy,20 TRADE,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,215,MT 1231 international law,0.15831964565741702, skimmed milk, MT 6016 processed agricultural produce, 60 AGRI-FOODSTUFFS,2006,MT 2006 trade policy,20 TRADE,Seth
+,,216,MT 7611 European organisations,0.20701672258293244, skimmed milk powder,,,0811,cooperation policy,08 INTERNATIONAL RELATIONS,Seth
+4,1974_0118_COM_1974_0772_XM_PACKAGE.txt,38,MT 0811 cooperation policy,0.18647842458880395,Bulgaria,MT 2451 prices,24 FINANCE,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,207,MT 2451 prices,0.2254784517102157, Romania, MT 7206 Europe , 72 GEOGRAPHY,2021,MT 2021 international trade,20 TRADE,Seth
+,,225,MT 1016 European construction,0.28197078471070924, minimum price, MT 7231 economic geography ,,2011,MT 2011 tariff policy,20 TRADE,Seth
+,,,,,, MT 7236 political geography,,,,,Seth
+5,1974_0140_COM_1974_0894_XM_PACKAGE.txt,59,"MT 6816 iron, steel and other metal industries",0.12412255486205134,milk,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,4806,MT 4806 transport policy,48 TRANSPORT,Seth
+,,215,MT 1231 international law,0.23105131389445302, milk product,,,6031,MT 6031 agri-foodstuffs,60 AGRI-FOODSTUFFS,Seth
+,,225,MT 1016 European construction,0.13949892914449968, skimmed milk powder,,,0811,cooperation policy,08 INTERNATIONAL RELATIONS,Seth
+6,1974_0156_COM_1974_0932_XM_PACKAGE.txt,86,MT 4816 land transport,0.8950861036722308,butter,MT 2451 prices,24 FINANCE,6016,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,Seth
+,,156,MT 2841 health,0.012746542537315062, maximum price, MT 6016 processed agricultural produce, 60 AGRI-FOODSTUFFS,2006,MT 2006 trade policy,20 TRADE,Seth
+,,163,MT 4021 management,0.07522624490433279, selling price,,,2011,MT 2011 tariff policy,20 TRADE,Seth
+7,1974_0165_COM_1974_0983_XM_PACKAGE.txt,63,MT 5641 fisheries,0.03161505726754479,South Africa,MT 6011 animal product,60 AGRI-FOODSTUFFS,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,112,MT 6021 beverages and sugar,0.7667028636530006, beef, MT 7221 Africa , 72 GEOGRAPHY,2011,MT 2011 tariff policy,20 TRADE,Seth
+,,163,MT 4021 management,0.16650572649018267, boned meat, MT 7231 economic geography,,,,,Seth
+8,1974_0174_COM_1974_1057_XM_PACKAGE.txt,173,MT 1211 civil law,0.09800686089833713,maize,MT 6006 plant product,60 AGRI-FOODSTUFFS,2451,MT 2451 prices,24 FINANCE,Seth
+,,207,MT 2451 prices,0.3118945323289196, sorghum,,,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,225,MT 1016 European construction,0.39217952804677997, wheat,,,,,,Seth
+9,1974_0236_COM_1974_1472_XM_PACKAGE.txt,79,MT 1606 economic policy,0.26275581442243845,fats,MT 6006 plant product,60 AGRI-FOODSTUFFS,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,163,MT 4021 management,0.1730991147673601, oil seed rape, MT 6016 processed agricultural produce,,6036,MT 6036 food technology,60 AGRI-FOODSTUFFS,Seth
+,,225,MT 1016 European construction,0.3819890910079062, sunflower,,,6406,MT 6406 production,"64 PRODUCTION, TECHNOLOGY AND RESEARCH",Seth
+10,1974_0249_COM_1974_1549_XM_PACKAGE.txt,20,MT 6411 technology and technical regulations,0.12535962856407826,export refund,MT 2006 trade policy,20 TRADE,6016,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,Seth
+,,223,Cannot retrieve field from null,0.1912199540555091, monetary compensatory amount, MT 5606 agricultural policy, 56 AGRICULTURE,2451,MT 2451 prices,24 FINANCE,Seth
+,,225,MT 1016 European construction,0.21043793262308422, rice, MT 6006 plant product, 60 AGRI-FOODSTUFFS,2011,MT 2011 tariff policy,20 TRADE,Seth
+11,1974_0257_COM_1974_1597_XM_PACKAGE.txt,59,"MT 6816 iron, steel and other metal industries",0.1992644190292056,milk by-product,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,163,MT 4021 management,0.11244572211425798, skimmed milk,,,0811,cooperation policy,08 INTERNATIONAL RELATIONS,Seth
+,,215,MT 1231 international law,0.3465401288070228, skimmed milk powder,,,,,,Seth
+12,1974_0277_COM_1974_1739_XM_PACKAGE.txt,152,MT 4406 employment,0.12027252906341283,monetary compensatory amount,MT 2411 monetary economics,24 FINANCE,2411,MT 2411 monetary economics,24 FINANCE,Seth
+,,203,MT 2826 social affairs,0.22747897516949697, national currency, MT 5606 agricultural policy, 56 AGRICULTURE,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,225,MT 1016 European construction,0.2926561272257349, representative rate,,,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+13,1974_0288_COM_1974_1836_XM_PACKAGE.txt,86,MT 4816 land transport,0.40436993591335346,beef,MT 2451 prices,24 FINANCE,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,88,MT 5216 deterioration of the environment,0.1690565986727054, fixing of prices, MT 6011 animal product, 60 AGRI-FOODSTUFFS,2006,MT 2006 trade policy,20 TRADE,Seth
+,,99,MT 2416 financial institutions and credit,0.1439353890997678, selling price,,,2451,MT 2451 prices,24 FINANCE,Seth
+14,1974_0296_COM_1974_1874_XM_PACKAGE.txt,20,MT 6411 technology and technical regulations,0.18127140274159956,export refund,MT 2006 trade policy,20 TRADE,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,207,MT 2451 prices,0.22971873821298797, malt, MT 6006 plant product, 60 AGRI-FOODSTUFFS,2451,MT 2451 prices,24 FINANCE,Seth
+,,225,MT 1016 European construction,0.17995598378692668, rice, MT 6026 foodstuff,,2011,MT 2011 tariff policy,20 TRADE,Seth
+15,1974_0351_COM_1974_2130_XM_PACKAGE.txt,1,MT 1236 rights and freedoms,0.21070130550604918,State aid,MT 1606 economic policy,16 ECONOMICS,6821,MT 6821 mechanical engineering,68 INDUSTRY,Seth
+,,159,MT 5216 deterioration of the environment,0.303646797891678, investment aid, MT 2446 taxation, 24 FINANCE,2006,MT 2006 trade policy,20 TRADE,Seth
+,,163,MT 4021 management,0.285679835255691, tax relief,,,,,,Seth
+16,1974_0367_COM_1974_2194_XM_PACKAGE.txt,73,MT 2421 free movement of capital,0.3783553381604716,ACP countries,MT 0436 executive power and public service,04 POLITICS,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,93,MT 4026 accounting,0.10057594192136868, Kenya, MT 7221 Africa , 72 GEOGRAPHY,2011,MT 2011 tariff policy,20 TRADE,Seth
+,,245,Cannot retrieve field from null,0.116540663481566, overseas countries and territories, MT 7231 economic geography ,,2451,MT 2451 prices,24 FINANCE,Seth
+,,,,,, MT 7616 extra-European organisations,,,,,Seth
+,,,,,, MT 7231 economic geography,,,,,Seth
+17,1974_9008_COM_1974_0702_XM_PACKAGE.txt,63,MT 5641 fisheries,0.09746325863170159,Italy,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,152,MT 4406 employment,0.1479639400559288, agricultural product, MT 5631 agricultural activity, 72 GEOGRAPHY,2411,MT 2411 monetary economics,24 FINANCE,Seth
+,,245,Cannot retrieve field from null,0.14977147892513956, monetary compensatory amount, MT 7206 Europe ,,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,,,,, MT 7231 economic geography ,,,,,Seth
+,,,,,, MT 7236 political geography,,,,,Seth
+18,1974_9012_COM_1974_1570_XM_PACKAGE.txt,56,MT 6606 energy policy,0.11006692097664753,sugar,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS,6021,MT 6021 beverages and sugar,60 AGRI-FOODSTUFFS,Seth
+,,108,Cannot retrieve field from null,0.5077443263907124, sugar product, MT 6026 foodstuff,,2451,MT 2451 prices,24 FINANCE,Seth
+,,207,MT 2451 prices,0.08077561559401808, white sugar,,,,,,Seth
+19,1974_9015_COM_1974_2000_XM_PACKAGE.txt,19,MT 1011 European Union law,0.14719578112804285,agricultural product,MT 2016 trade,20 TRADE,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,65,MT 0811 cooperation policy,0.2169599141037301, common organisation of markets, MT 5606 agricultural policy, 56 AGRICULTURE,2451,MT 2451 prices,24 FINANCE,Seth
+,,165,MT 0806 international affairs,0.16016652831422454, import, MT 5631 agricultural activity,,5631,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+20,1974_9018_COM_1974_2245_XM_PACKAGE.txt,158,MT 1626 national accounts,0.1605258640709732,cooperation agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS,6621,MT 6621 electrical and nuclear industries,66 ENERGY,Seth
+,,163,MT 4021 management,0.13483487660718974, cooperation agreement (EU), MT 0811 cooperation policy, 10 EUROPEAN UNION,6606,MT 6606 energy policy,66 ENERGY,Seth
+,,217,MT 5631 agricultural activity,0.14789750762044618, international cooperation, MT 1016 European construction,,,,,Seth
+21,1975_0043_COM_1975_0125_XM_PACKAGE.txt,101,Cannot retrieve field from null,0.10854864188740106,EU employment policy,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS,4411,MT 4411 labour market,44 EMPLOYMENT AND WORKING CONDITIONS,Seth
+,,118,MT 6021 beverages and sugar,0.1555056088810824, fight against unemployment, MT 4411 labour market,,4406,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS,Seth
+,,145,MT 6021 beverages and sugar,0.15765336291113338, labour market,,,,,,Seth
+22,1975_0092_COM_1975_0266_XM_PACKAGE.txt,82,MT 1011 European Union law,0.29113374314011214,chemical pollution,MT 0806 international affairs,08 INTERNATIONAL RELATIONS,6811,MT 6811 chemistry,68 INDUSTRY,Seth
+,,159,MT 5216 deterioration of the environment,0.14023514357899072, international convention, MT 5216 deterioration of the environment, 52 ENVIRONMENT,5216,MT 5216 deterioration of the environment,52 ENVIRONMENT,Seth
+,,208,MT 2446 taxation,0.18648961921031956, pollution of waterways,,,5206,MT 5206 environmental policy,52 ENVIRONMENT,Seth
+23,1975_0102_COM_1975_0281_XM_PACKAGE.txt,28,MT 5641 fisheries,0.7612706285400717,Israel,MT 0806 international affairs,08 INTERNATIONAL RELATIONS,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,163,MT 4021 management,0.04771414300554222, Morocco, MT 7221 Africa , 72 GEOGRAPHY,2006,MT 2006 trade policy,20 TRADE,Seth
+,,225,MT 1016 European construction,0.05166556939925887, protocol to an agreement, MT 7231 economic geography ,,,,,Seth
+,,,,,, MT 7236 political geography,,,,,Seth
+,,,,,, MT 7226 Asia and Oceania ,,,,,Seth
+,,,,,, MT 7231 economic geography,,,,,Seth
+24,1975_0111_COM_1975_0316_XM_PACKAGE.txt,13,MT 4421 personnel management and staff remuneration,0.37789900132980614,agreement (EU),MT 1016 European construction,10 EUROPEAN UNION,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,159,MT 5216 deterioration of the environment,0.07715375144883985, import, MT 2016 trade, 20 TRADE,2006,MT 2006 trade policy,20 TRADE,Seth
+,,162,Cannot retrieve field from null,0.07370913912000827, trade agreement (EU),,,6816,"MT 6816 iron, steel and other metal industries",68 INDUSTRY,Seth
+25,1975_0231_COM_1975_0601_XM_PACKAGE.txt,19,MT 1011 European Union law,0.2761157789800376,Ireland,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,165,MT 0806 international affairs,0.06143395895798657, aid system, MT 5606 agricultural policy, 56 AGRICULTURE,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Seth
+,,246,MT 7226 Asia and Oceania || MT 7231 economic geography,0.22126079575581975, common organisation of markets, MT 7206 Europe , 72 GEOGRAPHY,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Seth
+,,,,,, MT 7231 economic geography ,,,,,Seth
+,,,,,, MT 7236 political geography,,,,,Seth
+26,1975_0237_COM_1975_0630_XM_PACKAGE.txt,3,MT 1016 European construction,0.3573553855538337,EU Member State,MT 1606 economic policy,16 ECONOMICS,4406,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS,Seth
+,,101,Cannot retrieve field from null,0.11033356770049256, economic policy, MT 3231 information and information processing, 32 EDUCATION AND COMMUNICATIONS,1611,MT 1611 economic conditions,16 ECONOMICS,Seth
+,,178,Cannot retrieve field from null,0.0817430208592776, exchange of information, MT 7231 economic geography, 72 GEOGRAPHY,2426,MT 2426 financing and investment,24 FINANCE,Seth
+27,1975_0251_COM_1975_0683_XM_PACKAGE.txt,141,MT 2431 insurance,0.02928968058969335,agricultural holding,MT 1626 national accounts,16 ECONOMICS,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Seth
+,,165,MT 0806 international affairs,0.11669692841762136, economic accounts for agriculture, MT 5616 farming systems, 56 AGRICULTURE,2451,MT 2451 prices,24 FINANCE,Seth
+,,214,MT 1011 European Union law,0.7275912618888081, farm accountancy data network,,,4416,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS,Seth
+28,1978_9033_COM_1978_0572_XM_PACKAGE.txt,118,MT 6021 beverages and sugar,0.21880715163358622,Economic and Monetary Union,MT 2406 monetary relations,24 FINANCE,1606,MT 1606 economic policy,16 ECONOMICS,Mathias
+,,152,MT 4406 employment,0.2826678254622041, monetary policy, MT 2411 monetary economics,,1021,MT 1021 EU finance,10 EUROPEAN UNION,Mathias
+,,225,MT 1016 European construction,0.12370465151485177, monetary union,,,,,,Mathias
+29,1979_0024_COM_1979_0066_XM_PACKAGE.txt,32,MT 1606 economic policy,0.43116198822327634,authorised catch,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",5641,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,61,MT 5211 natural environment,0.4044478717850793, catch quota,,,7206,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY,Mathias
+,,175,MT 1006 EU institutions and European civil service,0.08255380034970075, fishing area,,,,,,Mathias
+30,1979_0155_COM_1979_0444_XM_PACKAGE.txt,65,MT 0811 cooperation policy,0.17780086665908557,New Zealand,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Mathias
+,,178,Cannot retrieve field from null,0.08283402998127946, butter, MT 7226 Asia and Oceania , 72 GEOGRAPHY,7226,MT 7226 Asia and Oceania,72 GEOGRAPHY,Mathias
+,,230,MT 2006 trade policy,0.2669795215685153, butter oil, MT 7231 economic geography ,,2016,MT 2016 trade,20 TRADE,Mathias
+,,,,,, MT 7236 political geography,,,,,Mathias
+31,1979_0199_COM_1979_0575_XM_PACKAGE.txt,32,MT 1606 economic policy,0.08733500503059634,Faroe Islands,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",5641,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,61,MT 5211 natural environment,0.41957769627465463, authorised catch, MT 7206 Europe , 72 GEOGRAPHY,4821,MT 4821 maritime and inland waterway transport,48 TRANSPORT,Mathias
+,,225,MT 1016 European construction,0.21654247899005713, fishing area, MT 7236 political geography,,,,,Mathias
+32,1979_0203_COM_1979_0595_XM_PACKAGE.txt,64,MT 1011 European Union law,0.36289574910548844,import policy,MT 2006 trade policy,20 TRADE,6841,MT 6841 leather and textile industries,68 INDUSTRY,Mathias
+,,72,MT 4811 organisation of transport,0.04996833518308442, quantitative restriction, MT 2011 tariff policy,,2016,MT 2016 trade,20 TRADE,Mathias
+,,107,MT 6416 research and intellectual property,0.4073798567189667, tariff quota, MT 2021 international trade,,,,,Mathias
+33,1979_0218_COM_1979_0646_XM_PACKAGE.txt,165,MT 0806 international affairs,0.04463769277683425,European official,MT 0436 executive power and public service,04 POLITICS,2446,MT 2446 taxation,24 FINANCE,Mathias
+,,191,Cannot retrieve field from null,0.738967179746087, regulations for civil servants, MT 1006 EU institutions and European civil service, 10 EUROPEAN UNION,4406,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS,Mathias
+,,192,MT 2006 trade policy,0.03142917025334883, servant (EU),,,1606,MT 1606 economic policy,16 ECONOMICS,Mathias
+34,1979_0251_COM_1979_0755_XM_PACKAGE.txt,159,MT 5216 deterioration of the environment,0.21437146809546778,Greece,MT 1016 European construction,10 EUROPEAN UNION,6841,MT 6841 leather and textile industries,68 INDUSTRY,Mathias
+,,217,MT 5631 agricultural activity,0.1237202927397545, textile product, MT 6841 leather and textile industries, 68 INDUSTRY,0416, electoral procedure and voting,04 POLITICS,Mathias
+,,231,MT 4406 employment,0.2606505812071029, trade agreement (EU), MT 7206 Europe , 72 GEOGRAPHY,,,,Mathias
+,,,,,, MT 7231 economic geography ,,,,,Mathias
+,,,,,, MT 7236 political geography,,,,,Mathias
+35,1979_0262_COM_1979_0794_XM_PACKAGE.txt,124,MT 5211 natural environment,0.1305313966928676,VAT,MT 2446 taxation,24 FINANCE,2446,MT 2446 taxation,24 FINANCE,Mathias
+,,139,MT 0806 international affairs,0.15344564662245633, carriage of goods, MT 4811 organisation of transport, 48 TRANSPORT,4811,MT 4811 organisation of transport,48 TRANSPORT,Mathias
+,,181,MT 6006 plant product,0.16572841190482726, tax exemption,,,,,,Mathias
+36,1980_0028_COM_1980_0079_XM_PACKAGE.txt,239,Cannot retrieve field from null,0.11403228791256496,CCT duties,MT 1021 EU finance,10 EUROPEAN UNION,2451,MT 2451 prices,24 FINANCE,Mathias
+,,242,MT 2416 financial institutions and credit,0.11911212596102909, citrus fruit, MT 5611 agricultural structures and production, 56 AGRICULTURE,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Mathias
+,,245,Cannot retrieve field from null,0.4492712376051121, marketing year, MT 6006 plant product, 60 AGRI-FOODSTUFFS,,,,Mathias
+37,1980_0151_COM_1980_0427_XM_PACKAGE.txt,30,MT 6416 research and intellectual property,0.7738328106914991,ECSC,MT 1016 European construction,10 EUROPEAN UNION,2416,MT 2416 financial institutions and credit,24 FINANCE,Mathias
+,,163,MT 4021 management,0.04572279473882278, aid to industry, MT 1606 economic policy, 16 ECONOMICS,1606,MT 1606 economic policy,16 ECONOMICS,Mathias
+,,229,MT 2411 monetary economics,0.0995253321567219, interest rate subsidy, MT 2416 financial institutions and credit, 24 FINANCE,,,,Mathias
+38,1980_0160_COM_1980_0463_XM_PACKAGE.txt,93,MT 4026 accounting,0.30236105868570806,cooperation agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS,2016,MT 2016 trade,20 TRADE,Mathias
+,,150,MT 6416 research and intellectual property,0.13145721529531157, cooperation agreement (EU), MT 0811 cooperation policy, 10 EUROPEAN UNION,7221,MT 7221 Africa || MT 7231 economic geography,72 GEOGRAPHY,Mathias
+,,159,MT 5216 deterioration of the environment,0.12494946414939286, customs cooperation, MT 1016 European construction,,,,,Mathias
+39,1980_0203_COM_1980_0637_XM_PACKAGE.txt,61,MT 5211 natural environment,0.4700979067153652,authorised catch,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",5641,MT 5641 fisheries,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,128,MT 6416 research and intellectual property,0.10823860027675868, catch quota,,,7206,MT 7206 Europe || MT 7231 economic geography || MT 7236 political geography,72 GEOGRAPHY,Mathias
+,,163,MT 4021 management,0.21585619258824829, fishing area,,,,,,Mathias
+40,1980_0216_COM_1980_0673_XM_PACKAGE.txt,69,MT 4421 personnel management and staff remuneration,0.30671585323861017,Joint Research Centre,MT 1006 EU institutions and European civil service,10 EUROPEAN UNION,6621,MT 6621 electrical and nuclear industries,66 ENERGY,Mathias
+,,123,MT 6416 research and intellectual property,0.20716430579210593, research and development, MT 6416 research and intellectual property, 64 PRODUCTION,3606,MT 3606 natural and applied sciences,36 SCIENCE,Mathias
+,,145,MT 6021 beverages and sugar,0.16221963781286952, research programme,, TECHNOLOGY AND RESEARCH,,,,Mathias
+41,1980_0255_COM_1980_0808_XM_PACKAGE.txt,62,MT 6406 production,0.08323090487497353,nuclear energy,MT 6621 electrical and nuclear industries,66 ENERGY,6411,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH",Mathias
+,,101,Cannot retrieve field from null,0.1174492175555376, nuclear power station,,,6621,MT 6621 electrical and nuclear industries,66 ENERGY,Mathias
+,,224,MT 1016 European construction,0.37429466817170404, nuclear safety,,,,,,Mathias
+42,1980_0284_COM_1980_0914_XM_PACKAGE.txt,1,MT 1236 rights and freedoms,0.15762201207424228,doctor,MT 2841 health,28 SOCIAL QUESTIONS,4416,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS,Mathias
+,,56,MT 6606 energy policy,0.13566241689391276, recognition of diplomas, MT 3206 education, 32 EDUCATION AND COMMUNICATIONS,3606,MT 3606 natural and applied sciences,36 SCIENCE,Mathias
+,,84,MT 5641 fisheries,0.277066303230375, vocational training, MT 4406 employment, 44 EMPLOYMENT AND WORKING CONDITIONS,,,,Mathias
+43,1980_9004_COM_1980_0050_XM_PACKAGE.txt,24,MT 6016 processed agricultural produce,0.18503926822137595,EU financing,MT 1016 European construction,10 EUROPEAN UNION,1621,MT 1621 economic structure,16 ECONOMICS,Mathias
+,,118,MT 6021 beverages and sugar,0.19118984752402113, EU programme, MT 1021 EU finance,,1021,MT 1021 EU finance,10 EUROPEAN UNION,Mathias
+,,162,Cannot retrieve field from null,0.14166882872441197, Structural Funds,,,,,,Mathias
+44,1981_0037_COM_1981_0150_XM_PACKAGE.txt,76,MT 6006 plant product,0.23105200951163216,amending budget,MT 2441 budget,24 FINANCE,2436,MT 2436 public finance and budget policy,24 FINANCE,Mathias
+,,109,MT 6006 plant product,0.14850685645675002, commitment of expenditure,,,1021,MT 1021 EU finance,10 EUROPEAN UNION,Mathias
+,,167,Cannot retrieve field from null,0.10466430809369166, financial year,,,,,,Mathias
+45,1981_0084_COM_1981_0234_XM_PACKAGE.txt,65,MT 0811 cooperation policy,0.23950206389556394,hops,MT 1606 economic policy,16 ECONOMICS,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,147,MT 2011 tariff policy,0.1849688848557813, producer group, MT 5611 agricultural structures and production, 56 AGRICULTURE,5611,MT 5611 agricultural structures and production,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,210,MT 2416 financial institutions and credit,0.23758465700587983, production aid, MT 6006 plant product, 60 AGRI-FOODSTUFFS,,,,Mathias
+46,1981_0085_COM_1981_0243_XM_PACKAGE.txt,150,MT 6416 research and intellectual property,0.3284183489132781,cooperation agreement,MT 0806 international affairs,08 INTERNATIONAL RELATIONS,2451,MT 2451 prices,24 FINANCE,Mathias
+,,223,Cannot retrieve field from null,0.14513810709844477, cooperation agreement (EU), MT 1016 European construction, 10 EUROPEAN UNION,,,,Mathias
+,,225,MT 1016 European construction,0.1032210126326013, protocol to an agreement,,,,,,Mathias
+47,1981_0119_COM_1981_0388_XM_PACKAGE.txt,4,MT 6806 industrial structures and policy,0.1990030662994721,clothing,MT 6841 leather and textile industries,68 INDUSTRY,6841,MT 6841 leather and textile industries,68 INDUSTRY,Mathias
+,,101,Cannot retrieve field from null,0.15001908260081856, clothing industry,,,2021,MT 2021 international trade,20 TRADE,Mathias
+,,178,Cannot retrieve field from null,0.09184900308065559, textile product,,,4031,MT 4031 competition,40 BUSINESS AND COMPETITION,Mathias
+48,1981_0163_COM_1981_0543_XM_PACKAGE.txt,56,MT 6606 energy policy,0.26224832862748515,official language,MT 0431 politics and public safety,04 POLITICS,6006,MT 6006 plant product,60 AGRI-FOODSTUFFS,Mathias
+,,213,MT 1606 economic policy,0.3504055909404328, viticulture, MT 5631 agricultural activity, 56 AGRICULTURE,2016,MT 2016 trade,20 TRADE,Mathias
+,,225,MT 1016 European construction,0.12302382038023765, wine, MT 6021 beverages and sugar, 60 AGRI-FOODSTUFFS,,,,Mathias
+49,1981_0176_COM_1981_0574_XM_PACKAGE.txt,101,Cannot retrieve field from null,0.20098371411235932,EU programme,MT 0811 cooperation policy,08 INTERNATIONAL RELATIONS,6411,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH",Mathias
+,,118,MT 6021 beverages and sugar,0.1702310523364205, research and development, MT 1016 European construction, 10 EUROPEAN UNION,6416,MT 6416 research and intellectual property,"64 PRODUCTION, TECHNOLOGY AND RESEARCH",Mathias
+,,184,MT 2011 tariff policy,0.18193672116835724, scientific cooperation, MT 6416 research and intellectual property, 64 PRODUCTION,,,,Mathias
+,,,,,,, TECHNOLOGY AND RESEARCH,,,,Mathias
+50,1981_0187_COM_1981_0613_XM_PACKAGE.txt,163,MT 4021 management,0.171624541326059,European official,MT 0436 executive power and public service,04 POLITICS,4406,MT 4406 employment,44 EMPLOYMENT AND WORKING CONDITIONS,Mathias
+,,192,MT 2006 trade policy,0.4202912646083228, regulations for civil servants, MT 1006 EU institutions and European civil service, 10 EUROPEAN UNION,1621,MT 1621 economic structure,16 ECONOMICS,Mathias
+,,225,MT 1016 European construction,0.25621532711284534, servant (EU),,,,,,Mathias
+51,1981_0221_COM_1981_0775_XM_PACKAGE.txt,37,MT 1011 European Union law,0.3128257879543875,EU employment policy,MT 1021 EU finance,10 EUROPEAN UNION,4416,MT 4416 organisation of work and working conditions,44 EMPLOYMENT AND WORKING CONDITIONS,Mathias
+,,181,MT 6006 plant product,0.1679846826219182, European Social Fund, MT 4406 employment, 44 EMPLOYMENT AND WORKING CONDITIONS,2806,MT 2806 family,28 SOCIAL QUESTIONS,Mathias
+,,220,MT 1011 European Union law,0.12220961794804532, worker information, MT 4426 labour law and labour relations,,,,,Mathias
+52,1981_9001_COM_1981_0563_XM_PACKAGE.txt,65,MT 0811 cooperation policy,0.19346225249936422,common organisation of markets,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,78,MT 6406 production,0.152579197998235, milk, MT 6016 processed agricultural produce, 60 AGRI-FOODSTUFFS,5631,MT 5631 agricultural activity,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,230,MT 2006 trade policy,0.17034286240798635, milk product,,,,,,Mathias
+53,1982_0090_COM_1982_0219_XM_PACKAGE.txt,8,Cannot retrieve field from null,0.9396472340704011,common customs tariff,MT 2011 tariff policy,20 TRADE,6811,MT 6811 chemistry,68 INDUSTRY,Mathias
+,,110,MT 2016 trade,0.027184594261077694, computer equipment, MT 3236 information technology and data processing, 32 EDUCATION AND COMMUNICATIONS,6411,MT 6411 technology and technical regulations,"64 PRODUCTION, TECHNOLOGY AND RESEARCH",Mathias
+,,239,Cannot retrieve field from null,0.009140907675051827, tariff nomenclature,,,,,,Mathias
+54,1982_0158_COM_1982_0475_XM_PACKAGE.txt,142,MT 6006 plant product,0.17257672167867447,dried product,MT 2036 distributive trades,20 TRADE,5606,MT 5606 agricultural policy,"56 AGRICULTURE, FORESTRY AND FISHERIES",Mathias
+,,225,MT 1016 European construction,0.20403234530687098, marketing year, MT 5611 agricultural structures and production, 56 AGRICULTURE,,,,Mathias
+,,242,MT 2416 financial institutions and credit,0.11504677893996944, storage, MT 6026 foodstuff, 60 AGRI-FOODSTUFFS,,,,Mathias
+55,1982_0171_COM_1982_0518_XM_PACKAGE.txt,1,MT 1236 rights and freedoms,0.08929131118746829,fresh meat,MT 6011 animal product,60 AGRI-FOODSTUFFS,6011,MT 6011 animal product,60 AGRI-FOODSTUFFS,Mathias
+,,80,MT 1006 EU institutions and European civil service,0.41593637169738323, meat processing industry, MT 6026 foodstuff,,2016,MT 2016 trade,20 TRADE,Mathias
+,,159,MT 5216 deterioration of the environment,0.2191800722749987, meat product, MT 6031 agri-foodstuffs,,,,,Mathias
+56,1982_0199_COM_1982_0636_XM_PACKAGE.txt,239,Cannot retrieve field from null,0.13957163312078083,CCT duties,MT 1021 EU finance,10 EUROPEAN UNION,6016,MT 6016 processed agricultural produce,60 AGRI-FOODSTUFFS,Mathias
+,,244,MT 4016 legal form of organisations,0.6104028600019428, fruit product, MT 6026 foodstuff, 60 AGRI-FOODSTUFFS,,,,Mathias
+,,245,Cannot retrieve field from null,0.10338625021046328, preserved product,,,,,,Mathias
+57,1982_0205_COM_1982_0653_XM_PACKAGE.txt,101,Cannot retrieve field from null,0.12473129583032119,energy supply,MT 6606 energy policy,66 ENERGY,6626,MT 6626 soft energy,66 ENERGY,Mathias
+,,116,MT 6406 production,0.3587958046179499, gas, MT 6616 oil industry,,2026,MT 2026 consumption,20 TRADE,Mathias
+,,165,MT 0806 international affairs,0.10578722367620974, natural gas,,,0806,international affairs,04 POLITICS,Mathias
+58,1982_0209_COM_1982_0666_XM_PACKAGE.txt,165,MT 0806 international affairs,0.06462253261083575,flat product,MT 2006 trade policy,20 TRADE,6816,"MT 6816 iron, steel and other metal industries",68 INDUSTRY,Mathias
+,,188,MT 1606 economic policy,0.148510656864569, import policy, MT 6411 technology and technical regulations, 64 PRODUCTION,,,,Mathias
+,,204,MT 5206 environmental policy,0.3742442432687283, iron and steel product, MT 6816 iron, TECHNOLOGY AND RESEARCH,,,,Mathias
+,,,,,, steel and other metal industries, 68 INDUSTRY,,,,Mathias
+59,1982_9010_COM_1982_0662_XM_PACKAGE.txt,4,MT 6806 industrial structures and policy,0.15378272279367236,Japan,MT 3226 communications,32 EDUCATION AND COMMUNICATIONS,1616,MT 1616 regions and regional policy,16 ECONOMICS,Mathias
+,,147,MT 2011 tariff policy,0.08755690193197505, microelectronics, MT 6826 electronics and electrical engineering, 68 INDUSTRY,7226,MT 7226 Asia and Oceania,72 GEOGRAPHY,Mathias
+,,162,Cannot retrieve field from null,0.1704600232404804, recording equipment, MT 7226 Asia and Oceania , 72 GEOGRAPHY,,,,Mathias
+,,,,,, MT 7231 economic geography,,,,,Mathias
