@@ -21,5 +21,4 @@ terms_matched <- data %>%
 
 terms_matched
 
-<<test_1>>
   
